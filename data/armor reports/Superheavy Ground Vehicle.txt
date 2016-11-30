@@ -1,0 +1,137 @@
+Front Turret
+64
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)
+Rear
+7
+	SturmFeur “Kalki” Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/XTRs/Corporations/SturmFeur Kalki Cruise Missile Launcher.blk)
+11
+	Burke II Superheavy Tank (Standard) (data/mechfiles/vehicles/XTRs/Gunslingers/Burke II Superheavy Tank (Standard).blk)
+16
+	Kalki Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/ProtoTypes/Kalki Cruise Missile Launcher.blk)
+26
+	Paladin Defense System (Standard) (data/mechfiles/vehicles/3145/Davion/Paladin Defense System (Standard).blk)
+35
+	Destrier Siege Vehicle (Standard) (data/mechfiles/vehicles/3145/Davion/Destrier Siege Vehicle (Standard).blk)
+50
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)
+59
+	Teppo Artillery Vehicle (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Teppo Artillery Vehicle (Standard).blk)
+60
+	Soarece Superheavy MBT (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Soarece Super Heavy MBT.blk)
+Front
+13
+	SturmFeur “Kalki” Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/XTRs/Corporations/SturmFeur Kalki Cruise Missile Launcher.blk)
+20
+	Kalki Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/ProtoTypes/Kalki Cruise Missile Launcher.blk)
+22
+	Burke II Superheavy Tank (Standard) (data/mechfiles/vehicles/XTRs/Gunslingers/Burke II Superheavy Tank (Standard).blk)
+56
+	Paladin Defense System (Standard) (data/mechfiles/vehicles/3145/Davion/Paladin Defense System (Standard).blk)
+60
+	Destrier Siege Vehicle (Standard) (data/mechfiles/vehicles/3145/Davion/Destrier Siege Vehicle (Standard).blk)
+	Teppo Artillery Vehicle (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Teppo Artillery Vehicle (Standard).blk)
+110
+	Soarece Superheavy MBT (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Soarece Super Heavy MBT.blk)
+136
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)
+Front Right
+12
+	SturmFeur “Kalki” Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/XTRs/Corporations/SturmFeur Kalki Cruise Missile Launcher.blk)
+14
+	Burke II Superheavy Tank (Standard) (data/mechfiles/vehicles/XTRs/Gunslingers/Burke II Superheavy Tank (Standard).blk)
+16
+	Kalki Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/ProtoTypes/Kalki Cruise Missile Launcher.blk)
+27
+	Paladin Defense System (Standard) (data/mechfiles/vehicles/3145/Davion/Paladin Defense System (Standard).blk)
+45
+	Destrier Siege Vehicle (Standard) (data/mechfiles/vehicles/3145/Davion/Destrier Siege Vehicle (Standard).blk)
+60
+	Teppo Artillery Vehicle (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Teppo Artillery Vehicle (Standard).blk)
+92
+	Soarece Superheavy MBT (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Soarece Super Heavy MBT.blk)
+104
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)
+Front Left
+12
+	SturmFeur “Kalki” Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/XTRs/Corporations/SturmFeur Kalki Cruise Missile Launcher.blk)
+14
+	Burke II Superheavy Tank (Standard) (data/mechfiles/vehicles/XTRs/Gunslingers/Burke II Superheavy Tank (Standard).blk)
+16
+	Kalki Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/ProtoTypes/Kalki Cruise Missile Launcher.blk)
+27
+	Paladin Defense System (Standard) (data/mechfiles/vehicles/3145/Davion/Paladin Defense System (Standard).blk)
+45
+	Destrier Siege Vehicle (Standard) (data/mechfiles/vehicles/3145/Davion/Destrier Siege Vehicle (Standard).blk)
+60
+	Teppo Artillery Vehicle (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Teppo Artillery Vehicle (Standard).blk)
+92
+	Soarece Superheavy MBT (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Soarece Super Heavy MBT.blk)
+104
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)
+Rear Left
+12
+	SturmFeur “Kalki” Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/XTRs/Corporations/SturmFeur Kalki Cruise Missile Launcher.blk)
+14
+	Burke II Superheavy Tank (Standard) (data/mechfiles/vehicles/XTRs/Gunslingers/Burke II Superheavy Tank (Standard).blk)
+16
+	Kalki Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/ProtoTypes/Kalki Cruise Missile Launcher.blk)
+27
+	Paladin Defense System (Standard) (data/mechfiles/vehicles/3145/Davion/Paladin Defense System (Standard).blk)
+35
+	Destrier Siege Vehicle (Standard) (data/mechfiles/vehicles/3145/Davion/Destrier Siege Vehicle (Standard).blk)
+60
+	Teppo Artillery Vehicle (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Teppo Artillery Vehicle (Standard).blk)
+90
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)
+92
+	Soarece Superheavy MBT (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Soarece Super Heavy MBT.blk)
+Turret
+12
+	SturmFeur “Kalki” Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/XTRs/Corporations/SturmFeur Kalki Cruise Missile Launcher.blk)
+	Kalki Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/ProtoTypes/Kalki Cruise Missile Launcher.blk)
+18
+	Burke II Superheavy Tank (Standard) (data/mechfiles/vehicles/XTRs/Gunslingers/Burke II Superheavy Tank (Standard).blk)
+38
+	Paladin Defense System (Standard) (data/mechfiles/vehicles/3145/Davion/Paladin Defense System (Standard).blk)
+41
+	Destrier Siege Vehicle (Standard) (data/mechfiles/vehicles/3145/Davion/Destrier Siege Vehicle (Standard).blk)
+57
+	Teppo Artillery Vehicle (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Teppo Artillery Vehicle (Standard).blk)
+110
+	Soarece Superheavy MBT (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Soarece Super Heavy MBT.blk)
+Rear Right
+12
+	SturmFeur “Kalki” Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/XTRs/Corporations/SturmFeur Kalki Cruise Missile Launcher.blk)
+14
+	Burke II Superheavy Tank (Standard) (data/mechfiles/vehicles/XTRs/Gunslingers/Burke II Superheavy Tank (Standard).blk)
+16
+	Kalki Cruise Missile Launcher (Standard) (data/mechfiles/vehicles/ProtoTypes/Kalki Cruise Missile Launcher.blk)
+27
+	Paladin Defense System (Standard) (data/mechfiles/vehicles/3145/Davion/Paladin Defense System (Standard).blk)
+35
+	Destrier Siege Vehicle (Standard) (data/mechfiles/vehicles/3145/Davion/Destrier Siege Vehicle (Standard).blk)
+60
+	Teppo Artillery Vehicle (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Teppo Artillery Vehicle (Standard).blk)
+90
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)
+92
+	Soarece Superheavy MBT (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Soarece Super Heavy MBT.blk)
+Rear Turret
+66
+	Gulltoppr OmniMonitor (A) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (A).blk)
+	Gulltoppr OmniMonitor (B) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (B).blk)
+	Gulltoppr OmniMonitor (Prime) (data/mechfiles/vehicles/3145/Steiner/Gulltoppr OmniMonitor (Prime).blk)

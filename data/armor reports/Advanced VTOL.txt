@@ -1,0 +1,137 @@
+Rear
+2
+	Lexan Surveillance VTOL (Production) (data/mechfiles/vehicles/ProtoTypes/Lexan Surveillance VTOL.blk)
+3
+	Hawk Moth Gunship 'Vedwandlung' (data/mechfiles/vehicles/XTRs/Most Wanted/Hawk Moth Verwandlung.blk)
+5
+	Cyrano Gunship (Fury) (data/mechfiles/vehicles/XTRs/Gunslingers/Cyrano Gunship (Fury).blk)
+8
+	Red Kite Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Marik/Red Kite Attack VTOL (Standard).blk)
+10
+	Strix Stealth VTOL (Standard) (data/mechfiles/vehicles/XTRs/Republic I/Strix Stealth VTOL (Standard).blk)
+	Cavalry Attack Helicopter (Infiltrator) (data/mechfiles/vehicles/ProtoTypes/Cavalry (Infiltrator).blk)
+14
+	Garrot Superheavy Transport (Standard) (data/mechfiles/vehicles/3145/Merc/Garrot Superheavy Transport.blk)
+16
+	DI Multipurpose VTOL (Gunship) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Gunship).blk)
+	DI Multipurpose VTOL (Standard) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Standard).blk)
+	Hawk Moth II Gunship (Standard) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Standard).blk)
+	Hawk Moth II Gunship (MML) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (MML).blk)
+	Hawk Moth II Gunship (Sniper) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Sniper).blk)
+	Skadi Swift Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Clans/Skadi Swift Attack VTOL (Standard).blk)
+22
+	Garuda Heavy VTOL (Standard) (data/mechfiles/vehicles/ProtoTypes/Garuda Heavy VTOL.blk)
+Left
+3
+	Lexan Surveillance VTOL (Production) (data/mechfiles/vehicles/ProtoTypes/Lexan Surveillance VTOL.blk)
+5
+	Cyrano Gunship (Fury) (data/mechfiles/vehicles/XTRs/Gunslingers/Cyrano Gunship (Fury).blk)
+6
+	Hawk Moth Gunship 'Vedwandlung' (data/mechfiles/vehicles/XTRs/Most Wanted/Hawk Moth Verwandlung.blk)
+10
+	Red Kite Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Marik/Red Kite Attack VTOL (Standard).blk)
+12
+	Cavalry Attack Helicopter (Infiltrator) (data/mechfiles/vehicles/ProtoTypes/Cavalry (Infiltrator).blk)
+13
+	Strix Stealth VTOL (Standard) (data/mechfiles/vehicles/XTRs/Republic I/Strix Stealth VTOL (Standard).blk)
+16
+	Hawk Moth II Gunship (Standard) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Standard).blk)
+	Hawk Moth II Gunship (MML) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (MML).blk)
+	Hawk Moth II Gunship (Sniper) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Sniper).blk)
+	Skadi Swift Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Clans/Skadi Swift Attack VTOL (Standard).blk)
+20
+	Garrot Superheavy Transport (Standard) (data/mechfiles/vehicles/3145/Merc/Garrot Superheavy Transport.blk)
+22
+	DI Multipurpose VTOL (Gunship) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Gunship).blk)
+	DI Multipurpose VTOL (Standard) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Standard).blk)
+25
+	Garuda Heavy VTOL (Standard) (data/mechfiles/vehicles/ProtoTypes/Garuda Heavy VTOL.blk)
+Front
+5
+	Lexan Surveillance VTOL (Production) (data/mechfiles/vehicles/ProtoTypes/Lexan Surveillance VTOL.blk)
+10
+	Cyrano Gunship (Fury) (data/mechfiles/vehicles/XTRs/Gunslingers/Cyrano Gunship (Fury).blk)
+11
+	Hawk Moth Gunship 'Vedwandlung' (data/mechfiles/vehicles/XTRs/Most Wanted/Hawk Moth Verwandlung.blk)
+16
+	Red Kite Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Marik/Red Kite Attack VTOL (Standard).blk)
+18
+	Hawk Moth II Gunship (Standard) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Standard).blk)
+	Hawk Moth II Gunship (MML) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (MML).blk)
+	Hawk Moth II Gunship (Sniper) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Sniper).blk)
+	Strix Stealth VTOL (Standard) (data/mechfiles/vehicles/XTRs/Republic I/Strix Stealth VTOL (Standard).blk)
+20
+	Cavalry Attack Helicopter (Infiltrator) (data/mechfiles/vehicles/ProtoTypes/Cavalry (Infiltrator).blk)
+23
+	Skadi Swift Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Clans/Skadi Swift Attack VTOL (Standard).blk)
+28
+	DI Multipurpose VTOL (Gunship) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Gunship).blk)
+	DI Multipurpose VTOL (Standard) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Standard).blk)
+30
+	Garrot Superheavy Transport (Standard) (data/mechfiles/vehicles/3145/Merc/Garrot Superheavy Transport.blk)
+	Garuda Heavy VTOL (Standard) (data/mechfiles/vehicles/ProtoTypes/Garuda Heavy VTOL.blk)
+Right
+3
+	Lexan Surveillance VTOL (Production) (data/mechfiles/vehicles/ProtoTypes/Lexan Surveillance VTOL.blk)
+5
+	Cyrano Gunship (Fury) (data/mechfiles/vehicles/XTRs/Gunslingers/Cyrano Gunship (Fury).blk)
+6
+	Hawk Moth Gunship 'Vedwandlung' (data/mechfiles/vehicles/XTRs/Most Wanted/Hawk Moth Verwandlung.blk)
+10
+	Red Kite Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Marik/Red Kite Attack VTOL (Standard).blk)
+12
+	Cavalry Attack Helicopter (Infiltrator) (data/mechfiles/vehicles/ProtoTypes/Cavalry (Infiltrator).blk)
+13
+	Strix Stealth VTOL (Standard) (data/mechfiles/vehicles/XTRs/Republic I/Strix Stealth VTOL (Standard).blk)
+16
+	Hawk Moth II Gunship (Standard) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Standard).blk)
+	Hawk Moth II Gunship (MML) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (MML).blk)
+	Hawk Moth II Gunship (Sniper) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Sniper).blk)
+	Skadi Swift Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Clans/Skadi Swift Attack VTOL (Standard).blk)
+20
+	Garrot Superheavy Transport (Standard) (data/mechfiles/vehicles/3145/Merc/Garrot Superheavy Transport.blk)
+22
+	DI Multipurpose VTOL (Gunship) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Gunship).blk)
+	DI Multipurpose VTOL (Standard) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Standard).blk)
+25
+	Garuda Heavy VTOL (Standard) (data/mechfiles/vehicles/ProtoTypes/Garuda Heavy VTOL.blk)
+Rotor
+2
+	DI Multipurpose VTOL (Gunship) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Gunship).blk)
+	DI Multipurpose VTOL (Standard) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Standard).blk)
+	Garrot Superheavy Transport (Standard) (data/mechfiles/vehicles/3145/Merc/Garrot Superheavy Transport.blk)
+	Hawk Moth II Gunship (Standard) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Standard).blk)
+	Hawk Moth II Gunship (MML) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (MML).blk)
+	Hawk Moth II Gunship (Sniper) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Sniper).blk)
+	Red Kite Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Marik/Red Kite Attack VTOL (Standard).blk)
+	Skadi Swift Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Clans/Skadi Swift Attack VTOL (Standard).blk)
+	Hawk Moth Gunship 'Vedwandlung' (data/mechfiles/vehicles/XTRs/Most Wanted/Hawk Moth Verwandlung.blk)
+	Strix Stealth VTOL (Standard) (data/mechfiles/vehicles/XTRs/Republic I/Strix Stealth VTOL (Standard).blk)
+	Cyrano Gunship (Fury) (data/mechfiles/vehicles/XTRs/Gunslingers/Cyrano Gunship (Fury).blk)
+	Garuda Heavy VTOL (Standard) (data/mechfiles/vehicles/ProtoTypes/Garuda Heavy VTOL.blk)
+	Lexan Surveillance VTOL (Production) (data/mechfiles/vehicles/ProtoTypes/Lexan Surveillance VTOL.blk)
+	Cavalry Attack Helicopter (Infiltrator) (data/mechfiles/vehicles/ProtoTypes/Cavalry (Infiltrator).blk)
+Turret
+2
+	Lexan Surveillance VTOL (Production) (data/mechfiles/vehicles/ProtoTypes/Lexan Surveillance VTOL.blk)
+7
+	Cyrano Gunship (Fury) (data/mechfiles/vehicles/XTRs/Gunslingers/Cyrano Gunship (Fury).blk)
+8
+	Strix Stealth VTOL (Standard) (data/mechfiles/vehicles/XTRs/Republic I/Strix Stealth VTOL (Standard).blk)
+	Cavalry Attack Helicopter (Infiltrator) (data/mechfiles/vehicles/ProtoTypes/Cavalry (Infiltrator).blk)
+11
+	Hawk Moth II Gunship (Standard) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Standard).blk)
+	Hawk Moth II Gunship (MML) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (MML).blk)
+	Hawk Moth II Gunship (Sniper) (data/mechfiles/vehicles/3145/Republic/Hawk Moth II Gunship (Sniper).blk)
+	Hawk Moth Gunship 'Vedwandlung' (data/mechfiles/vehicles/XTRs/Most Wanted/Hawk Moth Verwandlung.blk)
+13
+	Skadi Swift Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Clans/Skadi Swift Attack VTOL (Standard).blk)
+16
+	Red Kite Attack VTOL (Standard) (data/mechfiles/vehicles/3145/Marik/Red Kite Attack VTOL (Standard).blk)
+18
+	Garrot Superheavy Transport (Standard) (data/mechfiles/vehicles/3145/Merc/Garrot Superheavy Transport.blk)
+19
+	DI Multipurpose VTOL (Gunship) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Gunship).blk)
+	DI Multipurpose VTOL (Standard) (data/mechfiles/vehicles/3145/Steiner/DI Multipurpose VTOL (Standard).blk)
+20
+	Garuda Heavy VTOL (Standard) (data/mechfiles/vehicles/ProtoTypes/Garuda Heavy VTOL.blk)

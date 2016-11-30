@@ -1,0 +1,39 @@
+Head
+12
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)
+Right Leg
+62
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+80
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)
+Right Torso
+45
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+61
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)
+Left Leg
+62
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+80
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)
+Right Arm
+44
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+61
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)
+Left Arm
+44
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+61
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)
+Center Torso
+60
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+90
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)
+Left Torso
+45
+	'OMEGA' SHP-4X (data/mechfiles/mechs/Jihad Final Reckoning/OMEGA SHP-4X.mtf)
+61
+	Orca OC-1X (data/mechfiles/mechs/XTRs/Republic II/Orca OC-1X.mtf)

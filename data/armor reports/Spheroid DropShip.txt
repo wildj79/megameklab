@@ -1,0 +1,521 @@
+Nose
+50
+	Behemoth (Standard) (data/mechfiles/dropships/3057r/IS/Behemoth.blk)
+70
+	Mule (Standard) (data/mechfiles/dropships/3057r/IS/Mule.blk)
+	Mule (Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship).blk)
+73
+	Aqueduct Liquid Carrier (Standard) (data/mechfiles/dropships/HBMPS/Aqueduct Liquid Carrier.blk)
+80
+	Mammoth (Standard) (data/mechfiles/dropships/3057r/IS/Mammoth.blk)
+	Manatee (Standard) (data/mechfiles/dropships/3075/Manatee.blk)
+	Manatee (Cargo) (data/mechfiles/dropships/3075/Manatee (Cargo).blk)
+82
+	Cargoking (Standard) (data/mechfiles/dropships/IS/CargoKing.blk)
+	Cargomaster (Standard) (data/mechfiles/dropships/IS/CargoMaster.blk)
+87
+	Princess Luxury Liner (Cargo) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner (Cargo).blk)
+	Princess Luxury Liner (Standard) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner.blk)
+98
+	Czar Dropship (Standard) (data/mechfiles/dropships/XTRs/Primitives III/Czar Dropship.blk)
+105
+	Danais (Standard) (data/mechfiles/dropships/JS Blake Documents/Danais.blk)
+	Trojan (Blockade Runner) (data/mechfiles/dropships/JS Blake Documents/Trojan (Blockade Runner).blk)
+135
+	Jumbo (Standard) (data/mechfiles/dropships/Hist Reunification War/Jumbo.blk)
+140
+	Hercules (Standard) (data/mechfiles/dropships/3057r/IS/Hercules.blk)
+	Seeker (3054) (data/mechfiles/dropships/3057r/IS/Seeker (3054).blk)
+	Seeker (2815) (data/mechfiles/dropships/3057r/IS/Seeker (2815).blk)
+145
+	Vulture (Cargo) (data/mechfiles/dropships/3075/Vulture (Cargo).blk)
+	Vulture (Standard) (data/mechfiles/dropships/3075/Vulture.blk)
+150
+	Rose (Bara no Ryu) (Hive) (data/mechfiles/dropships/3085/ONN/Rose (Hive).blk)
+	Rose (Bara no Ryu) (Standard) (data/mechfiles/dropships/3057r/IS/Rose (Bara no Ryu).blk)
+	Model 97 'Octopus' (Standard) (data/mechfiles/dropships/3057r/IS/Model 97 'Octopus'.blk)
+170
+	Intruder (2655) (data/mechfiles/dropships/3057r/IS/Intruder (2655).blk)
+176
+	Mule (Star League Pocket Warship) (data/mechfiles/dropships/3075/Mule SL Pocket Warship.blk)
+	Mule (Armored Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship) Armored.blk)
+180
+	Union (2708) (data/mechfiles/dropships/3057r/IS/Union (2708).blk)
+	Confederate (2703) (data/mechfiles/dropships/3057r/IS/Confederate (2703).blk)
+	Confederate (2602) (data/mechfiles/dropships/3057r/IS/Confederate (2602).blk)
+	Union (3055) (data/mechfiles/dropships/3057r/IS/Union (3055).blk)
+	Confederate (Clan) (data/mechfiles/dropships/3057r/Clan/Confederate (Clan).blk)
+182
+	Union 'Pocket Warship' (data/mechfiles/dropships/3075/Union Pocket Warship.blk)
+190
+	Union-X (3065) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3065).blk)
+	Union-X (3071) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3071).blk)
+191
+	Black Eagle (Standard) (data/mechfiles/dropships/XTRs/Primitives II/Black Eagle Dropship.blk)
+200
+	Excalibur (3056) (data/mechfiles/dropships/3057r/IS/Excalibur (3056).blk)
+	Excalibur (2786) (data/mechfiles/dropships/3057r/IS/Excalibur (2786).blk)
+	Okinawa (Standard) (data/mechfiles/dropships/3057r/IS/Okinawa.blk)
+	Sassanid (Standard) (data/mechfiles/dropships/3057r/Clan/Sassanid.blk)
+	Miraborg (Standard) (data/mechfiles/dropships/3057r/Clan/Miraborg.blk)
+	Excalibur (Pocket Warship) (data/mechfiles/dropships/3075/Excalibur Pocket Warship.blk)
+205
+	Dictator (Standard) (data/mechfiles/dropships/3075/Dictator.blk)
+	Dictator (Command) (data/mechfiles/dropships/3075/Dictator (Command).blk)
+208
+	Gaajian System Patrol Boat (3060) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (3060).blk)
+	Gaajian System Patrol Boat (2485) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (2485).blk)
+220
+	Fortress (2613) (data/mechfiles/dropships/3057r/IS/Fortress (2613).blk)
+	Overlord (2762) (data/mechfiles/dropships/3057r/IS/Overlord (2762).blk)
+	Overlord (3056) (data/mechfiles/dropships/3057r/IS/Overlord (3056).blk)
+	Lion (2595) (data/mechfiles/dropships/3057r/IS/Lion (2595).blk)
+	Fortress (3058) (data/mechfiles/dropships/3057r/IS/Fortress (3058).blk)
+	Lion (Wolf's Dragoons 3052) (data/mechfiles/dropships/3057r/Clan/Lion (Wolf's Dragoons 3052).blk)
+	Lion (Clan) (data/mechfiles/dropships/3057r/Clan/Lion (Clan).blk)
+222
+	Polaris (Standard) (data/mechfiles/dropships/Hist WOTRA/Polaris Dropship.BLK)
+250
+	Merlin Ngake (data/mechfiles/dropships/XTRs/Marik/Merlin Ngake.blk)
+	Merlin (3063) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Merlin.blk)
+	Merlin R1 (data/mechfiles/dropships/ProtoTypes/Merlin R1.blk)
+252
+	Colossus Mk I (data/mechfiles/dropships/3075/Colossus Mk I.blk)
+	Colossus (Standard) (data/mechfiles/dropships/3075/Colossus (Standard).blk)
+280
+	Union C (data/mechfiles/dropships/3057r/Clan/Union C.blk)
+310
+	Nekohono'o (SCL) (data/mechfiles/dropships/3085/ONN/Nekohono'o (SCL).blk)
+	Nekohono'o (HQ) (data/mechfiles/dropships/XTRs/Kurita/Nekohonoo HQ.blk)
+	Nekohono'o (Standard) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Nekohonoo.blk)
+321
+	Trutzburg (Standard) (data/mechfiles/dropships/3145/Steiner/Trutzburg.blk)
+350
+	Overlord C (data/mechfiles/dropships/3057r/Clan/Overlord C.blk)
+	Mercer (3065) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Mercer (3065).blk)
+352
+	Arondight Pocket Warship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship.blk)
+	Arondight Pocket Warship (SCC) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (SCC).blk)
+	Arondight Pocket Warship (Refit) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (Refit).blk)
+360
+	Intruder (3056) (data/mechfiles/dropships/3057r/IS/Intruder (3056).blk)
+	Outpost (3063) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3063).blk)
+	Outpost (3070) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3070).blk)
+	Outpost (Defender) (data/mechfiles/dropships/ProtoTypes/Outpost Defender.blk)
+368
+	M3 Drone (data/mechfiles/dropships/Hist LOT I/M3 Drone.blk)
+	Pentagon (2751) (data/mechfiles/dropships/3075/Pentagon (2751).blk)
+	Pentagon Mk I (data/mechfiles/dropships/3075/Pentagon (2540).blk)
+	Pentagon (Standard) (data/mechfiles/dropships/3075/Pentagon (2623).blk)
+	Pentagon 'Pocket Warship' (data/mechfiles/dropships/3075/Pentagon Pocket Warship.blk)
+371
+	Model 96C 'Howdah' (data/mechfiles/dropships/Hist LOT I/Model 96C  'Howdah'.blk)
+	Model 96 'Elephant' Mk I (data/mechfiles/dropships/3075/Model 96 'Elephant' Mk I.blk)
+	Model 96 'Elephant' (Standard) (data/mechfiles/dropships/3075/Model 96 'Elephant'.blk)
+440
+	Lee (2756) (data/mechfiles/dropships/Hist LOT I/Lee.blk)
+520
+	Duat Military Transport (Standard) (data/mechfiles/dropships/3145/Republic/Duat Military Transport.blk)
+522
+	Overlord A3A (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3A.blk)
+	Overlord A3 (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3.blk)
+536
+	Vanir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Vanir Assault Dropship.blk)
+	Aesir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Aesir Assault Dropship.blk)
+810
+	Tiamat Pocket Warship (Standard) (data/mechfiles/dropships/3085/Supplemental/Tiamat Pocket Warship.blk)
+	Tiamat II (3112) (data/mechfiles/dropships/3145/NTNU RS/Tiamat II (3112).blk)
+	Tiamat Pocket Warship (CASPAR II Drone) (data/mechfiles/dropships/JHS Terra/Tiamat Caspar II Drone.blk)
+1305
+	Castrum Pocket WarShip (Standard) (data/mechfiles/dropships/XTRs/Republic I/Castrum Pocket Warship.blk)
+Right Side
+50
+	Behemoth (Standard) (data/mechfiles/dropships/3057r/IS/Behemoth.blk)
+60
+	Mammoth (Standard) (data/mechfiles/dropships/3057r/IS/Mammoth.blk)
+62
+	Aqueduct Liquid Carrier (Standard) (data/mechfiles/dropships/HBMPS/Aqueduct Liquid Carrier.blk)
+70
+	Manatee (Standard) (data/mechfiles/dropships/3075/Manatee.blk)
+	Manatee (Cargo) (data/mechfiles/dropships/3075/Manatee (Cargo).blk)
+72
+	Cargoking (Standard) (data/mechfiles/dropships/IS/CargoKing.blk)
+	Cargomaster (Standard) (data/mechfiles/dropships/IS/CargoMaster.blk)
+74
+	Czar Dropship (Standard) (data/mechfiles/dropships/XTRs/Primitives III/Czar Dropship.blk)
+75
+	Princess Luxury Liner (Cargo) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner (Cargo).blk)
+	Princess Luxury Liner (Standard) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner.blk)
+80
+	Mule (Standard) (data/mechfiles/dropships/3057r/IS/Mule.blk)
+	Mule (Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship).blk)
+105
+	Danais (Standard) (data/mechfiles/dropships/JS Blake Documents/Danais.blk)
+	Trojan (Blockade Runner) (data/mechfiles/dropships/JS Blake Documents/Trojan (Blockade Runner).blk)
+115
+	Vulture (Cargo) (data/mechfiles/dropships/3075/Vulture (Cargo).blk)
+	Vulture (Standard) (data/mechfiles/dropships/3075/Vulture.blk)
+120
+	Rose (Bara no Ryu) (Hive) (data/mechfiles/dropships/3085/ONN/Rose (Hive).blk)
+	Rose (Bara no Ryu) (Standard) (data/mechfiles/dropships/3057r/IS/Rose (Bara no Ryu).blk)
+	Hercules (Standard) (data/mechfiles/dropships/3057r/IS/Hercules.blk)
+	Seeker (3054) (data/mechfiles/dropships/3057r/IS/Seeker (3054).blk)
+	Seeker (2815) (data/mechfiles/dropships/3057r/IS/Seeker (2815).blk)
+134
+	Jumbo (Standard) (data/mechfiles/dropships/Hist Reunification War/Jumbo.blk)
+150
+	Model 97 'Octopus' (Standard) (data/mechfiles/dropships/3057r/IS/Model 97 'Octopus'.blk)
+	Okinawa (Standard) (data/mechfiles/dropships/3057r/IS/Okinawa.blk)
+	Sassanid (Standard) (data/mechfiles/dropships/3057r/Clan/Sassanid.blk)
+153
+	Intruder (2655) (data/mechfiles/dropships/3057r/IS/Intruder (2655).blk)
+154
+	Mule (Star League Pocket Warship) (data/mechfiles/dropships/3075/Mule SL Pocket Warship.blk)
+	Mule (Armored Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship) Armored.blk)
+160
+	Confederate (2703) (data/mechfiles/dropships/3057r/IS/Confederate (2703).blk)
+	Confederate (2602) (data/mechfiles/dropships/3057r/IS/Confederate (2602).blk)
+	Confederate (Clan) (data/mechfiles/dropships/3057r/Clan/Confederate (Clan).blk)
+170
+	Union (3055) (data/mechfiles/dropships/3057r/IS/Union (3055).blk)
+171
+	Black Eagle (Standard) (data/mechfiles/dropships/XTRs/Primitives II/Black Eagle Dropship.blk)
+	Union 'Pocket Warship' (data/mechfiles/dropships/3075/Union Pocket Warship.blk)
+180
+	Excalibur (3056) (data/mechfiles/dropships/3057r/IS/Excalibur (3056).blk)
+	Union (2708) (data/mechfiles/dropships/3057r/IS/Union (2708).blk)
+	Excalibur (2786) (data/mechfiles/dropships/3057r/IS/Excalibur (2786).blk)
+	Miraborg (Standard) (data/mechfiles/dropships/3057r/Clan/Miraborg.blk)
+	Excalibur (Pocket Warship) (data/mechfiles/dropships/3075/Excalibur Pocket Warship.blk)
+	Union-X (3065) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3065).blk)
+	Union-X (3071) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3071).blk)
+182
+	Gaajian System Patrol Boat (3060) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (3060).blk)
+	Gaajian System Patrol Boat (2485) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (2485).blk)
+	Dictator (Standard) (data/mechfiles/dropships/3075/Dictator.blk)
+	Dictator (Command) (data/mechfiles/dropships/3075/Dictator (Command).blk)
+191
+	Lion (2595) (data/mechfiles/dropships/3057r/IS/Lion (2595).blk)
+	Lion (Wolf's Dragoons 3052) (data/mechfiles/dropships/3057r/Clan/Lion (Wolf's Dragoons 3052).blk)
+	Lion (Clan) (data/mechfiles/dropships/3057r/Clan/Lion (Clan).blk)
+195
+	Polaris (Standard) (data/mechfiles/dropships/Hist WOTRA/Polaris Dropship.BLK)
+200
+	Merlin Ngake (data/mechfiles/dropships/XTRs/Marik/Merlin Ngake.blk)
+	Merlin (3063) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Merlin.blk)
+	Merlin R1 (data/mechfiles/dropships/ProtoTypes/Merlin R1.blk)
+210
+	Fortress (2613) (data/mechfiles/dropships/3057r/IS/Fortress (2613).blk)
+	Overlord (2762) (data/mechfiles/dropships/3057r/IS/Overlord (2762).blk)
+	Overlord (3056) (data/mechfiles/dropships/3057r/IS/Overlord (3056).blk)
+	Fortress (3058) (data/mechfiles/dropships/3057r/IS/Fortress (3058).blk)
+	Union C (data/mechfiles/dropships/3057r/Clan/Union C.blk)
+221
+	Colossus Mk I (data/mechfiles/dropships/3075/Colossus Mk I.blk)
+	Colossus (Standard) (data/mechfiles/dropships/3075/Colossus (Standard).blk)
+236
+	Nekohono'o (SCL) (data/mechfiles/dropships/3085/ONN/Nekohono'o (SCL).blk)
+	Nekohono'o (HQ) (data/mechfiles/dropships/XTRs/Kurita/Nekohonoo HQ.blk)
+	Nekohono'o (Standard) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Nekohonoo.blk)
+270
+	Trutzburg (Standard) (data/mechfiles/dropships/3145/Steiner/Trutzburg.blk)
+300
+	Overlord C (data/mechfiles/dropships/3057r/Clan/Overlord C.blk)
+322
+	Arondight Pocket Warship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship.blk)
+	Arondight Pocket Warship (SCC) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (SCC).blk)
+	Arondight Pocket Warship (Refit) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (Refit).blk)
+323
+	M3 Drone (data/mechfiles/dropships/Hist LOT I/M3 Drone.blk)
+	Pentagon (2751) (data/mechfiles/dropships/3075/Pentagon (2751).blk)
+	Pentagon Mk I (data/mechfiles/dropships/3075/Pentagon (2540).blk)
+	Pentagon (Standard) (data/mechfiles/dropships/3075/Pentagon (2623).blk)
+	Pentagon 'Pocket Warship' (data/mechfiles/dropships/3075/Pentagon Pocket Warship.blk)
+325
+	Model 96C 'Howdah' (data/mechfiles/dropships/Hist LOT I/Model 96C  'Howdah'.blk)
+	Model 96 'Elephant' Mk I (data/mechfiles/dropships/3075/Model 96 'Elephant' Mk I.blk)
+	Model 96 'Elephant' (Standard) (data/mechfiles/dropships/3075/Model 96 'Elephant'.blk)
+330
+	Mercer (3065) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Mercer (3065).blk)
+340
+	Intruder (3056) (data/mechfiles/dropships/3057r/IS/Intruder (3056).blk)
+355
+	Outpost (3063) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3063).blk)
+	Outpost (3070) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3070).blk)
+	Outpost (Defender) (data/mechfiles/dropships/ProtoTypes/Outpost Defender.blk)
+410
+	Lee (2756) (data/mechfiles/dropships/Hist LOT I/Lee.blk)
+490
+	Overlord A3A (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3A.blk)
+	Overlord A3 (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3.blk)
+500
+	Vanir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Vanir Assault Dropship.blk)
+	Aesir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Aesir Assault Dropship.blk)
+505
+	Duat Military Transport (Standard) (data/mechfiles/dropships/3145/Republic/Duat Military Transport.blk)
+750
+	Tiamat Pocket Warship (Standard) (data/mechfiles/dropships/3085/Supplemental/Tiamat Pocket Warship.blk)
+	Tiamat II (3112) (data/mechfiles/dropships/3145/NTNU RS/Tiamat II (3112).blk)
+	Tiamat Pocket Warship (CASPAR II Drone) (data/mechfiles/dropships/JHS Terra/Tiamat Caspar II Drone.blk)
+1153
+	Castrum Pocket WarShip (Standard) (data/mechfiles/dropships/XTRs/Republic I/Castrum Pocket Warship.blk)
+Aft
+50
+	Mammoth (Standard) (data/mechfiles/dropships/3057r/IS/Mammoth.blk)
+	Czar Dropship (Standard) (data/mechfiles/dropships/XTRs/Primitives III/Czar Dropship.blk)
+53
+	Aqueduct Liquid Carrier (Standard) (data/mechfiles/dropships/HBMPS/Aqueduct Liquid Carrier.blk)
+60
+	Mule (Standard) (data/mechfiles/dropships/3057r/IS/Mule.blk)
+	Behemoth (Standard) (data/mechfiles/dropships/3057r/IS/Behemoth.blk)
+	Manatee (Standard) (data/mechfiles/dropships/3075/Manatee.blk)
+	Mule (Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship).blk)
+	Manatee (Cargo) (data/mechfiles/dropships/3075/Manatee (Cargo).blk)
+62
+	Cargoking (Standard) (data/mechfiles/dropships/IS/CargoKing.blk)
+	Cargomaster (Standard) (data/mechfiles/dropships/IS/CargoMaster.blk)
+71
+	Princess Luxury Liner (Cargo) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner (Cargo).blk)
+	Princess Luxury Liner (Standard) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner.blk)
+81
+	Danais (Standard) (data/mechfiles/dropships/JS Blake Documents/Danais.blk)
+	Trojan (Blockade Runner) (data/mechfiles/dropships/JS Blake Documents/Trojan (Blockade Runner).blk)
+98
+	Vulture (Cargo) (data/mechfiles/dropships/3075/Vulture (Cargo).blk)
+	Vulture (Standard) (data/mechfiles/dropships/3075/Vulture.blk)
+100
+	Rose (Bara no Ryu) (Hive) (data/mechfiles/dropships/3085/ONN/Rose (Hive).blk)
+	Rose (Bara no Ryu) (Standard) (data/mechfiles/dropships/3057r/IS/Rose (Bara no Ryu).blk)
+	Union (2708) (data/mechfiles/dropships/3057r/IS/Union (2708).blk)
+	Jumbo (Standard) (data/mechfiles/dropships/Hist Reunification War/Jumbo.blk)
+110
+	Seeker (3054) (data/mechfiles/dropships/3057r/IS/Seeker (3054).blk)
+	Seeker (2815) (data/mechfiles/dropships/3057r/IS/Seeker (2815).blk)
+116
+	Confederate (2703) (data/mechfiles/dropships/3057r/IS/Confederate (2703).blk)
+	Confederate (2602) (data/mechfiles/dropships/3057r/IS/Confederate (2602).blk)
+	Confederate (Clan) (data/mechfiles/dropships/3057r/Clan/Confederate (Clan).blk)
+120
+	Model 97 'Octopus' (Standard) (data/mechfiles/dropships/3057r/IS/Model 97 'Octopus'.blk)
+	Union (3055) (data/mechfiles/dropships/3057r/IS/Union (3055).blk)
+	Black Eagle (Standard) (data/mechfiles/dropships/XTRs/Primitives II/Black Eagle Dropship.blk)
+	Union 'Pocket Warship' (data/mechfiles/dropships/3075/Union Pocket Warship.blk)
+130
+	Hercules (Standard) (data/mechfiles/dropships/3057r/IS/Hercules.blk)
+132
+	Mule (Star League Pocket Warship) (data/mechfiles/dropships/3075/Mule SL Pocket Warship.blk)
+	Mule (Armored Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship) Armored.blk)
+140
+	Okinawa (Standard) (data/mechfiles/dropships/3057r/IS/Okinawa.blk)
+	Intruder (2655) (data/mechfiles/dropships/3057r/IS/Intruder (2655).blk)
+150
+	Fortress (2613) (data/mechfiles/dropships/3057r/IS/Fortress (2613).blk)
+	Excalibur (3056) (data/mechfiles/dropships/3057r/IS/Excalibur (3056).blk)
+	Excalibur (2786) (data/mechfiles/dropships/3057r/IS/Excalibur (2786).blk)
+	Overlord (2762) (data/mechfiles/dropships/3057r/IS/Overlord (2762).blk)
+	Fortress (3058) (data/mechfiles/dropships/3057r/IS/Fortress (3058).blk)
+	Excalibur (Pocket Warship) (data/mechfiles/dropships/3075/Excalibur Pocket Warship.blk)
+151
+	Dictator (Standard) (data/mechfiles/dropships/3075/Dictator.blk)
+	Dictator (Command) (data/mechfiles/dropships/3075/Dictator (Command).blk)
+160
+	Union C (data/mechfiles/dropships/3057r/Clan/Union C.blk)
+	Miraborg (Standard) (data/mechfiles/dropships/3057r/Clan/Miraborg.blk)
+166
+	Lion (2595) (data/mechfiles/dropships/3057r/IS/Lion (2595).blk)
+	Lion (Wolf's Dragoons 3052) (data/mechfiles/dropships/3057r/Clan/Lion (Wolf's Dragoons 3052).blk)
+	Lion (Clan) (data/mechfiles/dropships/3057r/Clan/Lion (Clan).blk)
+168
+	Polaris (Standard) (data/mechfiles/dropships/Hist WOTRA/Polaris Dropship.BLK)
+170
+	Overlord (3056) (data/mechfiles/dropships/3057r/IS/Overlord (3056).blk)
+172
+	Gaajian System Patrol Boat (3060) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (3060).blk)
+	Gaajian System Patrol Boat (2485) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (2485).blk)
+176
+	Nekohono'o (SCL) (data/mechfiles/dropships/3085/ONN/Nekohono'o (SCL).blk)
+	Nekohono'o (HQ) (data/mechfiles/dropships/XTRs/Kurita/Nekohonoo HQ.blk)
+	Nekohono'o (Standard) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Nekohonoo.blk)
+179
+	Union-X (3065) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3065).blk)
+	Union-X (3071) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3071).blk)
+190
+	Colossus Mk I (data/mechfiles/dropships/3075/Colossus Mk I.blk)
+	Colossus (Standard) (data/mechfiles/dropships/3075/Colossus (Standard).blk)
+200
+	Sassanid (Standard) (data/mechfiles/dropships/3057r/Clan/Sassanid.blk)
+230
+	Intruder (3056) (data/mechfiles/dropships/3057r/IS/Intruder (3056).blk)
+	Merlin Ngake (data/mechfiles/dropships/XTRs/Marik/Merlin Ngake.blk)
+	Merlin (3063) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Merlin.blk)
+	Merlin R1 (data/mechfiles/dropships/ProtoTypes/Merlin R1.blk)
+250
+	Trutzburg (Standard) (data/mechfiles/dropships/3145/Steiner/Trutzburg.blk)
+	Overlord C (data/mechfiles/dropships/3057r/Clan/Overlord C.blk)
+251
+	Lee (2756) (data/mechfiles/dropships/Hist LOT I/Lee.blk)
+278
+	M3 Drone (data/mechfiles/dropships/Hist LOT I/M3 Drone.blk)
+	Pentagon (2751) (data/mechfiles/dropships/3075/Pentagon (2751).blk)
+	Pentagon Mk I (data/mechfiles/dropships/3075/Pentagon (2540).blk)
+	Pentagon (Standard) (data/mechfiles/dropships/3075/Pentagon (2623).blk)
+	Pentagon 'Pocket Warship' (data/mechfiles/dropships/3075/Pentagon Pocket Warship.blk)
+279
+	Model 96C 'Howdah' (data/mechfiles/dropships/Hist LOT I/Model 96C  'Howdah'.blk)
+	Model 96 'Elephant' Mk I (data/mechfiles/dropships/3075/Model 96 'Elephant' Mk I.blk)
+	Model 96 'Elephant' (Standard) (data/mechfiles/dropships/3075/Model 96 'Elephant'.blk)
+301
+	Arondight Pocket Warship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship.blk)
+	Arondight Pocket Warship (SCC) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (SCC).blk)
+	Arondight Pocket Warship (Refit) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (Refit).blk)
+310
+	Mercer (3065) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Mercer (3065).blk)
+350
+	Outpost (3063) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3063).blk)
+	Outpost (3070) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3070).blk)
+	Outpost (Defender) (data/mechfiles/dropships/ProtoTypes/Outpost Defender.blk)
+400
+	Vanir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Vanir Assault Dropship.blk)
+	Aesir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Aesir Assault Dropship.blk)
+450
+	Overlord A3A (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3A.blk)
+	Overlord A3 (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3.blk)
+502
+	Duat Military Transport (Standard) (data/mechfiles/dropships/3145/Republic/Duat Military Transport.blk)
+705
+	Tiamat Pocket Warship (Standard) (data/mechfiles/dropships/3085/Supplemental/Tiamat Pocket Warship.blk)
+	Tiamat II (3112) (data/mechfiles/dropships/3145/NTNU RS/Tiamat II (3112).blk)
+	Tiamat Pocket Warship (CASPAR II Drone) (data/mechfiles/dropships/JHS Terra/Tiamat Caspar II Drone.blk)
+1003
+	Castrum Pocket WarShip (Standard) (data/mechfiles/dropships/XTRs/Republic I/Castrum Pocket Warship.blk)
+Left Side
+50
+	Behemoth (Standard) (data/mechfiles/dropships/3057r/IS/Behemoth.blk)
+60
+	Mammoth (Standard) (data/mechfiles/dropships/3057r/IS/Mammoth.blk)
+62
+	Aqueduct Liquid Carrier (Standard) (data/mechfiles/dropships/HBMPS/Aqueduct Liquid Carrier.blk)
+70
+	Manatee (Standard) (data/mechfiles/dropships/3075/Manatee.blk)
+	Manatee (Cargo) (data/mechfiles/dropships/3075/Manatee (Cargo).blk)
+72
+	Cargoking (Standard) (data/mechfiles/dropships/IS/CargoKing.blk)
+	Cargomaster (Standard) (data/mechfiles/dropships/IS/CargoMaster.blk)
+74
+	Czar Dropship (Standard) (data/mechfiles/dropships/XTRs/Primitives III/Czar Dropship.blk)
+75
+	Princess Luxury Liner (Cargo) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner (Cargo).blk)
+	Princess Luxury Liner (Standard) (data/mechfiles/dropships/HBMPS/Princess Luxury Liner.blk)
+80
+	Mule (Standard) (data/mechfiles/dropships/3057r/IS/Mule.blk)
+	Mule (Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship).blk)
+105
+	Danais (Standard) (data/mechfiles/dropships/JS Blake Documents/Danais.blk)
+	Trojan (Blockade Runner) (data/mechfiles/dropships/JS Blake Documents/Trojan (Blockade Runner).blk)
+115
+	Vulture (Cargo) (data/mechfiles/dropships/3075/Vulture (Cargo).blk)
+	Vulture (Standard) (data/mechfiles/dropships/3075/Vulture.blk)
+120
+	Rose (Bara no Ryu) (Hive) (data/mechfiles/dropships/3085/ONN/Rose (Hive).blk)
+	Rose (Bara no Ryu) (Standard) (data/mechfiles/dropships/3057r/IS/Rose (Bara no Ryu).blk)
+	Hercules (Standard) (data/mechfiles/dropships/3057r/IS/Hercules.blk)
+	Seeker (3054) (data/mechfiles/dropships/3057r/IS/Seeker (3054).blk)
+	Seeker (2815) (data/mechfiles/dropships/3057r/IS/Seeker (2815).blk)
+134
+	Jumbo (Standard) (data/mechfiles/dropships/Hist Reunification War/Jumbo.blk)
+150
+	Model 97 'Octopus' (Standard) (data/mechfiles/dropships/3057r/IS/Model 97 'Octopus'.blk)
+	Okinawa (Standard) (data/mechfiles/dropships/3057r/IS/Okinawa.blk)
+	Sassanid (Standard) (data/mechfiles/dropships/3057r/Clan/Sassanid.blk)
+153
+	Intruder (2655) (data/mechfiles/dropships/3057r/IS/Intruder (2655).blk)
+154
+	Mule (Star League Pocket Warship) (data/mechfiles/dropships/3075/Mule SL Pocket Warship.blk)
+	Mule (Armored Pocket Warship) (data/mechfiles/dropships/3075/Mule (Pocket Warship) Armored.blk)
+160
+	Confederate (2703) (data/mechfiles/dropships/3057r/IS/Confederate (2703).blk)
+	Confederate (2602) (data/mechfiles/dropships/3057r/IS/Confederate (2602).blk)
+	Confederate (Clan) (data/mechfiles/dropships/3057r/Clan/Confederate (Clan).blk)
+170
+	Union (3055) (data/mechfiles/dropships/3057r/IS/Union (3055).blk)
+171
+	Black Eagle (Standard) (data/mechfiles/dropships/XTRs/Primitives II/Black Eagle Dropship.blk)
+	Union 'Pocket Warship' (data/mechfiles/dropships/3075/Union Pocket Warship.blk)
+180
+	Excalibur (3056) (data/mechfiles/dropships/3057r/IS/Excalibur (3056).blk)
+	Union (2708) (data/mechfiles/dropships/3057r/IS/Union (2708).blk)
+	Excalibur (2786) (data/mechfiles/dropships/3057r/IS/Excalibur (2786).blk)
+	Miraborg (Standard) (data/mechfiles/dropships/3057r/Clan/Miraborg.blk)
+	Excalibur (Pocket Warship) (data/mechfiles/dropships/3075/Excalibur Pocket Warship.blk)
+	Union-X (3065) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3065).blk)
+	Union-X (3071) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Union-X (3071).blk)
+182
+	Gaajian System Patrol Boat (3060) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (3060).blk)
+	Gaajian System Patrol Boat (2485) (data/mechfiles/dropships/HBHK/Gaajian System Patrol Boat (2485).blk)
+	Dictator (Standard) (data/mechfiles/dropships/3075/Dictator.blk)
+	Dictator (Command) (data/mechfiles/dropships/3075/Dictator (Command).blk)
+191
+	Lion (2595) (data/mechfiles/dropships/3057r/IS/Lion (2595).blk)
+	Lion (Wolf's Dragoons 3052) (data/mechfiles/dropships/3057r/Clan/Lion (Wolf's Dragoons 3052).blk)
+	Lion (Clan) (data/mechfiles/dropships/3057r/Clan/Lion (Clan).blk)
+195
+	Polaris (Standard) (data/mechfiles/dropships/Hist WOTRA/Polaris Dropship.BLK)
+200
+	Merlin Ngake (data/mechfiles/dropships/XTRs/Marik/Merlin Ngake.blk)
+	Merlin (3063) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Merlin.blk)
+	Merlin R1 (data/mechfiles/dropships/ProtoTypes/Merlin R1.blk)
+210
+	Fortress (2613) (data/mechfiles/dropships/3057r/IS/Fortress (2613).blk)
+	Overlord (2762) (data/mechfiles/dropships/3057r/IS/Overlord (2762).blk)
+	Overlord (3056) (data/mechfiles/dropships/3057r/IS/Overlord (3056).blk)
+	Fortress (3058) (data/mechfiles/dropships/3057r/IS/Fortress (3058).blk)
+	Union C (data/mechfiles/dropships/3057r/Clan/Union C.blk)
+221
+	Colossus Mk I (data/mechfiles/dropships/3075/Colossus Mk I.blk)
+	Colossus (Standard) (data/mechfiles/dropships/3075/Colossus (Standard).blk)
+236
+	Nekohono'o (SCL) (data/mechfiles/dropships/3085/ONN/Nekohono'o (SCL).blk)
+	Nekohono'o (HQ) (data/mechfiles/dropships/XTRs/Kurita/Nekohonoo HQ.blk)
+	Nekohono'o (Standard) (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Nekohonoo.blk)
+270
+	Trutzburg (Standard) (data/mechfiles/dropships/3145/Steiner/Trutzburg.blk)
+300
+	Overlord C (data/mechfiles/dropships/3057r/Clan/Overlord C.blk)
+322
+	Arondight Pocket Warship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship.blk)
+	Arondight Pocket Warship (SCC) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (SCC).blk)
+	Arondight Pocket Warship (Refit) (data/mechfiles/dropships/3085/Cutting Edge/Arondight Pocket Warship (Refit).blk)
+323
+	M3 Drone (data/mechfiles/dropships/Hist LOT I/M3 Drone.blk)
+	Pentagon (2751) (data/mechfiles/dropships/3075/Pentagon (2751).blk)
+	Pentagon Mk I (data/mechfiles/dropships/3075/Pentagon (2540).blk)
+	Pentagon (Standard) (data/mechfiles/dropships/3075/Pentagon (2623).blk)
+	Pentagon 'Pocket Warship' (data/mechfiles/dropships/3075/Pentagon Pocket Warship.blk)
+325
+	Model 96C 'Howdah' (data/mechfiles/dropships/Hist LOT I/Model 96C  'Howdah'.blk)
+	Model 96 'Elephant' Mk I (data/mechfiles/dropships/3075/Model 96 'Elephant' Mk I.blk)
+	Model 96 'Elephant' (Standard) (data/mechfiles/dropships/3075/Model 96 'Elephant'.blk)
+330
+	Mercer (3065) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Mercer (3065).blk)
+340
+	Intruder (3056) (data/mechfiles/dropships/3057r/IS/Intruder (3056).blk)
+355
+	Outpost (3063) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3063).blk)
+	Outpost (3070) (data/mechfiles/dropships/3067 Unabridged/Clan Dropships/Outpost (3070).blk)
+	Outpost (Defender) (data/mechfiles/dropships/ProtoTypes/Outpost Defender.blk)
+410
+	Lee (2756) (data/mechfiles/dropships/Hist LOT I/Lee.blk)
+490
+	Overlord A3A (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3A.blk)
+	Overlord A3 (data/mechfiles/dropships/3067 Unabridged/IS Dropships/Overlord A3.blk)
+500
+	Vanir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Vanir Assault Dropship.blk)
+	Aesir Assault Dropship (Standard) (data/mechfiles/dropships/3085/Cutting Edge/Aesir Assault Dropship.blk)
+505
+	Duat Military Transport (Standard) (data/mechfiles/dropships/3145/Republic/Duat Military Transport.blk)
+750
+	Tiamat Pocket Warship (Standard) (data/mechfiles/dropships/3085/Supplemental/Tiamat Pocket Warship.blk)
+	Tiamat II (3112) (data/mechfiles/dropships/3145/NTNU RS/Tiamat II (3112).blk)
+	Tiamat Pocket Warship (CASPAR II Drone) (data/mechfiles/dropships/JHS Terra/Tiamat Caspar II Drone.blk)
+1153
+	Castrum Pocket WarShip (Standard) (data/mechfiles/dropships/XTRs/Republic I/Castrum Pocket Warship.blk)

@@ -1,0 +1,1158 @@
+Head
+3
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+4
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+6
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+7
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+8
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+9
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+Front Left Leg
+1
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+2
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+3
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+5
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+7
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+8
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+10
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+11
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+12
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+13
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+14
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+15
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+16
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+17
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+18
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+19
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+20
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+21
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+22
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+23
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+24
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+25
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+26
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+27
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+28
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+29
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+30
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+32
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+33
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+34
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+36
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+39
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+40
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+42
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)
+Rear Left Leg
+1
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+2
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+3
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+5
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+7
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+8
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+10
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+11
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+12
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+13
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+14
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+15
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+16
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+17
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+18
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+19
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+20
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+21
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+22
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+23
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+24
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+25
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+26
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+27
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+28
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+29
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+30
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+31
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+32
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+33
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+34
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+36
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+39
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+40
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+42
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)
+Front Right Leg
+1
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+2
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+3
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+5
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+7
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+8
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+10
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+11
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+12
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+13
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+14
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+15
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+16
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+17
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+18
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+19
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+20
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+21
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+22
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+23
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+24
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+25
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+26
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+27
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+28
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+29
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+30
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+32
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+33
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+34
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+36
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+39
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+40
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+42
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)
+Right Torso
+2
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+4
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+6
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+7
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+8
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+10
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+11
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+14
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+15
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+17
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+18
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+19
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+20
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+21
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+22
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+23
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+24
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+25
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+26
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+27
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+29
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+30
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+32
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)
+Rear Right Leg
+1
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+2
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+3
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+5
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+7
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+8
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+10
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+11
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+12
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+13
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+14
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+15
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+16
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+17
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+18
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+19
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+20
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+21
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+22
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+23
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+24
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+25
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+26
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+27
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+28
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+29
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+30
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+31
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+32
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+33
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+34
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+36
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+39
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+40
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+42
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)
+Center Torso
+2
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+5
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+6
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+7
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+8
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+9
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+10
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+12
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+14
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+15
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+17
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+18
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+20
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+21
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+22
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+23
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+24
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+25
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+28
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+29
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+30
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+31
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+32
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+33
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+34
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+37
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+38
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+40
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+41
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+45
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+46
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)
+50
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+Left Torso
+2
+	Celerity CLR-04-R (data/mechfiles/mechs/3145/Republic/Celerity CLR-04-R.mtf)
+	Celerity CLR-02-X-D (data/mechfiles/mechs/XTRs/Comstar/Celerity CLR-02-X-D.mtf)
+4
+	Celerity CLR-03-OA (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OA.mtf)
+	Celerity CLR-05-X (data/mechfiles/mechs/3145/Republic/Celerity CLR-05-X.mtf)
+	Celerity CLR-03-OC (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OC.mtf)
+	Celerity CLR-03-O (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-O.mtf)
+	Celerity CLR-03-OB (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OB.mtf)
+	Celerity CLR-03-OD (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OD.mtf)
+	Celerity CLR-03-OE (data/mechfiles/mechs/3145/Republic/Celerity CLR-03-OE.mtf)
+6
+	Snow Fox 2 (data/mechfiles/mechs/3060u/Snow Fox 2.mtf)
+7
+	Tarantula ZPH-1A (data/mechfiles/mechs/3055U/Tarantula ZPH-1A.mtf)
+	Tarantula ZPH-2A (data/mechfiles/mechs/3055U/Tarantula ZPH-2A.mtf)
+	Snow Fox 3 (data/mechfiles/mechs/3060u/Snow Fox 3.mtf)
+	Harvester Ant KIC-3M-B AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M-B AgroMech MOD.mtf)
+	Harvester Ant KIC-3M AgroMech MOD (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3M Agromech (MOD).mtf)
+	Harvester Ant KIC-3 AgroMech (data/mechfiles/mechs/TR Vehicle Annex/Harvester Ant KIC-3 Agromech.mtf)
+8
+	Tarantula ZPH-5A (data/mechfiles/mechs/3145/NTNU RS/Tarantula ZPH-5A.mtf)
+	Tarantula ZPH-3A (data/mechfiles/mechs/3055U/Tarantula ZPH-3A.mtf)
+	Tarantula ZPH-4A (data/mechfiles/mechs/3055U/Tarantula ZPH-4A.mtf)
+	Snow Fox (Standard) (data/mechfiles/mechs/3060u/Snow Fox.mtf)
+10
+	Revenant UBM-2R (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R.mtf)
+	Revenant UBM-2R4 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R4.mtf)
+	Revenant UBM-2R2 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R2.mtf)
+	Revenant UBM-2R7 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R7.mtf)
+	Revenant UBM-2R3 (data/mechfiles/mechs/3145/Republic/Revenant UBM-2R3.mtf)
+	ScavengerMech SC-V-M MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V-M MilitiaMech (Standard).mtf)
+	Vampyr SC-V-1 SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Vampyr SC-V-1 SalvageMech (Standard).mtf)
+	ScavengerMech SC-V SalvageMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/ScavengerMech SC-V SalvageMech (Standard).mtf)
+11
+	Jaguar (Standard) (data/mechfiles/mechs/3145/Steiner/Jaguar (Standard).mtf)
+	Jaguar 2 (data/mechfiles/mechs/3145/Steiner/Jaguar 2.mtf)
+	Scorpion SCP-1O (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1O.mtf)
+	Scorpion SCP-1TB (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-1TB.mtf)
+	Scorpion SCP-1N (data/mechfiles/mechs/3039u/Scorpion SCP-1N.mtf)
+14
+	Scorpion SCP-10M (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-10M.mtf)
+	Daedalus GTX2A 'Stevedore' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2A Stevedore.mtf)
+	Daedalus GTX2 (Militarized) (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2 (Militarized).mtf)
+	Daedalus GTX2B 'Navvy' (data/mechfiles/mechs/Operation Klondike/Daedalus GTX2B Navvy.mtf)
+15
+	Stalking Spider II (Standard) (data/mechfiles/mechs/3145/Merc/Stalking Spider II.mtf)
+	Blue Flame BLF-40 (data/mechfiles/mechs/3067 Unabridged/IS Meks/Blue Flame BLF-40.mtf)
+	Stalking Spider 2 (data/mechfiles/mechs/3060u/Stalking Spider 2.mtf)
+	Stalking Spider (Standard) (data/mechfiles/mechs/3060u/Stalking Spider.mtf)
+	Blue Flame BLF-21 (data/mechfiles/mechs/3067/Blue Flame BLF-21.mtf)
+	Arana MilitiaMech ARA-S-1 (data/mechfiles/mechs/ISP3/Arana MilitiaMech ARA-S-1.mtf)
+17
+	Antlion LK-3D (data/mechfiles/mechs/3145/Davion/Antlion LK-3D.mtf)
+	Scorpion SCP-1N (Wendall) (data/mechfiles/mechs/3039u/Scorpion SCP-1N (Wednall).mtf)
+	Bishamon BSN-3K (data/mechfiles/mechs/3060u/Bishamon BSN-3K.mtf)
+	Bishamon BSN-5KC (data/mechfiles/mechs/3060u/Bishamon BSN-5KC.mtf)
+	Bishamon BSN-4K (data/mechfiles/mechs/3060u/Bishamon BSN-4K.mtf)
+18
+	Scorpion SCP-12S (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12S.mtf)
+19
+	Xanthos XNT-2O (data/mechfiles/mechs/XTRs/Primitives IV/Xanthos XNT-2O.mtf)
+	Stalking Spider 3 (data/mechfiles/mechs/3060u/Stalking Spider 3.mtf)
+20
+	Balius E (data/mechfiles/mechs/3145/NTNU RS/Balius E.mtf)
+	Sarath SRTH-1OA (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OA.mtf)
+	Sarath SRTH-1O (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1O.mtf)
+	Sarath SRTH-1OB (data/mechfiles/mechs/3145/Marik/Sarath SRTH-1OB.mtf)
+	Balius B (data/mechfiles/mechs/3075/Balius B.mtf)
+	Balius D (data/mechfiles/mechs/3075/Balius D.mtf)
+	Balius C (data/mechfiles/mechs/3075/Balius C.mtf)
+	Balius A (data/mechfiles/mechs/3075/Balius A.mtf)
+	Balius Prime (data/mechfiles/mechs/3075/Balius Prime.mtf)
+	Goliath GOL-6H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6H.mtf)
+	Scorpion SCP-12K (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12K.mtf)
+	Goliath GOL-2H (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-2H.mtf)
+	Scorpion SCP-12C (data/mechfiles/mechs/3085u/Phoenix/Scorpion SCP-12C.mtf)
+	Goliath GOL-6M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-6M.mtf)
+	Thunder Fox TFT-C3 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-C3.mtf)
+	Thunder Fox TFT-A9 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-A9.mtf)
+	Thunder Fox TFT-L8 (data/mechfiles/mechs/3085u/Cutting Edge/Thunder Fox TFT-L8.mtf)
+	Balius U (data/mechfiles/mechs/3085u/ONN/Balius U.mtf)
+	Goliath GOL-1H (data/mechfiles/mechs/3039u/Goliath GOL-1H.mtf)
+	Thunder Stallion 3 (data/mechfiles/mechs/3060u/Thunder Stallion 3.mtf)
+	Thunder Stallion 2 'Fire Stallion' (data/mechfiles/mechs/3060u/Thunder Stallion 2.mtf)
+	Thunder Stallion (Standard) (data/mechfiles/mechs/3060u/Thunder Stallion.mtf)
+	Uni ATAE-70 MilitiaMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 MilitiaMech (Standard).mtf)
+	Uni ATAE-70 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70 CargoMech (Standard).mtf)
+	Uni ATAE-70T CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Uni ATAE-70T CargoMech (Standard).mtf)
+21
+	Thunder Fox TFT-F11 (data/mechfiles/mechs/3145/NTNU RS/Thunder Fox TFT-F11.mtf)
+	Barghest BGS-4X (data/mechfiles/mechs/XTRs/Steiner/Barghest BGS-4X.mtf)
+	Goliath GOL-3M (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3M.mtf)
+	Goliath GOL-3S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3S.mtf)
+	Barghest BGS-1T (data/mechfiles/mechs/3060u/Barghest BGS-1T.mtf)
+	Heavy Lifter HCL-1 CargoMech (Standard) (data/mechfiles/mechs/TR Vehicle Annex/Heavy Lifter HCL-1 CargoMech (Standard).mtf)
+	Barghest BGS-4T (data/mechfiles/mechs/ProtoTypes/Barghest BGS-4T.mtf)
+22
+	Kiso Command Mech K-3N-KRHQ (data/mechfiles/mechs/XTRs/Succession Wars/Kiso Command Mech K-3N-KRHQ.mtf)
+	Kiso ConstructionMech K-3N-KR5 (data/mechfiles/mechs/3075/Kiso K-3N-KR5.mtf)
+	Kiso ConstructionMech K-3N-KR4 (data/mechfiles/mechs/3075/Kiso K-3N-KR4.mtf)
+	White Flame WHF-3C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-3C.mtf)
+	Barghest BGS-2T (data/mechfiles/mechs/3060u/Barghest BGS-2T.mtf)
+	Fire Scorpion 3 (data/mechfiles/mechs/3060u/Fire Scorpion 3.mtf)
+	Fire Scorpion (Standard) (data/mechfiles/mechs/3060u/Fire Scorpion.mtf)
+	Fire Scorpion 2 (data/mechfiles/mechs/3060u/Fire Scorpion 2.mtf)
+	Barghest BGS-3T (data/mechfiles/mechs/3060u/Barghest BGS-3T.mtf)
+	Barghest BGS-7S (data/mechfiles/mechs/3060u/Barghest BGS-7S.mtf)
+23
+	Ursa URA-2C (data/mechfiles/mechs/3145/Steiner/Ursa URA-2C.mtf)
+	Ursa URA-2A (data/mechfiles/mechs/3145/Steiner/Ursa URA-2A.mtf)
+	White Flame WHF-4C (data/mechfiles/mechs/3067 Unabridged/IS Meks/White Flame WHF-4C.mtf)
+	White Flame WHF-3B (data/mechfiles/mechs/3067/White Flame WHF-3B.mtf)
+24
+	Trebaruna TR-XH (data/mechfiles/mechs/3145/NTNU RS/Trebaruna TR-XH.mtf)
+25
+	Goliath GOL-4S (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-4S.mtf)
+	Sirocco SRC-5C (data/mechfiles/mechs/3060u/Sirocco SRC-5C.mtf)
+	Sirocco SRC-3C (data/mechfiles/mechs/3060u/Sirocco SRC-3C.mtf)
+26
+	Goliath GOL-5W (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5W.mtf)
+	Goliath GOL-3L (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-3L.mtf)
+	Goliath GOL-5D (data/mechfiles/mechs/3085u/Phoenix/Goliath GOL-5D.mtf)
+27
+	Trebaruna TR-XL (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XL.mtf)
+29
+	Lich UABM-2R (data/mechfiles/mechs/XTRs/Republic III/Lich UABM-2R.mtf)
+30
+	Trebaruna TR-XJ (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XJ.mtf)
+	Trebaruna TR-XB (data/mechfiles/mechs/3085u/Cutting Edge/Trebaruna TR-XB.mtf)
+	Sirocco SRC-6C (data/mechfiles/mechs/3060u/Sirocco SRC-6C.mtf)
+32
+	Xanthos XNT-7O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-7O.mtf)
+	Xanthos XNT-6O (data/mechfiles/mechs/3145/NTNU RS/Xanthos XNT-6O.mtf)
+	Great Turtle GTR-2 (data/mechfiles/mechs/3055U/Great Turtle GTR-2.mtf)
+	Great Turtle GTR-1 (data/mechfiles/mechs/3055U/Great Turtle GTR-1.mtf)
+	Xanthos XNT-3O (data/mechfiles/mechs/3075/Xanthos XNT-3O.mtf)
+	Xanthos XNT-4O (data/mechfiles/mechs/3075/Xanthos XNT-4O.mtf)
+	Xanthos XNT-5O (data/mechfiles/mechs/3075/Xanthos XNT-5O.mtf)

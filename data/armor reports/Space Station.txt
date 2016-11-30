@@ -1,0 +1,192 @@
+Aft Right Side
+4
+	Small Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Pressurized Yard.blk)
+5
+	BattleSat System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/BattleSat System-Defense Station.blk)
+7
+	Large Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large UnPressurized Yard.blk)
+8
+	Small Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small UnPressurized Yard.blk)
+	Large Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Pressurized Yard.blk)
+10
+	Olympus Recharge Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Olympus Recharge Station.blk)
+	Large Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Habitat.blk)
+	Small Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Factory.blk)
+13
+	Small Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Habitat.blk)
+16
+	Hong Lung Interdiction Station (Standard) (data/mechfiles/spacestation/HB HL/Hong Lung Interdiction Station.blk)
+18
+	Drake SDS Control Station (Standard) (data/mechfiles/spacestation/JHS Terra/Drake SDS Control Station.blk)
+20
+	Bastion System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Bastion System Defense Station.blk)
+	Crucible Station (Standard) (data/mechfiles/spacestation/HB HL/Crucible Station.blk)
+22
+	Snowden Mining Station (Standard) (data/mechfiles/spacestation/HB MPS/Snowden Mining Station.blk)
+	Snowden Mining Station Mk I (data/mechfiles/spacestation/HB MPS/Snowden Mining Station Mk1.blk)
+26
+	Medium-Large Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Medium Large Factory.blk)
+27
+	Capitol System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Capitol System Defense Station.blk)
+550
+	M9 Pavise SDS Battle Station (data/mechfiles/spacestation/Hist LOT I/M9 Pavise SDS Battle Station.blk)
+Aft Left Side
+4
+	Small Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Pressurized Yard.blk)
+5
+	BattleSat System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/BattleSat System-Defense Station.blk)
+7
+	Large Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large UnPressurized Yard.blk)
+8
+	Small Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small UnPressurized Yard.blk)
+	Large Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Pressurized Yard.blk)
+10
+	Olympus Recharge Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Olympus Recharge Station.blk)
+	Large Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Habitat.blk)
+	Small Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Factory.blk)
+13
+	Small Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Habitat.blk)
+16
+	Hong Lung Interdiction Station (Standard) (data/mechfiles/spacestation/HB HL/Hong Lung Interdiction Station.blk)
+18
+	Drake SDS Control Station (Standard) (data/mechfiles/spacestation/JHS Terra/Drake SDS Control Station.blk)
+20
+	Bastion System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Bastion System Defense Station.blk)
+	Crucible Station (Standard) (data/mechfiles/spacestation/HB HL/Crucible Station.blk)
+22
+	Snowden Mining Station (Standard) (data/mechfiles/spacestation/HB MPS/Snowden Mining Station.blk)
+	Snowden Mining Station Mk I (data/mechfiles/spacestation/HB MPS/Snowden Mining Station Mk1.blk)
+26
+	Medium-Large Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Medium Large Factory.blk)
+27
+	Capitol System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Capitol System Defense Station.blk)
+550
+	M9 Pavise SDS Battle Station (data/mechfiles/spacestation/Hist LOT I/M9 Pavise SDS Battle Station.blk)
+Nose
+4
+	Small Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Pressurized Yard.blk)
+5
+	BattleSat System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/BattleSat System-Defense Station.blk)
+7
+	Large Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large UnPressurized Yard.blk)
+8
+	Small Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small UnPressurized Yard.blk)
+	Large Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Pressurized Yard.blk)
+10
+	Olympus Recharge Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Olympus Recharge Station.blk)
+	Large Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Habitat.blk)
+	Small Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Factory.blk)
+13
+	Small Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Habitat.blk)
+16
+	Hong Lung Interdiction Station (Standard) (data/mechfiles/spacestation/HB HL/Hong Lung Interdiction Station.blk)
+18
+	Drake SDS Control Station (Standard) (data/mechfiles/spacestation/JHS Terra/Drake SDS Control Station.blk)
+20
+	Bastion System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Bastion System Defense Station.blk)
+	Crucible Station (Standard) (data/mechfiles/spacestation/HB HL/Crucible Station.blk)
+23
+	Snowden Mining Station (Standard) (data/mechfiles/spacestation/HB MPS/Snowden Mining Station.blk)
+	Snowden Mining Station Mk I (data/mechfiles/spacestation/HB MPS/Snowden Mining Station Mk1.blk)
+27
+	Capitol System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Capitol System Defense Station.blk)
+30
+	Medium-Large Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Medium Large Factory.blk)
+550
+	M9 Pavise SDS Battle Station (data/mechfiles/spacestation/Hist LOT I/M9 Pavise SDS Battle Station.blk)
+Right Front Side
+4
+	Small Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Pressurized Yard.blk)
+5
+	BattleSat System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/BattleSat System-Defense Station.blk)
+7
+	Large Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large UnPressurized Yard.blk)
+8
+	Small Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small UnPressurized Yard.blk)
+	Large Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Pressurized Yard.blk)
+10
+	Olympus Recharge Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Olympus Recharge Station.blk)
+	Large Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Habitat.blk)
+	Small Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Factory.blk)
+13
+	Small Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Habitat.blk)
+16
+	Hong Lung Interdiction Station (Standard) (data/mechfiles/spacestation/HB HL/Hong Lung Interdiction Station.blk)
+18
+	Drake SDS Control Station (Standard) (data/mechfiles/spacestation/JHS Terra/Drake SDS Control Station.blk)
+20
+	Bastion System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Bastion System Defense Station.blk)
+	Crucible Station (Standard) (data/mechfiles/spacestation/HB HL/Crucible Station.blk)
+22
+	Snowden Mining Station (Standard) (data/mechfiles/spacestation/HB MPS/Snowden Mining Station.blk)
+	Snowden Mining Station Mk I (data/mechfiles/spacestation/HB MPS/Snowden Mining Station Mk1.blk)
+26
+	Medium-Large Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Medium Large Factory.blk)
+27
+	Capitol System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Capitol System Defense Station.blk)
+550
+	M9 Pavise SDS Battle Station (data/mechfiles/spacestation/Hist LOT I/M9 Pavise SDS Battle Station.blk)
+Aft
+4
+	Small Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Pressurized Yard.blk)
+5
+	BattleSat System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/BattleSat System-Defense Station.blk)
+7
+	Large Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large UnPressurized Yard.blk)
+8
+	Small Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small UnPressurized Yard.blk)
+	Large Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Pressurized Yard.blk)
+10
+	Olympus Recharge Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Olympus Recharge Station.blk)
+	Large Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Habitat.blk)
+	Small Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Factory.blk)
+13
+	Small Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Habitat.blk)
+16
+	Hong Lung Interdiction Station (Standard) (data/mechfiles/spacestation/HB HL/Hong Lung Interdiction Station.blk)
+18
+	Drake SDS Control Station (Standard) (data/mechfiles/spacestation/JHS Terra/Drake SDS Control Station.blk)
+20
+	Bastion System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Bastion System Defense Station.blk)
+	Crucible Station (Standard) (data/mechfiles/spacestation/HB HL/Crucible Station.blk)
+22
+	Snowden Mining Station (Standard) (data/mechfiles/spacestation/HB MPS/Snowden Mining Station.blk)
+	Snowden Mining Station Mk I (data/mechfiles/spacestation/HB MPS/Snowden Mining Station Mk1.blk)
+26
+	Medium-Large Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Medium Large Factory.blk)
+27
+	Capitol System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Capitol System Defense Station.blk)
+550
+	M9 Pavise SDS Battle Station (data/mechfiles/spacestation/Hist LOT I/M9 Pavise SDS Battle Station.blk)
+Left Front Side
+4
+	Small Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Pressurized Yard.blk)
+5
+	BattleSat System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/BattleSat System-Defense Station.blk)
+7
+	Large Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large UnPressurized Yard.blk)
+8
+	Small Unpressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Small UnPressurized Yard.blk)
+	Large Pressurized Yard (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Pressurized Yard.blk)
+10
+	Olympus Recharge Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Olympus Recharge Station.blk)
+	Large Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Large Habitat.blk)
+	Small Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Factory.blk)
+13
+	Small Habitat (Standard) (data/mechfiles/spacestation/TRO 3057r/Small Habitat.blk)
+16
+	Hong Lung Interdiction Station (Standard) (data/mechfiles/spacestation/HB HL/Hong Lung Interdiction Station.blk)
+18
+	Drake SDS Control Station (Standard) (data/mechfiles/spacestation/JHS Terra/Drake SDS Control Station.blk)
+20
+	Bastion System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Bastion System Defense Station.blk)
+	Crucible Station (Standard) (data/mechfiles/spacestation/HB HL/Crucible Station.blk)
+22
+	Snowden Mining Station (Standard) (data/mechfiles/spacestation/HB MPS/Snowden Mining Station.blk)
+	Snowden Mining Station Mk I (data/mechfiles/spacestation/HB MPS/Snowden Mining Station Mk1.blk)
+26
+	Medium-Large Factory (Standard) (data/mechfiles/spacestation/TRO 3057r/Medium Large Factory.blk)
+27
+	Capitol System Defense Station (Standard) (data/mechfiles/spacestation/TRO 3057r/Capitol System Defense Station.blk)
+550
+	M9 Pavise SDS Battle Station (data/mechfiles/spacestation/Hist LOT I/M9 Pavise SDS Battle Station.blk)

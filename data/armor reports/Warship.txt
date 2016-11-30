@@ -1,0 +1,1108 @@
+Aft Right Side
+2
+	Bug-Eye Surveillance Ship (Standard) (data/mechfiles/warship/IE3/Bug Eye Surveillance Ship.blk)
+3
+	Carrack Transport (Merchant) (data/mechfiles/warship/Clan/Carrack Transport (Merchant).blk)
+6
+	Aquilla Transport Jumpship (Standard) (data/mechfiles/jumpships/XTRs/Primitives I/Aquilla JumpShip Transport.blk)
+	Carrack Transport (Clan) (data/mechfiles/warship/Clan/Carrack Transport (Clan).blk)
+9
+	Sylvester Transport (Standard) (data/mechfiles/warship/LCN/Sylvester Transport.blk)
+	Faslane Yardship (Standard) (data/mechfiles/warship/IE3/Faslane Yard Ship.blk)
+12
+	Pinto Corvette (Standard) (data/mechfiles/warship/Periphery/Pinto Corvette.blk)
+14
+	Vigilant Corvette (Standard) (data/mechfiles/warship/SLDF/Vigilant Corvette.blk)
+15
+	Tracker Surveillance (Standard) (data/mechfiles/warship/SLDF/Tracker Surveillance.blk)
+19
+	Vincent Corvette Mk 39 (data/mechfiles/warship/SLDF/Vincent Corvette Mk39.blk)
+	Vincent Corvette Mk 42 (data/mechfiles/warship/Clan/Vincent Corvette Mk42.blk)
+20
+	Bonaventure Corvette (Standard) (data/mechfiles/warship/SLDF/Bonaventure Corvette.blk)
+	Naga Destroyer (Standard) (data/mechfiles/warship/SLDF/Naga Destroyer.blk)
+	Zechetinu II Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu II Corvette.blk)
+	Zechetinu Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu Corvette.blk)
+24
+	Nightwing Surveillance (Standard) (data/mechfiles/warship/SLDF/Nightwing Surveillance.blk)
+25
+	Essex I Destroyer (Standard) (data/mechfiles/warship/FR 2765/Periphery/Essex I Destroyer.blk)
+29
+	Baron Destroyer (Standard) (data/mechfiles/warship/SLDF/Baron Destroyer.blk)
+30
+	Whirlwind Destroyer (2606) (data/mechfiles/warship/SLDF/Whirlwind Destroyer (2606).blk)
+	Inazuma Corvette (Standard) (data/mechfiles/warship/DCN/Inazuma Corvette.blk)
+	Fredasa Corvette Raider (Standard) (data/mechfiles/warship/Clan/Fredasa CorvetteRaider.blk)
+31
+	Mako Corvette (Standard) (data/mechfiles/warship/LCN/Mako Corvette.blk)
+32
+	Naga Destroyer (Caspar II Control Ship) (data/mechfiles/warship/JHS Terra/Naga Caspar II Control Ship.blk)
+33
+	Eagle Frigate (Standard) (data/mechfiles/warship/FWLN/Eagle Frigate.blk)
+35
+	Carson Destroyer (Standard) (data/mechfiles/warship/SLDF/Carson Destroyer.blk)
+37
+	Essex Destroyer (2711) (data/mechfiles/warship/SLDF/Essex Destroyer (2711).blk)
+	Essex Destroyer (Clan) (data/mechfiles/warship/Clan/Essex Destroyer (Clan).blk)
+38
+	Samarkand Carrier Block I (data/mechfiles/warship/DCN/Samarkand Carrier Block I.blk)
+40
+	Concordat Frigate (2506) (data/mechfiles/warship/Hist Reunification War/Concordat Frigate (2506).blk)
+42
+	Winchester Cruiser (Standard) (data/mechfiles/warship/Periphery/Winchester Cruiser.blk)
+43
+	League Destroyer (Block I) (data/mechfiles/warship/FR 2765/FWL/League Block I.blk)
+44
+	Davion Destroyer Block I (data/mechfiles/warship/FSN/Davion Destroyer Block I.blk)
+47
+	Wagon Wheel Frigate (Standard) (data/mechfiles/warship/Periphery/Wagon Wheel Frigate.blk)
+48
+	M5C Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5C Caspar Drone WS.blk)
+	M5 Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5 Caspar Drone WS.blk)
+	Lola II Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola II Destroyer.blk)
+	Lola III Destroyer (2662) (data/mechfiles/warship/SLDF/Lola III Destroyer (2662).blk)
+	Lola I Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola I Destroyer.blk)
+	Lola III Destroyer (Clan) (data/mechfiles/warship/Clan/Lola III Destroyer (Clan).blk)
+50
+	Defender Battlecruiser (Standard) (data/mechfiles/warship/FR 2765/Davion/Defender Battlecruiser.blk)
+	Robinson Transport Block I (data/mechfiles/warship/FSN/Robinson Transport Block I.blk)
+52
+	Agamemnon Heavy Cruiser (Standard) (data/mechfiles/warship/FWLN/Agamemnon Heavy Cruiser.blk)
+54
+	Fox Corvette (Standard) (data/mechfiles/warship/FSN/Fox Corvette.blk)
+	Impavido Destroyer (Standard) (data/mechfiles/warship/FWLN/Impavido Destroyer.blk)
+58
+	Cruiser (Standard) (data/mechfiles/warship/FR 2765/Draconis Combine/Cruiser.blk)
+60
+	Suffren Destroyer (Standard) (data/mechfiles/warship/Comstar/Suffren Destroyer.blk)
+62
+	League Destroyer (Block II) (data/mechfiles/warship/FR 2765/FWL/League Block II.blk)
+65
+	Riga Frigate (Standard) (data/mechfiles/warship/SLDF/Riga Frigate.blk)
+	Whirlwind Destroyer (Clan) (data/mechfiles/warship/Clan/Whirlwind Destroyer (Clan).blk)
+68
+	Athena Cruiser (Standard) (data/mechfiles/warship/FR 2765/Periphery/Athena Cruiser.blk)
+70
+	Narukami Destroyer (Block I) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block I.blk)
+	Narukami Destroyer (Block II) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block II.blk)
+	Kyushu Frigate (Standard) (data/mechfiles/warship/DCN/Kyushu Frigate.blk)
+	Samarkand Carrier Block II (data/mechfiles/warship/DCN/Samarkand Carrier Block II.blk)
+	Tatsumaki Destroyer (Standard) (data/mechfiles/warship/DCN/Tatsumaki Destroyer.blk)
+72
+	Congress D Frigate (Standard) (data/mechfiles/warship/FR 2765/Davion/Congress D Frigate.blk)
+	Congress Frigate (2542) (data/mechfiles/warship/SLDF/Congress Frigate.blk)
+	Congress Frigate (Clan) (data/mechfiles/warship/Clan/Congress Frigate (Clan).blk)
+75
+	Commonwealth Light Cruiser (Block I) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block I.blk)
+	Commonwealth Light Cruiser (Block II) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block II.blk)
+80
+	Dante Frigate (Standard) (data/mechfiles/warship/Comstar/Dante Frigate.blk)
+	New Syrtis Carrier (2557) (data/mechfiles/warship/Hist Reunification War/New Syrtis Carrier (2557).blk)
+	Dreadnought Battleship (2330) (data/mechfiles/warship/Hist Reunification War/Dreadnought Battleship (2330).blk)
+81
+	Newgrange Yardship (Standard) (data/mechfiles/warship/JHS 3076/Newgrange Yardship.blk)
+84
+	Black Lion I-Battlecruiser (data/mechfiles/warship/FR 2765/Capellan/Black Lion I Battlecruiser.blk)
+85
+	Davion Destroyer Block II (data/mechfiles/warship/FSN/Davion Destroyer Block II.blk)
+88
+	Sovetskii Soyuz Heavy Cruiser (2742) (data/mechfiles/warship/SLDF/Sovetskii Soyuz Heavy Cruiser (2742).blk)
+	Dart Light Cruiser (Standard) (data/mechfiles/warship/SLDF/Dart Light Cruiser.blk)
+	Sovetskii Soyuz Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Sovetskii Soyuz Heavy Cruiser (Clan).blk)
+93
+	Avatar Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Avatar Heavy Cruiser.blk)
+	Robinson Transport Block II (data/mechfiles/warship/FSN/Robinson Transport Block II.blk)
+100
+	Riga II Destroyer/Carrier (Standard) (data/mechfiles/warship/FR 2765/Periphery/Riga II Destroyer Carrier.blk)
+	York Destroyer Carrier (Standard) (data/mechfiles/warship/Clan/York DestroyerCarrier.blk)
+101
+	Aegis Heavy Cruiser (2582) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2582).blk)
+	Aegis Heavy Cruiser (2372) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2372).blk)
+	Aegis Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Aegis Heavy Cruiser (Clan).blk)
+106
+	Volga Transport (2709) (data/mechfiles/warship/SLDF/Volga Transport (2709).blk)
+110
+	Liberator Cruiser (Standard) (data/mechfiles/warship/Clan/Liberator Cruiser.blk)
+125
+	Quixote Frigate (Standard) (data/mechfiles/warship/SLDF/Quixote Frigate.blk)
+128
+	Cameron Battlecruiser (2688) (data/mechfiles/warship/SLDF/Cameron Battlecruiser.blk)
+	Cameron Battlecruiser (Clan) (data/mechfiles/warship/Clan/Cameron Battlecruiser (Clan).blk)
+132
+	Volga Transport (Clan) (data/mechfiles/warship/Clan/Volga Transport (Clan).blk)
+134
+	Kirishima Cruiser (Standard) (data/mechfiles/warship/DCN/Kirishima Cruiser.blk)
+135
+	Du Shi Wang Battleship (Standard) (data/mechfiles/warship/CCN/Du Shi Wang Battleship.blk)
+138
+	Soyal Heavy Cruiser (Standard) (data/mechfiles/warship/FR 2765/Capellan/Soyal Heavy Cruiser.blk)
+139
+	Kimagure Pursuit Cruiser (Standard) (data/mechfiles/warship/SLDF/Kimagure Pursuit Cruiser.blk)
+	Kimagure Pursuit Cruiser (Surprise) (data/mechfiles/warship/XTR/Gunslingers/Kimagure Pursuit Cruiser Surprise.blk)
+140
+	Tharkad Battlecruiser (WoB) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (WoB).blk)
+	Tharkad Battlecruiser (2690) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (2690).blk)
+151
+	Luxor Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Luxor Heavy Cruiser.blk)
+155
+	Conqueror Battlecruiser Carrier (Standard) (data/mechfiles/warship/Clan/Conqueror BattlecruiserCarrier.blk)
+160
+	Monsoon Battleship (Lithium-Fusion) (data/mechfiles/warship/SLDF/Monsoon Battleship (Lithium-Fusion).blk)
+	Monsoon Battleship (Standard) (data/mechfiles/warship/SLDF/Monsoon Battleship.blk)
+168
+	Black Lion Battlecruiser (2691) (data/mechfiles/warship/SLDF/Black Lion Battlecruiser.blk)
+	Black Lion Battlecruiser (Clan) (data/mechfiles/warship/Clan/Black Lion Battlecruiser (Clan).blk)
+180
+	Quicksilver Mongoose Battleship (Standard) (data/mechfiles/warship/Clan/Quicksilver Mongoose Battleship.blk)
+183
+	Atreus Battleship (Standard) (data/mechfiles/warship/FWLN/Atreus Battleship.blk)
+201
+	Potemkin Troop Cruiser (2611) (data/mechfiles/warship/SLDF/Potemkin Troop Cruiser (2611).blk)
+	Potemkin Troop Cruiser (Clan) (data/mechfiles/warship/Clan/Potemkin Troop Cruiser (Clan).blk)
+250
+	McKenna Battleship (2652) (data/mechfiles/warship/SLDF/McKenna Battleship (2652).blk)
+	Farragut Battleship (Standard) (data/mechfiles/warship/SLDF/Farragut Battleship.blk)
+	Leviathan Heavy Transport (Standard) (data/mechfiles/warship/Clan/Leviathan Heavy Transport.blk)
+	McKenna Battleship (Clan) (data/mechfiles/warship/Clan/McKenna Battleship (Clan).blk)
+260
+	Stefan Amaris Battleship (Standard) (data/mechfiles/warship/Hist LOT II/Stefan Amaris Battleship.blk)
+284
+	Thera Carrier (Standard) (data/mechfiles/warship/FWLN/Thera Carrier.blk)
+285
+	Feng Huang Cruiser (Upgrade) (data/mechfiles/warship/CCN/Feng Huang Cruiser Upgrade.blk)
+	Feng Huang Cruiser (Standard) (data/mechfiles/warship/CCN/Feng Huang Cruiser.blk)
+290
+	Nightlord Battleship (Standard) (data/mechfiles/warship/Clan/Nightlord Battleship.blk)
+302
+	Avalon Cruiser (Standard) (data/mechfiles/warship/FSN/Avalon Cruiser.blk)
+342
+	Texas Battleship (2618) (data/mechfiles/warship/SLDF/Texas Battleship (2618).blk)
+	Texas Battleship (Clan) (data/mechfiles/warship/Clan/Texas Battleship (Clan).blk)
+474
+	Mjolnir Battlecruiser (Standard) (data/mechfiles/warship/LCN/Mjolnir Battlecruiser.blk)
+1000
+	Leviathan III Battleship (Standard) (data/mechfiles/warship/XTR/Republic III/Leviathan III Battleship.blk)
+	Leviathan II Battleship (Standard) (data/mechfiles/warship/Clan/Leviathan II Battleship.blk)
+Aft Left Side
+2
+	Bug-Eye Surveillance Ship (Standard) (data/mechfiles/warship/IE3/Bug Eye Surveillance Ship.blk)
+3
+	Carrack Transport (Merchant) (data/mechfiles/warship/Clan/Carrack Transport (Merchant).blk)
+6
+	Aquilla Transport Jumpship (Standard) (data/mechfiles/jumpships/XTRs/Primitives I/Aquilla JumpShip Transport.blk)
+	Carrack Transport (Clan) (data/mechfiles/warship/Clan/Carrack Transport (Clan).blk)
+9
+	Sylvester Transport (Standard) (data/mechfiles/warship/LCN/Sylvester Transport.blk)
+	Faslane Yardship (Standard) (data/mechfiles/warship/IE3/Faslane Yard Ship.blk)
+12
+	Pinto Corvette (Standard) (data/mechfiles/warship/Periphery/Pinto Corvette.blk)
+14
+	Vigilant Corvette (Standard) (data/mechfiles/warship/SLDF/Vigilant Corvette.blk)
+15
+	Tracker Surveillance (Standard) (data/mechfiles/warship/SLDF/Tracker Surveillance.blk)
+19
+	Vincent Corvette Mk 39 (data/mechfiles/warship/SLDF/Vincent Corvette Mk39.blk)
+	Vincent Corvette Mk 42 (data/mechfiles/warship/Clan/Vincent Corvette Mk42.blk)
+20
+	Bonaventure Corvette (Standard) (data/mechfiles/warship/SLDF/Bonaventure Corvette.blk)
+	Naga Destroyer (Standard) (data/mechfiles/warship/SLDF/Naga Destroyer.blk)
+	Zechetinu II Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu II Corvette.blk)
+	Zechetinu Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu Corvette.blk)
+24
+	Nightwing Surveillance (Standard) (data/mechfiles/warship/SLDF/Nightwing Surveillance.blk)
+25
+	Essex I Destroyer (Standard) (data/mechfiles/warship/FR 2765/Periphery/Essex I Destroyer.blk)
+29
+	Baron Destroyer (Standard) (data/mechfiles/warship/SLDF/Baron Destroyer.blk)
+30
+	Whirlwind Destroyer (2606) (data/mechfiles/warship/SLDF/Whirlwind Destroyer (2606).blk)
+	Inazuma Corvette (Standard) (data/mechfiles/warship/DCN/Inazuma Corvette.blk)
+	Fredasa Corvette Raider (Standard) (data/mechfiles/warship/Clan/Fredasa CorvetteRaider.blk)
+31
+	Mako Corvette (Standard) (data/mechfiles/warship/LCN/Mako Corvette.blk)
+32
+	Naga Destroyer (Caspar II Control Ship) (data/mechfiles/warship/JHS Terra/Naga Caspar II Control Ship.blk)
+33
+	Eagle Frigate (Standard) (data/mechfiles/warship/FWLN/Eagle Frigate.blk)
+35
+	Carson Destroyer (Standard) (data/mechfiles/warship/SLDF/Carson Destroyer.blk)
+37
+	Essex Destroyer (2711) (data/mechfiles/warship/SLDF/Essex Destroyer (2711).blk)
+	Essex Destroyer (Clan) (data/mechfiles/warship/Clan/Essex Destroyer (Clan).blk)
+38
+	Samarkand Carrier Block I (data/mechfiles/warship/DCN/Samarkand Carrier Block I.blk)
+40
+	Concordat Frigate (2506) (data/mechfiles/warship/Hist Reunification War/Concordat Frigate (2506).blk)
+42
+	Winchester Cruiser (Standard) (data/mechfiles/warship/Periphery/Winchester Cruiser.blk)
+43
+	League Destroyer (Block I) (data/mechfiles/warship/FR 2765/FWL/League Block I.blk)
+44
+	Davion Destroyer Block I (data/mechfiles/warship/FSN/Davion Destroyer Block I.blk)
+47
+	Wagon Wheel Frigate (Standard) (data/mechfiles/warship/Periphery/Wagon Wheel Frigate.blk)
+48
+	M5C Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5C Caspar Drone WS.blk)
+	M5 Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5 Caspar Drone WS.blk)
+	Lola II Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola II Destroyer.blk)
+	Lola III Destroyer (2662) (data/mechfiles/warship/SLDF/Lola III Destroyer (2662).blk)
+	Lola I Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola I Destroyer.blk)
+	Lola III Destroyer (Clan) (data/mechfiles/warship/Clan/Lola III Destroyer (Clan).blk)
+50
+	Defender Battlecruiser (Standard) (data/mechfiles/warship/FR 2765/Davion/Defender Battlecruiser.blk)
+	Robinson Transport Block I (data/mechfiles/warship/FSN/Robinson Transport Block I.blk)
+52
+	Agamemnon Heavy Cruiser (Standard) (data/mechfiles/warship/FWLN/Agamemnon Heavy Cruiser.blk)
+54
+	Fox Corvette (Standard) (data/mechfiles/warship/FSN/Fox Corvette.blk)
+	Impavido Destroyer (Standard) (data/mechfiles/warship/FWLN/Impavido Destroyer.blk)
+58
+	Cruiser (Standard) (data/mechfiles/warship/FR 2765/Draconis Combine/Cruiser.blk)
+60
+	Suffren Destroyer (Standard) (data/mechfiles/warship/Comstar/Suffren Destroyer.blk)
+62
+	League Destroyer (Block II) (data/mechfiles/warship/FR 2765/FWL/League Block II.blk)
+65
+	Riga Frigate (Standard) (data/mechfiles/warship/SLDF/Riga Frigate.blk)
+	Whirlwind Destroyer (Clan) (data/mechfiles/warship/Clan/Whirlwind Destroyer (Clan).blk)
+68
+	Athena Cruiser (Standard) (data/mechfiles/warship/FR 2765/Periphery/Athena Cruiser.blk)
+70
+	Narukami Destroyer (Block I) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block I.blk)
+	Narukami Destroyer (Block II) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block II.blk)
+	Kyushu Frigate (Standard) (data/mechfiles/warship/DCN/Kyushu Frigate.blk)
+	Samarkand Carrier Block II (data/mechfiles/warship/DCN/Samarkand Carrier Block II.blk)
+	Tatsumaki Destroyer (Standard) (data/mechfiles/warship/DCN/Tatsumaki Destroyer.blk)
+72
+	Congress D Frigate (Standard) (data/mechfiles/warship/FR 2765/Davion/Congress D Frigate.blk)
+	Congress Frigate (2542) (data/mechfiles/warship/SLDF/Congress Frigate.blk)
+	Congress Frigate (Clan) (data/mechfiles/warship/Clan/Congress Frigate (Clan).blk)
+75
+	Commonwealth Light Cruiser (Block I) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block I.blk)
+	Commonwealth Light Cruiser (Block II) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block II.blk)
+80
+	Dante Frigate (Standard) (data/mechfiles/warship/Comstar/Dante Frigate.blk)
+	New Syrtis Carrier (2557) (data/mechfiles/warship/Hist Reunification War/New Syrtis Carrier (2557).blk)
+	Dreadnought Battleship (2330) (data/mechfiles/warship/Hist Reunification War/Dreadnought Battleship (2330).blk)
+81
+	Newgrange Yardship (Standard) (data/mechfiles/warship/JHS 3076/Newgrange Yardship.blk)
+84
+	Black Lion I-Battlecruiser (data/mechfiles/warship/FR 2765/Capellan/Black Lion I Battlecruiser.blk)
+85
+	Davion Destroyer Block II (data/mechfiles/warship/FSN/Davion Destroyer Block II.blk)
+88
+	Sovetskii Soyuz Heavy Cruiser (2742) (data/mechfiles/warship/SLDF/Sovetskii Soyuz Heavy Cruiser (2742).blk)
+	Dart Light Cruiser (Standard) (data/mechfiles/warship/SLDF/Dart Light Cruiser.blk)
+	Sovetskii Soyuz Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Sovetskii Soyuz Heavy Cruiser (Clan).blk)
+93
+	Avatar Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Avatar Heavy Cruiser.blk)
+	Robinson Transport Block II (data/mechfiles/warship/FSN/Robinson Transport Block II.blk)
+100
+	Riga II Destroyer/Carrier (Standard) (data/mechfiles/warship/FR 2765/Periphery/Riga II Destroyer Carrier.blk)
+	York Destroyer Carrier (Standard) (data/mechfiles/warship/Clan/York DestroyerCarrier.blk)
+101
+	Aegis Heavy Cruiser (2582) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2582).blk)
+	Aegis Heavy Cruiser (2372) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2372).blk)
+	Aegis Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Aegis Heavy Cruiser (Clan).blk)
+106
+	Volga Transport (2709) (data/mechfiles/warship/SLDF/Volga Transport (2709).blk)
+110
+	Liberator Cruiser (Standard) (data/mechfiles/warship/Clan/Liberator Cruiser.blk)
+125
+	Quixote Frigate (Standard) (data/mechfiles/warship/SLDF/Quixote Frigate.blk)
+128
+	Cameron Battlecruiser (2688) (data/mechfiles/warship/SLDF/Cameron Battlecruiser.blk)
+	Cameron Battlecruiser (Clan) (data/mechfiles/warship/Clan/Cameron Battlecruiser (Clan).blk)
+132
+	Volga Transport (Clan) (data/mechfiles/warship/Clan/Volga Transport (Clan).blk)
+134
+	Kirishima Cruiser (Standard) (data/mechfiles/warship/DCN/Kirishima Cruiser.blk)
+135
+	Du Shi Wang Battleship (Standard) (data/mechfiles/warship/CCN/Du Shi Wang Battleship.blk)
+138
+	Soyal Heavy Cruiser (Standard) (data/mechfiles/warship/FR 2765/Capellan/Soyal Heavy Cruiser.blk)
+139
+	Kimagure Pursuit Cruiser (Standard) (data/mechfiles/warship/SLDF/Kimagure Pursuit Cruiser.blk)
+	Kimagure Pursuit Cruiser (Surprise) (data/mechfiles/warship/XTR/Gunslingers/Kimagure Pursuit Cruiser Surprise.blk)
+140
+	Tharkad Battlecruiser (WoB) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (WoB).blk)
+	Tharkad Battlecruiser (2690) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (2690).blk)
+151
+	Luxor Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Luxor Heavy Cruiser.blk)
+155
+	Conqueror Battlecruiser Carrier (Standard) (data/mechfiles/warship/Clan/Conqueror BattlecruiserCarrier.blk)
+160
+	Monsoon Battleship (Lithium-Fusion) (data/mechfiles/warship/SLDF/Monsoon Battleship (Lithium-Fusion).blk)
+	Monsoon Battleship (Standard) (data/mechfiles/warship/SLDF/Monsoon Battleship.blk)
+168
+	Black Lion Battlecruiser (2691) (data/mechfiles/warship/SLDF/Black Lion Battlecruiser.blk)
+	Black Lion Battlecruiser (Clan) (data/mechfiles/warship/Clan/Black Lion Battlecruiser (Clan).blk)
+180
+	Quicksilver Mongoose Battleship (Standard) (data/mechfiles/warship/Clan/Quicksilver Mongoose Battleship.blk)
+183
+	Atreus Battleship (Standard) (data/mechfiles/warship/FWLN/Atreus Battleship.blk)
+201
+	Potemkin Troop Cruiser (2611) (data/mechfiles/warship/SLDF/Potemkin Troop Cruiser (2611).blk)
+	Potemkin Troop Cruiser (Clan) (data/mechfiles/warship/Clan/Potemkin Troop Cruiser (Clan).blk)
+250
+	McKenna Battleship (2652) (data/mechfiles/warship/SLDF/McKenna Battleship (2652).blk)
+	Farragut Battleship (Standard) (data/mechfiles/warship/SLDF/Farragut Battleship.blk)
+	Leviathan Heavy Transport (Standard) (data/mechfiles/warship/Clan/Leviathan Heavy Transport.blk)
+	McKenna Battleship (Clan) (data/mechfiles/warship/Clan/McKenna Battleship (Clan).blk)
+260
+	Stefan Amaris Battleship (Standard) (data/mechfiles/warship/Hist LOT II/Stefan Amaris Battleship.blk)
+284
+	Thera Carrier (Standard) (data/mechfiles/warship/FWLN/Thera Carrier.blk)
+285
+	Feng Huang Cruiser (Upgrade) (data/mechfiles/warship/CCN/Feng Huang Cruiser Upgrade.blk)
+	Feng Huang Cruiser (Standard) (data/mechfiles/warship/CCN/Feng Huang Cruiser.blk)
+290
+	Nightlord Battleship (Standard) (data/mechfiles/warship/Clan/Nightlord Battleship.blk)
+302
+	Avalon Cruiser (Standard) (data/mechfiles/warship/FSN/Avalon Cruiser.blk)
+342
+	Texas Battleship (2618) (data/mechfiles/warship/SLDF/Texas Battleship (2618).blk)
+	Texas Battleship (Clan) (data/mechfiles/warship/Clan/Texas Battleship (Clan).blk)
+474
+	Mjolnir Battlecruiser (Standard) (data/mechfiles/warship/LCN/Mjolnir Battlecruiser.blk)
+1000
+	Leviathan III Battleship (Standard) (data/mechfiles/warship/XTR/Republic III/Leviathan III Battleship.blk)
+	Leviathan II Battleship (Standard) (data/mechfiles/warship/Clan/Leviathan II Battleship.blk)
+Nose
+2
+	Bug-Eye Surveillance Ship (Standard) (data/mechfiles/warship/IE3/Bug Eye Surveillance Ship.blk)
+6
+	Carrack Transport (Merchant) (data/mechfiles/warship/Clan/Carrack Transport (Merchant).blk)
+9
+	Aquilla Transport Jumpship (Standard) (data/mechfiles/jumpships/XTRs/Primitives I/Aquilla JumpShip Transport.blk)
+10
+	Sylvester Transport (Standard) (data/mechfiles/warship/LCN/Sylvester Transport.blk)
+	Carrack Transport (Clan) (data/mechfiles/warship/Clan/Carrack Transport (Clan).blk)
+15
+	Pinto Corvette (Standard) (data/mechfiles/warship/Periphery/Pinto Corvette.blk)
+16
+	Vincent Corvette Mk 39 (data/mechfiles/warship/SLDF/Vincent Corvette Mk39.blk)
+	Vigilant Corvette (Standard) (data/mechfiles/warship/SLDF/Vigilant Corvette.blk)
+	Faslane Yardship (Standard) (data/mechfiles/warship/IE3/Faslane Yard Ship.blk)
+	Vincent Corvette Mk 42 (data/mechfiles/warship/Clan/Vincent Corvette Mk42.blk)
+17
+	Naga Destroyer (Standard) (data/mechfiles/warship/SLDF/Naga Destroyer.blk)
+18
+	Tracker Surveillance (Standard) (data/mechfiles/warship/SLDF/Tracker Surveillance.blk)
+21
+	Bonaventure Corvette (Standard) (data/mechfiles/warship/SLDF/Bonaventure Corvette.blk)
+24
+	Zechetinu II Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu II Corvette.blk)
+	Zechetinu Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu Corvette.blk)
+26
+	Essex I Destroyer (Standard) (data/mechfiles/warship/FR 2765/Periphery/Essex I Destroyer.blk)
+28
+	Nightwing Surveillance (Standard) (data/mechfiles/warship/SLDF/Nightwing Surveillance.blk)
+	Naga Destroyer (Caspar II Control Ship) (data/mechfiles/warship/JHS Terra/Naga Caspar II Control Ship.blk)
+	Inazuma Corvette (Standard) (data/mechfiles/warship/DCN/Inazuma Corvette.blk)
+31
+	Baron Destroyer (Standard) (data/mechfiles/warship/SLDF/Baron Destroyer.blk)
+35
+	League Destroyer (Block I) (data/mechfiles/warship/FR 2765/FWL/League Block I.blk)
+37
+	Essex Destroyer (2711) (data/mechfiles/warship/SLDF/Essex Destroyer (2711).blk)
+	Essex Destroyer (Clan) (data/mechfiles/warship/Clan/Essex Destroyer (Clan).blk)
+38
+	Mako Corvette (Standard) (data/mechfiles/warship/LCN/Mako Corvette.blk)
+39
+	Eagle Frigate (Standard) (data/mechfiles/warship/FWLN/Eagle Frigate.blk)
+40
+	Fredasa Corvette Raider (Standard) (data/mechfiles/warship/Clan/Fredasa CorvetteRaider.blk)
+42
+	Carson Destroyer (Standard) (data/mechfiles/warship/SLDF/Carson Destroyer.blk)
+44
+	Concordat Frigate (2506) (data/mechfiles/warship/Hist Reunification War/Concordat Frigate (2506).blk)
+45
+	Winchester Cruiser (Standard) (data/mechfiles/warship/Periphery/Winchester Cruiser.blk)
+46
+	Wagon Wheel Frigate (Standard) (data/mechfiles/warship/Periphery/Wagon Wheel Frigate.blk)
+48
+	M5C Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5C Caspar Drone WS.blk)
+	M5 Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5 Caspar Drone WS.blk)
+	Lola II Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola II Destroyer.blk)
+	Lola III Destroyer (2662) (data/mechfiles/warship/SLDF/Lola III Destroyer (2662).blk)
+	Lola I Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola I Destroyer.blk)
+	Samarkand Carrier Block I (data/mechfiles/warship/DCN/Samarkand Carrier Block I.blk)
+	Lola III Destroyer (Clan) (data/mechfiles/warship/Clan/Lola III Destroyer (Clan).blk)
+50
+	Whirlwind Destroyer (2606) (data/mechfiles/warship/SLDF/Whirlwind Destroyer (2606).blk)
+	Davion Destroyer Block I (data/mechfiles/warship/FSN/Davion Destroyer Block I.blk)
+	Impavido Destroyer (Standard) (data/mechfiles/warship/FWLN/Impavido Destroyer.blk)
+54
+	League Destroyer (Block II) (data/mechfiles/warship/FR 2765/FWL/League Block II.blk)
+56
+	Robinson Transport Block I (data/mechfiles/warship/FSN/Robinson Transport Block I.blk)
+57
+	Agamemnon Heavy Cruiser (Standard) (data/mechfiles/warship/FWLN/Agamemnon Heavy Cruiser.blk)
+60
+	Defender Battlecruiser (Standard) (data/mechfiles/warship/FR 2765/Davion/Defender Battlecruiser.blk)
+64
+	Cruiser (Standard) (data/mechfiles/warship/FR 2765/Draconis Combine/Cruiser.blk)
+70
+	Athena Cruiser (Standard) (data/mechfiles/warship/FR 2765/Periphery/Athena Cruiser.blk)
+	Riga Frigate (Standard) (data/mechfiles/warship/SLDF/Riga Frigate.blk)
+	Fox Corvette (Standard) (data/mechfiles/warship/FSN/Fox Corvette.blk)
+	Tatsumaki Destroyer (Standard) (data/mechfiles/warship/DCN/Tatsumaki Destroyer.blk)
+72
+	Black Lion I-Battlecruiser (data/mechfiles/warship/FR 2765/Capellan/Black Lion I Battlecruiser.blk)
+74
+	Sovetskii Soyuz Heavy Cruiser (2742) (data/mechfiles/warship/SLDF/Sovetskii Soyuz Heavy Cruiser (2742).blk)
+	Sovetskii Soyuz Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Sovetskii Soyuz Heavy Cruiser (Clan).blk)
+75
+	Commonwealth Light Cruiser (Block I) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block I.blk)
+	Commonwealth Light Cruiser (Block II) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block II.blk)
+	Congress D Frigate (Standard) (data/mechfiles/warship/FR 2765/Davion/Congress D Frigate.blk)
+	Narukami Destroyer (Block I) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block I.blk)
+	Narukami Destroyer (Block II) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block II.blk)
+	Congress Frigate (2542) (data/mechfiles/warship/SLDF/Congress Frigate.blk)
+	Congress Frigate (Clan) (data/mechfiles/warship/Clan/Congress Frigate (Clan).blk)
+80
+	Suffren Destroyer (Standard) (data/mechfiles/warship/Comstar/Suffren Destroyer.blk)
+	New Syrtis Carrier (2557) (data/mechfiles/warship/Hist Reunification War/New Syrtis Carrier (2557).blk)
+84
+	Newgrange Yardship (Standard) (data/mechfiles/warship/JHS 3076/Newgrange Yardship.blk)
+85
+	Dreadnought Battleship (2330) (data/mechfiles/warship/Hist Reunification War/Dreadnought Battleship (2330).blk)
+91
+	Aegis Heavy Cruiser (2582) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2582).blk)
+	Aegis Heavy Cruiser (2372) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2372).blk)
+	Samarkand Carrier Block II (data/mechfiles/warship/DCN/Samarkand Carrier Block II.blk)
+	Aegis Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Aegis Heavy Cruiser (Clan).blk)
+100
+	Dante Frigate (Standard) (data/mechfiles/warship/Comstar/Dante Frigate.blk)
+	Whirlwind Destroyer (Clan) (data/mechfiles/warship/Clan/Whirlwind Destroyer (Clan).blk)
+101
+	Dart Light Cruiser (Standard) (data/mechfiles/warship/SLDF/Dart Light Cruiser.blk)
+103
+	Avatar Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Avatar Heavy Cruiser.blk)
+104
+	Robinson Transport Block II (data/mechfiles/warship/FSN/Robinson Transport Block II.blk)
+105
+	Davion Destroyer Block II (data/mechfiles/warship/FSN/Davion Destroyer Block II.blk)
+120
+	Riga II Destroyer/Carrier (Standard) (data/mechfiles/warship/FR 2765/Periphery/Riga II Destroyer Carrier.blk)
+	Volga Transport (2709) (data/mechfiles/warship/SLDF/Volga Transport (2709).blk)
+	Cameron Battlecruiser (2688) (data/mechfiles/warship/SLDF/Cameron Battlecruiser.blk)
+	York Destroyer Carrier (Standard) (data/mechfiles/warship/Clan/York DestroyerCarrier.blk)
+	Cameron Battlecruiser (Clan) (data/mechfiles/warship/Clan/Cameron Battlecruiser (Clan).blk)
+137
+	Quixote Frigate (Standard) (data/mechfiles/warship/SLDF/Quixote Frigate.blk)
+140
+	Soyal Heavy Cruiser (Standard) (data/mechfiles/warship/FR 2765/Capellan/Soyal Heavy Cruiser.blk)
+	Kyushu Frigate (Standard) (data/mechfiles/warship/DCN/Kyushu Frigate.blk)
+145
+	Tharkad Battlecruiser (WoB) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (WoB).blk)
+	Tharkad Battlecruiser (2690) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (2690).blk)
+150
+	Volga Transport (Clan) (data/mechfiles/warship/Clan/Volga Transport (Clan).blk)
+151
+	Black Lion Battlecruiser (2691) (data/mechfiles/warship/SLDF/Black Lion Battlecruiser.blk)
+	Black Lion Battlecruiser (Clan) (data/mechfiles/warship/Clan/Black Lion Battlecruiser (Clan).blk)
+153
+	Luxor Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Luxor Heavy Cruiser.blk)
+179
+	Potemkin Troop Cruiser (2611) (data/mechfiles/warship/SLDF/Potemkin Troop Cruiser (2611).blk)
+	Potemkin Troop Cruiser (Clan) (data/mechfiles/warship/Clan/Potemkin Troop Cruiser (Clan).blk)
+180
+	Kimagure Pursuit Cruiser (Standard) (data/mechfiles/warship/SLDF/Kimagure Pursuit Cruiser.blk)
+	Kimagure Pursuit Cruiser (Surprise) (data/mechfiles/warship/XTR/Gunslingers/Kimagure Pursuit Cruiser Surprise.blk)
+187
+	Monsoon Battleship (Lithium-Fusion) (data/mechfiles/warship/SLDF/Monsoon Battleship (Lithium-Fusion).blk)
+	Monsoon Battleship (Standard) (data/mechfiles/warship/SLDF/Monsoon Battleship.blk)
+200
+	McKenna Battleship (2652) (data/mechfiles/warship/SLDF/McKenna Battleship (2652).blk)
+	Farragut Battleship (Standard) (data/mechfiles/warship/SLDF/Farragut Battleship.blk)
+	Kirishima Cruiser (Standard) (data/mechfiles/warship/DCN/Kirishima Cruiser.blk)
+	McKenna Battleship (Clan) (data/mechfiles/warship/Clan/McKenna Battleship (Clan).blk)
+203
+	Atreus Battleship (Standard) (data/mechfiles/warship/FWLN/Atreus Battleship.blk)
+215
+	Conqueror Battlecruiser Carrier (Standard) (data/mechfiles/warship/Clan/Conqueror BattlecruiserCarrier.blk)
+234
+	Texas Battleship (2618) (data/mechfiles/warship/SLDF/Texas Battleship (2618).blk)
+	Texas Battleship (Clan) (data/mechfiles/warship/Clan/Texas Battleship (Clan).blk)
+240
+	Du Shi Wang Battleship (Standard) (data/mechfiles/warship/CCN/Du Shi Wang Battleship.blk)
+	Liberator Cruiser (Standard) (data/mechfiles/warship/Clan/Liberator Cruiser.blk)
+250
+	Leviathan Heavy Transport (Standard) (data/mechfiles/warship/Clan/Leviathan Heavy Transport.blk)
+280
+	Stefan Amaris Battleship (Standard) (data/mechfiles/warship/Hist LOT II/Stefan Amaris Battleship.blk)
+300
+	Thera Carrier (Standard) (data/mechfiles/warship/FWLN/Thera Carrier.blk)
+310
+	Feng Huang Cruiser (Upgrade) (data/mechfiles/warship/CCN/Feng Huang Cruiser Upgrade.blk)
+	Feng Huang Cruiser (Standard) (data/mechfiles/warship/CCN/Feng Huang Cruiser.blk)
+344
+	Avalon Cruiser (Standard) (data/mechfiles/warship/FSN/Avalon Cruiser.blk)
+350
+	Nightlord Battleship (Standard) (data/mechfiles/warship/Clan/Nightlord Battleship.blk)
+380
+	Quicksilver Mongoose Battleship (Standard) (data/mechfiles/warship/Clan/Quicksilver Mongoose Battleship.blk)
+504
+	Mjolnir Battlecruiser (Standard) (data/mechfiles/warship/LCN/Mjolnir Battlecruiser.blk)
+1000
+	Leviathan III Battleship (Standard) (data/mechfiles/warship/XTR/Republic III/Leviathan III Battleship.blk)
+	Leviathan II Battleship (Standard) (data/mechfiles/warship/Clan/Leviathan II Battleship.blk)
+Right Front Side
+3
+	Bug-Eye Surveillance Ship (Standard) (data/mechfiles/warship/IE3/Bug Eye Surveillance Ship.blk)
+	Carrack Transport (Merchant) (data/mechfiles/warship/Clan/Carrack Transport (Merchant).blk)
+7
+	Aquilla Transport Jumpship (Standard) (data/mechfiles/jumpships/XTRs/Primitives I/Aquilla JumpShip Transport.blk)
+8
+	Carrack Transport (Clan) (data/mechfiles/warship/Clan/Carrack Transport (Clan).blk)
+9
+	Sylvester Transport (Standard) (data/mechfiles/warship/LCN/Sylvester Transport.blk)
+12
+	Pinto Corvette (Standard) (data/mechfiles/warship/Periphery/Pinto Corvette.blk)
+	Faslane Yardship (Standard) (data/mechfiles/warship/IE3/Faslane Yard Ship.blk)
+15
+	Tracker Surveillance (Standard) (data/mechfiles/warship/SLDF/Tracker Surveillance.blk)
+16
+	Vigilant Corvette (Standard) (data/mechfiles/warship/SLDF/Vigilant Corvette.blk)
+19
+	Vincent Corvette Mk 39 (data/mechfiles/warship/SLDF/Vincent Corvette Mk39.blk)
+	Vincent Corvette Mk 42 (data/mechfiles/warship/Clan/Vincent Corvette Mk42.blk)
+20
+	Bonaventure Corvette (Standard) (data/mechfiles/warship/SLDF/Bonaventure Corvette.blk)
+	Naga Destroyer (Standard) (data/mechfiles/warship/SLDF/Naga Destroyer.blk)
+21
+	Zechetinu II Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu II Corvette.blk)
+	Zechetinu Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu Corvette.blk)
+24
+	Nightwing Surveillance (Standard) (data/mechfiles/warship/SLDF/Nightwing Surveillance.blk)
+25
+	Essex I Destroyer (Standard) (data/mechfiles/warship/FR 2765/Periphery/Essex I Destroyer.blk)
+29
+	Baron Destroyer (Standard) (data/mechfiles/warship/SLDF/Baron Destroyer.blk)
+30
+	Inazuma Corvette (Standard) (data/mechfiles/warship/DCN/Inazuma Corvette.blk)
+	Fredasa Corvette Raider (Standard) (data/mechfiles/warship/Clan/Fredasa CorvetteRaider.blk)
+31
+	Mako Corvette (Standard) (data/mechfiles/warship/LCN/Mako Corvette.blk)
+32
+	Naga Destroyer (Caspar II Control Ship) (data/mechfiles/warship/JHS Terra/Naga Caspar II Control Ship.blk)
+35
+	Whirlwind Destroyer (2606) (data/mechfiles/warship/SLDF/Whirlwind Destroyer (2606).blk)
+	Carson Destroyer (Standard) (data/mechfiles/warship/SLDF/Carson Destroyer.blk)
+36
+	Eagle Frigate (Standard) (data/mechfiles/warship/FWLN/Eagle Frigate.blk)
+37
+	Essex Destroyer (2711) (data/mechfiles/warship/SLDF/Essex Destroyer (2711).blk)
+	Essex Destroyer (Clan) (data/mechfiles/warship/Clan/Essex Destroyer (Clan).blk)
+38
+	Samarkand Carrier Block I (data/mechfiles/warship/DCN/Samarkand Carrier Block I.blk)
+42
+	Winchester Cruiser (Standard) (data/mechfiles/warship/Periphery/Winchester Cruiser.blk)
+43
+	League Destroyer (Block I) (data/mechfiles/warship/FR 2765/FWL/League Block I.blk)
+44
+	Concordat Frigate (2506) (data/mechfiles/warship/Hist Reunification War/Concordat Frigate (2506).blk)
+47
+	Wagon Wheel Frigate (Standard) (data/mechfiles/warship/Periphery/Wagon Wheel Frigate.blk)
+48
+	M5C Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5C Caspar Drone WS.blk)
+	M5 Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5 Caspar Drone WS.blk)
+	Lola II Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola II Destroyer.blk)
+	Lola III Destroyer (2662) (data/mechfiles/warship/SLDF/Lola III Destroyer (2662).blk)
+	Lola I Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola I Destroyer.blk)
+	Lola III Destroyer (Clan) (data/mechfiles/warship/Clan/Lola III Destroyer (Clan).blk)
+49
+	Davion Destroyer Block I (data/mechfiles/warship/FSN/Davion Destroyer Block I.blk)
+50
+	Robinson Transport Block I (data/mechfiles/warship/FSN/Robinson Transport Block I.blk)
+55
+	Agamemnon Heavy Cruiser (Standard) (data/mechfiles/warship/FWLN/Agamemnon Heavy Cruiser.blk)
+	Impavido Destroyer (Standard) (data/mechfiles/warship/FWLN/Impavido Destroyer.blk)
+58
+	Cruiser (Standard) (data/mechfiles/warship/FR 2765/Draconis Combine/Cruiser.blk)
+60
+	Defender Battlecruiser (Standard) (data/mechfiles/warship/FR 2765/Davion/Defender Battlecruiser.blk)
+62
+	League Destroyer (Block II) (data/mechfiles/warship/FR 2765/FWL/League Block II.blk)
+63
+	Suffren Destroyer (Standard) (data/mechfiles/warship/Comstar/Suffren Destroyer.blk)
+65
+	Riga Frigate (Standard) (data/mechfiles/warship/SLDF/Riga Frigate.blk)
+67
+	Fox Corvette (Standard) (data/mechfiles/warship/FSN/Fox Corvette.blk)
+68
+	Athena Cruiser (Standard) (data/mechfiles/warship/FR 2765/Periphery/Athena Cruiser.blk)
+70
+	Samarkand Carrier Block II (data/mechfiles/warship/DCN/Samarkand Carrier Block II.blk)
+	Tatsumaki Destroyer (Standard) (data/mechfiles/warship/DCN/Tatsumaki Destroyer.blk)
+	Whirlwind Destroyer (Clan) (data/mechfiles/warship/Clan/Whirlwind Destroyer (Clan).blk)
+72
+	Congress D Frigate (Standard) (data/mechfiles/warship/FR 2765/Davion/Congress D Frigate.blk)
+	Congress Frigate (2542) (data/mechfiles/warship/SLDF/Congress Frigate.blk)
+	Congress Frigate (Clan) (data/mechfiles/warship/Clan/Congress Frigate (Clan).blk)
+75
+	Commonwealth Light Cruiser (Block I) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block I.blk)
+	Commonwealth Light Cruiser (Block II) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block II.blk)
+	Narukami Destroyer (Block I) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block I.blk)
+	Narukami Destroyer (Block II) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block II.blk)
+80
+	New Syrtis Carrier (2557) (data/mechfiles/warship/Hist Reunification War/New Syrtis Carrier (2557).blk)
+81
+	Newgrange Yardship (Standard) (data/mechfiles/warship/JHS 3076/Newgrange Yardship.blk)
+84
+	Black Lion I-Battlecruiser (data/mechfiles/warship/FR 2765/Capellan/Black Lion I Battlecruiser.blk)
+85
+	Dreadnought Battleship (2330) (data/mechfiles/warship/Hist Reunification War/Dreadnought Battleship (2330).blk)
+88
+	Sovetskii Soyuz Heavy Cruiser (2742) (data/mechfiles/warship/SLDF/Sovetskii Soyuz Heavy Cruiser (2742).blk)
+	Dart Light Cruiser (Standard) (data/mechfiles/warship/SLDF/Dart Light Cruiser.blk)
+	Sovetskii Soyuz Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Sovetskii Soyuz Heavy Cruiser (Clan).blk)
+90
+	Dante Frigate (Standard) (data/mechfiles/warship/Comstar/Dante Frigate.blk)
+	Davion Destroyer Block II (data/mechfiles/warship/FSN/Davion Destroyer Block II.blk)
+	Kyushu Frigate (Standard) (data/mechfiles/warship/DCN/Kyushu Frigate.blk)
+93
+	Avatar Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Avatar Heavy Cruiser.blk)
+	Robinson Transport Block II (data/mechfiles/warship/FSN/Robinson Transport Block II.blk)
+100
+	Riga II Destroyer/Carrier (Standard) (data/mechfiles/warship/FR 2765/Periphery/Riga II Destroyer Carrier.blk)
+	York Destroyer Carrier (Standard) (data/mechfiles/warship/Clan/York DestroyerCarrier.blk)
+101
+	Aegis Heavy Cruiser (2582) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2582).blk)
+	Aegis Heavy Cruiser (2372) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2372).blk)
+	Aegis Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Aegis Heavy Cruiser (Clan).blk)
+106
+	Volga Transport (2709) (data/mechfiles/warship/SLDF/Volga Transport (2709).blk)
+110
+	Liberator Cruiser (Standard) (data/mechfiles/warship/Clan/Liberator Cruiser.blk)
+125
+	Quixote Frigate (Standard) (data/mechfiles/warship/SLDF/Quixote Frigate.blk)
+128
+	Cameron Battlecruiser (2688) (data/mechfiles/warship/SLDF/Cameron Battlecruiser.blk)
+	Cameron Battlecruiser (Clan) (data/mechfiles/warship/Clan/Cameron Battlecruiser (Clan).blk)
+132
+	Volga Transport (Clan) (data/mechfiles/warship/Clan/Volga Transport (Clan).blk)
+135
+	Du Shi Wang Battleship (Standard) (data/mechfiles/warship/CCN/Du Shi Wang Battleship.blk)
+138
+	Soyal Heavy Cruiser (Standard) (data/mechfiles/warship/FR 2765/Capellan/Soyal Heavy Cruiser.blk)
+140
+	Tharkad Battlecruiser (WoB) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (WoB).blk)
+	Tharkad Battlecruiser (2690) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (2690).blk)
+150
+	Kimagure Pursuit Cruiser (Standard) (data/mechfiles/warship/SLDF/Kimagure Pursuit Cruiser.blk)
+	Kimagure Pursuit Cruiser (Surprise) (data/mechfiles/warship/XTR/Gunslingers/Kimagure Pursuit Cruiser Surprise.blk)
+151
+	Luxor Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Luxor Heavy Cruiser.blk)
+155
+	Kirishima Cruiser (Standard) (data/mechfiles/warship/DCN/Kirishima Cruiser.blk)
+160
+	Monsoon Battleship (Lithium-Fusion) (data/mechfiles/warship/SLDF/Monsoon Battleship (Lithium-Fusion).blk)
+	Monsoon Battleship (Standard) (data/mechfiles/warship/SLDF/Monsoon Battleship.blk)
+168
+	Black Lion Battlecruiser (2691) (data/mechfiles/warship/SLDF/Black Lion Battlecruiser.blk)
+	Black Lion Battlecruiser (Clan) (data/mechfiles/warship/Clan/Black Lion Battlecruiser (Clan).blk)
+180
+	Quicksilver Mongoose Battleship (Standard) (data/mechfiles/warship/Clan/Quicksilver Mongoose Battleship.blk)
+183
+	Atreus Battleship (Standard) (data/mechfiles/warship/FWLN/Atreus Battleship.blk)
+201
+	Potemkin Troop Cruiser (2611) (data/mechfiles/warship/SLDF/Potemkin Troop Cruiser (2611).blk)
+	Potemkin Troop Cruiser (Clan) (data/mechfiles/warship/Clan/Potemkin Troop Cruiser (Clan).blk)
+210
+	Conqueror Battlecruiser Carrier (Standard) (data/mechfiles/warship/Clan/Conqueror BattlecruiserCarrier.blk)
+250
+	McKenna Battleship (2652) (data/mechfiles/warship/SLDF/McKenna Battleship (2652).blk)
+	Farragut Battleship (Standard) (data/mechfiles/warship/SLDF/Farragut Battleship.blk)
+	Leviathan Heavy Transport (Standard) (data/mechfiles/warship/Clan/Leviathan Heavy Transport.blk)
+	McKenna Battleship (Clan) (data/mechfiles/warship/Clan/McKenna Battleship (Clan).blk)
+260
+	Stefan Amaris Battleship (Standard) (data/mechfiles/warship/Hist LOT II/Stefan Amaris Battleship.blk)
+293
+	Feng Huang Cruiser (Upgrade) (data/mechfiles/warship/CCN/Feng Huang Cruiser Upgrade.blk)
+	Feng Huang Cruiser (Standard) (data/mechfiles/warship/CCN/Feng Huang Cruiser.blk)
+297
+	Thera Carrier (Standard) (data/mechfiles/warship/FWLN/Thera Carrier.blk)
+310
+	Avalon Cruiser (Standard) (data/mechfiles/warship/FSN/Avalon Cruiser.blk)
+320
+	Nightlord Battleship (Standard) (data/mechfiles/warship/Clan/Nightlord Battleship.blk)
+342
+	Texas Battleship (2618) (data/mechfiles/warship/SLDF/Texas Battleship (2618).blk)
+	Texas Battleship (Clan) (data/mechfiles/warship/Clan/Texas Battleship (Clan).blk)
+479
+	Mjolnir Battlecruiser (Standard) (data/mechfiles/warship/LCN/Mjolnir Battlecruiser.blk)
+1000
+	Leviathan III Battleship (Standard) (data/mechfiles/warship/XTR/Republic III/Leviathan III Battleship.blk)
+	Leviathan II Battleship (Standard) (data/mechfiles/warship/Clan/Leviathan II Battleship.blk)
+Aft
+2
+	Bug-Eye Surveillance Ship (Standard) (data/mechfiles/warship/IE3/Bug Eye Surveillance Ship.blk)
+	Carrack Transport (Merchant) (data/mechfiles/warship/Clan/Carrack Transport (Merchant).blk)
+5
+	Aquilla Transport Jumpship (Standard) (data/mechfiles/jumpships/XTRs/Primitives I/Aquilla JumpShip Transport.blk)
+8
+	Sylvester Transport (Standard) (data/mechfiles/warship/LCN/Sylvester Transport.blk)
+	Faslane Yardship (Standard) (data/mechfiles/warship/IE3/Faslane Yard Ship.blk)
+9
+	Carrack Transport (Clan) (data/mechfiles/warship/Clan/Carrack Transport (Clan).blk)
+11
+	Pinto Corvette (Standard) (data/mechfiles/warship/Periphery/Pinto Corvette.blk)
+13
+	Vigilant Corvette (Standard) (data/mechfiles/warship/SLDF/Vigilant Corvette.blk)
+15
+	Naga Destroyer (Standard) (data/mechfiles/warship/SLDF/Naga Destroyer.blk)
+	Tracker Surveillance (Standard) (data/mechfiles/warship/SLDF/Tracker Surveillance.blk)
+16
+	Vincent Corvette Mk 39 (data/mechfiles/warship/SLDF/Vincent Corvette Mk39.blk)
+	Vincent Corvette Mk 42 (data/mechfiles/warship/Clan/Vincent Corvette Mk42.blk)
+17
+	Bonaventure Corvette (Standard) (data/mechfiles/warship/SLDF/Bonaventure Corvette.blk)
+20
+	Zechetinu II Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu II Corvette.blk)
+	Zechetinu Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu Corvette.blk)
+22
+	Nightwing Surveillance (Standard) (data/mechfiles/warship/SLDF/Nightwing Surveillance.blk)
+24
+	Essex I Destroyer (Standard) (data/mechfiles/warship/FR 2765/Periphery/Essex I Destroyer.blk)
+25
+	Baron Destroyer (Standard) (data/mechfiles/warship/SLDF/Baron Destroyer.blk)
+	Inazuma Corvette (Standard) (data/mechfiles/warship/DCN/Inazuma Corvette.blk)
+28
+	Mako Corvette (Standard) (data/mechfiles/warship/LCN/Mako Corvette.blk)
+	Naga Destroyer (Caspar II Control Ship) (data/mechfiles/warship/JHS Terra/Naga Caspar II Control Ship.blk)
+29
+	Davion Destroyer Block I (data/mechfiles/warship/FSN/Davion Destroyer Block I.blk)
+31
+	Carson Destroyer (Standard) (data/mechfiles/warship/SLDF/Carson Destroyer.blk)
+33
+	Eagle Frigate (Standard) (data/mechfiles/warship/FWLN/Eagle Frigate.blk)
+34
+	League Destroyer (Block I) (data/mechfiles/warship/FR 2765/FWL/League Block I.blk)
+35
+	Essex Destroyer (2711) (data/mechfiles/warship/SLDF/Essex Destroyer (2711).blk)
+	Concordat Frigate (2506) (data/mechfiles/warship/Hist Reunification War/Concordat Frigate (2506).blk)
+	Essex Destroyer (Clan) (data/mechfiles/warship/Clan/Essex Destroyer (Clan).blk)
+	Fredasa Corvette Raider (Standard) (data/mechfiles/warship/Clan/Fredasa CorvetteRaider.blk)
+40
+	Wagon Wheel Frigate (Standard) (data/mechfiles/warship/Periphery/Wagon Wheel Frigate.blk)
+	Whirlwind Destroyer (2606) (data/mechfiles/warship/SLDF/Whirlwind Destroyer (2606).blk)
+	Samarkand Carrier Block I (data/mechfiles/warship/DCN/Samarkand Carrier Block I.blk)
+41
+	Winchester Cruiser (Standard) (data/mechfiles/warship/Periphery/Winchester Cruiser.blk)
+44
+	League Destroyer (Block II) (data/mechfiles/warship/FR 2765/FWL/League Block II.blk)
+45
+	Robinson Transport Block I (data/mechfiles/warship/FSN/Robinson Transport Block I.blk)
+48
+	M5C Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5C Caspar Drone WS.blk)
+	M5 Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5 Caspar Drone WS.blk)
+	Lola II Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola II Destroyer.blk)
+	Lola III Destroyer (2662) (data/mechfiles/warship/SLDF/Lola III Destroyer (2662).blk)
+	Lola I Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola I Destroyer.blk)
+	Lola III Destroyer (Clan) (data/mechfiles/warship/Clan/Lola III Destroyer (Clan).blk)
+50
+	Defender Battlecruiser (Standard) (data/mechfiles/warship/FR 2765/Davion/Defender Battlecruiser.blk)
+	Impavido Destroyer (Standard) (data/mechfiles/warship/FWLN/Impavido Destroyer.blk)
+52
+	Cruiser (Standard) (data/mechfiles/warship/FR 2765/Draconis Combine/Cruiser.blk)
+53
+	Agamemnon Heavy Cruiser (Standard) (data/mechfiles/warship/FWLN/Agamemnon Heavy Cruiser.blk)
+60
+	Tatsumaki Destroyer (Standard) (data/mechfiles/warship/DCN/Tatsumaki Destroyer.blk)
+64
+	Fox Corvette (Standard) (data/mechfiles/warship/FSN/Fox Corvette.blk)
+65
+	Narukami Destroyer (Block I) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block I.blk)
+	Narukami Destroyer (Block II) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block II.blk)
+67
+	Riga Frigate (Standard) (data/mechfiles/warship/SLDF/Riga Frigate.blk)
+68
+	Sovetskii Soyuz Heavy Cruiser (2742) (data/mechfiles/warship/SLDF/Sovetskii Soyuz Heavy Cruiser (2742).blk)
+	Sovetskii Soyuz Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Sovetskii Soyuz Heavy Cruiser (Clan).blk)
+70
+	Dante Frigate (Standard) (data/mechfiles/warship/Comstar/Dante Frigate.blk)
+	Suffren Destroyer (Standard) (data/mechfiles/warship/Comstar/Suffren Destroyer.blk)
+	Athena Cruiser (Standard) (data/mechfiles/warship/FR 2765/Periphery/Athena Cruiser.blk)
+	New Syrtis Carrier (2557) (data/mechfiles/warship/Hist Reunification War/New Syrtis Carrier (2557).blk)
+72
+	Black Lion I-Battlecruiser (data/mechfiles/warship/FR 2765/Capellan/Black Lion I Battlecruiser.blk)
+75
+	Commonwealth Light Cruiser (Block I) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block I.blk)
+	Commonwealth Light Cruiser (Block II) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block II.blk)
+	Congress D Frigate (Standard) (data/mechfiles/warship/FR 2765/Davion/Congress D Frigate.blk)
+	Congress Frigate (2542) (data/mechfiles/warship/SLDF/Congress Frigate.blk)
+	Congress Frigate (Clan) (data/mechfiles/warship/Clan/Congress Frigate (Clan).blk)
+79
+	Dart Light Cruiser (Standard) (data/mechfiles/warship/SLDF/Dart Light Cruiser.blk)
+80
+	Davion Destroyer Block II (data/mechfiles/warship/FSN/Davion Destroyer Block II.blk)
+	Dreadnought Battleship (2330) (data/mechfiles/warship/Hist Reunification War/Dreadnought Battleship (2330).blk)
+	Samarkand Carrier Block II (data/mechfiles/warship/DCN/Samarkand Carrier Block II.blk)
+	Whirlwind Destroyer (Clan) (data/mechfiles/warship/Clan/Whirlwind Destroyer (Clan).blk)
+83
+	Avatar Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Avatar Heavy Cruiser.blk)
+84
+	Robinson Transport Block II (data/mechfiles/warship/FSN/Robinson Transport Block II.blk)
+91
+	Aegis Heavy Cruiser (2582) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2582).blk)
+	Aegis Heavy Cruiser (2372) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2372).blk)
+	Newgrange Yardship (Standard) (data/mechfiles/warship/JHS 3076/Newgrange Yardship.blk)
+	Aegis Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Aegis Heavy Cruiser (Clan).blk)
+110
+	Kyushu Frigate (Standard) (data/mechfiles/warship/DCN/Kyushu Frigate.blk)
+112
+	Volga Transport (2709) (data/mechfiles/warship/SLDF/Volga Transport (2709).blk)
+113
+	Quixote Frigate (Standard) (data/mechfiles/warship/SLDF/Quixote Frigate.blk)
+118
+	Cameron Battlecruiser (2688) (data/mechfiles/warship/SLDF/Cameron Battlecruiser.blk)
+	Cameron Battlecruiser (Clan) (data/mechfiles/warship/Clan/Cameron Battlecruiser (Clan).blk)
+120
+	Riga II Destroyer/Carrier (Standard) (data/mechfiles/warship/FR 2765/Periphery/Riga II Destroyer Carrier.blk)
+	Kimagure Pursuit Cruiser (Standard) (data/mechfiles/warship/SLDF/Kimagure Pursuit Cruiser.blk)
+	Kimagure Pursuit Cruiser (Surprise) (data/mechfiles/warship/XTR/Gunslingers/Kimagure Pursuit Cruiser Surprise.blk)
+	Du Shi Wang Battleship (Standard) (data/mechfiles/warship/CCN/Du Shi Wang Battleship.blk)
+	York Destroyer Carrier (Standard) (data/mechfiles/warship/Clan/York DestroyerCarrier.blk)
+130
+	Tharkad Battlecruiser (WoB) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (WoB).blk)
+	Tharkad Battlecruiser (2690) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (2690).blk)
+132
+	Soyal Heavy Cruiser (Standard) (data/mechfiles/warship/FR 2765/Capellan/Soyal Heavy Cruiser.blk)
+140
+	Volga Transport (Clan) (data/mechfiles/warship/Clan/Volga Transport (Clan).blk)
+142
+	Conqueror Battlecruiser Carrier (Standard) (data/mechfiles/warship/Clan/Conqueror BattlecruiserCarrier.blk)
+143
+	McKenna Battleship (2652) (data/mechfiles/warship/SLDF/McKenna Battleship (2652).blk)
+	Farragut Battleship (Standard) (data/mechfiles/warship/SLDF/Farragut Battleship.blk)
+	McKenna Battleship (Clan) (data/mechfiles/warship/Clan/McKenna Battleship (Clan).blk)
+145
+	Luxor Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Luxor Heavy Cruiser.blk)
+	Quicksilver Mongoose Battleship (Standard) (data/mechfiles/warship/Clan/Quicksilver Mongoose Battleship.blk)
+150
+	Kirishima Cruiser (Standard) (data/mechfiles/warship/DCN/Kirishima Cruiser.blk)
+151
+	Black Lion Battlecruiser (2691) (data/mechfiles/warship/SLDF/Black Lion Battlecruiser.blk)
+	Black Lion Battlecruiser (Clan) (data/mechfiles/warship/Clan/Black Lion Battlecruiser (Clan).blk)
+156
+	Potemkin Troop Cruiser (2611) (data/mechfiles/warship/SLDF/Potemkin Troop Cruiser (2611).blk)
+	Potemkin Troop Cruiser (Clan) (data/mechfiles/warship/Clan/Potemkin Troop Cruiser (Clan).blk)
+165
+	Atreus Battleship (Standard) (data/mechfiles/warship/FWLN/Atreus Battleship.blk)
+170
+	Monsoon Battleship (Lithium-Fusion) (data/mechfiles/warship/SLDF/Monsoon Battleship (Lithium-Fusion).blk)
+	Monsoon Battleship (Standard) (data/mechfiles/warship/SLDF/Monsoon Battleship.blk)
+229
+	Liberator Cruiser (Standard) (data/mechfiles/warship/Clan/Liberator Cruiser.blk)
+234
+	Texas Battleship (2618) (data/mechfiles/warship/SLDF/Texas Battleship (2618).blk)
+	Texas Battleship (Clan) (data/mechfiles/warship/Clan/Texas Battleship (Clan).blk)
+250
+	Leviathan Heavy Transport (Standard) (data/mechfiles/warship/Clan/Leviathan Heavy Transport.blk)
+251
+	Stefan Amaris Battleship (Standard) (data/mechfiles/warship/Hist LOT II/Stefan Amaris Battleship.blk)
+275
+	Avalon Cruiser (Standard) (data/mechfiles/warship/FSN/Avalon Cruiser.blk)
+280
+	Feng Huang Cruiser (Upgrade) (data/mechfiles/warship/CCN/Feng Huang Cruiser Upgrade.blk)
+	Feng Huang Cruiser (Standard) (data/mechfiles/warship/CCN/Feng Huang Cruiser.blk)
+292
+	Thera Carrier (Standard) (data/mechfiles/warship/FWLN/Thera Carrier.blk)
+298
+	Nightlord Battleship (Standard) (data/mechfiles/warship/Clan/Nightlord Battleship.blk)
+474
+	Mjolnir Battlecruiser (Standard) (data/mechfiles/warship/LCN/Mjolnir Battlecruiser.blk)
+1000
+	Leviathan III Battleship (Standard) (data/mechfiles/warship/XTR/Republic III/Leviathan III Battleship.blk)
+	Leviathan II Battleship (Standard) (data/mechfiles/warship/Clan/Leviathan II Battleship.blk)
+Left Front Side
+3
+	Bug-Eye Surveillance Ship (Standard) (data/mechfiles/warship/IE3/Bug Eye Surveillance Ship.blk)
+	Carrack Transport (Merchant) (data/mechfiles/warship/Clan/Carrack Transport (Merchant).blk)
+7
+	Aquilla Transport Jumpship (Standard) (data/mechfiles/jumpships/XTRs/Primitives I/Aquilla JumpShip Transport.blk)
+8
+	Carrack Transport (Clan) (data/mechfiles/warship/Clan/Carrack Transport (Clan).blk)
+9
+	Sylvester Transport (Standard) (data/mechfiles/warship/LCN/Sylvester Transport.blk)
+12
+	Pinto Corvette (Standard) (data/mechfiles/warship/Periphery/Pinto Corvette.blk)
+	Faslane Yardship (Standard) (data/mechfiles/warship/IE3/Faslane Yard Ship.blk)
+15
+	Tracker Surveillance (Standard) (data/mechfiles/warship/SLDF/Tracker Surveillance.blk)
+16
+	Vigilant Corvette (Standard) (data/mechfiles/warship/SLDF/Vigilant Corvette.blk)
+19
+	Vincent Corvette Mk 39 (data/mechfiles/warship/SLDF/Vincent Corvette Mk39.blk)
+	Vincent Corvette Mk 42 (data/mechfiles/warship/Clan/Vincent Corvette Mk42.blk)
+20
+	Bonaventure Corvette (Standard) (data/mechfiles/warship/SLDF/Bonaventure Corvette.blk)
+	Naga Destroyer (Standard) (data/mechfiles/warship/SLDF/Naga Destroyer.blk)
+21
+	Zechetinu II Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu II Corvette.blk)
+	Zechetinu Corvette (Standard) (data/mechfiles/warship/FWLN/Zechetinu Corvette.blk)
+24
+	Nightwing Surveillance (Standard) (data/mechfiles/warship/SLDF/Nightwing Surveillance.blk)
+25
+	Essex I Destroyer (Standard) (data/mechfiles/warship/FR 2765/Periphery/Essex I Destroyer.blk)
+29
+	Baron Destroyer (Standard) (data/mechfiles/warship/SLDF/Baron Destroyer.blk)
+30
+	Inazuma Corvette (Standard) (data/mechfiles/warship/DCN/Inazuma Corvette.blk)
+	Fredasa Corvette Raider (Standard) (data/mechfiles/warship/Clan/Fredasa CorvetteRaider.blk)
+31
+	Mako Corvette (Standard) (data/mechfiles/warship/LCN/Mako Corvette.blk)
+32
+	Naga Destroyer (Caspar II Control Ship) (data/mechfiles/warship/JHS Terra/Naga Caspar II Control Ship.blk)
+35
+	Whirlwind Destroyer (2606) (data/mechfiles/warship/SLDF/Whirlwind Destroyer (2606).blk)
+	Carson Destroyer (Standard) (data/mechfiles/warship/SLDF/Carson Destroyer.blk)
+36
+	Eagle Frigate (Standard) (data/mechfiles/warship/FWLN/Eagle Frigate.blk)
+37
+	Essex Destroyer (2711) (data/mechfiles/warship/SLDF/Essex Destroyer (2711).blk)
+	Essex Destroyer (Clan) (data/mechfiles/warship/Clan/Essex Destroyer (Clan).blk)
+38
+	Samarkand Carrier Block I (data/mechfiles/warship/DCN/Samarkand Carrier Block I.blk)
+42
+	Winchester Cruiser (Standard) (data/mechfiles/warship/Periphery/Winchester Cruiser.blk)
+43
+	League Destroyer (Block I) (data/mechfiles/warship/FR 2765/FWL/League Block I.blk)
+44
+	Concordat Frigate (2506) (data/mechfiles/warship/Hist Reunification War/Concordat Frigate (2506).blk)
+47
+	Wagon Wheel Frigate (Standard) (data/mechfiles/warship/Periphery/Wagon Wheel Frigate.blk)
+48
+	M5C Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5C Caspar Drone WS.blk)
+	M5 Capital Drone (Caspar) (data/mechfiles/warship/Hist LOT I/M5 Caspar Drone WS.blk)
+	Lola II Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola II Destroyer.blk)
+	Lola III Destroyer (2662) (data/mechfiles/warship/SLDF/Lola III Destroyer (2662).blk)
+	Lola I Destroyer (Standard) (data/mechfiles/warship/SLDF/Lola I Destroyer.blk)
+	Lola III Destroyer (Clan) (data/mechfiles/warship/Clan/Lola III Destroyer (Clan).blk)
+49
+	Davion Destroyer Block I (data/mechfiles/warship/FSN/Davion Destroyer Block I.blk)
+50
+	Robinson Transport Block I (data/mechfiles/warship/FSN/Robinson Transport Block I.blk)
+55
+	Agamemnon Heavy Cruiser (Standard) (data/mechfiles/warship/FWLN/Agamemnon Heavy Cruiser.blk)
+	Impavido Destroyer (Standard) (data/mechfiles/warship/FWLN/Impavido Destroyer.blk)
+58
+	Cruiser (Standard) (data/mechfiles/warship/FR 2765/Draconis Combine/Cruiser.blk)
+60
+	Defender Battlecruiser (Standard) (data/mechfiles/warship/FR 2765/Davion/Defender Battlecruiser.blk)
+62
+	League Destroyer (Block II) (data/mechfiles/warship/FR 2765/FWL/League Block II.blk)
+63
+	Suffren Destroyer (Standard) (data/mechfiles/warship/Comstar/Suffren Destroyer.blk)
+65
+	Riga Frigate (Standard) (data/mechfiles/warship/SLDF/Riga Frigate.blk)
+67
+	Fox Corvette (Standard) (data/mechfiles/warship/FSN/Fox Corvette.blk)
+68
+	Athena Cruiser (Standard) (data/mechfiles/warship/FR 2765/Periphery/Athena Cruiser.blk)
+70
+	Samarkand Carrier Block II (data/mechfiles/warship/DCN/Samarkand Carrier Block II.blk)
+	Tatsumaki Destroyer (Standard) (data/mechfiles/warship/DCN/Tatsumaki Destroyer.blk)
+	Whirlwind Destroyer (Clan) (data/mechfiles/warship/Clan/Whirlwind Destroyer (Clan).blk)
+72
+	Congress D Frigate (Standard) (data/mechfiles/warship/FR 2765/Davion/Congress D Frigate.blk)
+	Congress Frigate (2542) (data/mechfiles/warship/SLDF/Congress Frigate.blk)
+	Congress Frigate (Clan) (data/mechfiles/warship/Clan/Congress Frigate (Clan).blk)
+75
+	Commonwealth Light Cruiser (Block I) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block I.blk)
+	Commonwealth Light Cruiser (Block II) (data/mechfiles/warship/FR 2765/Steiner/Commonwealth Light Cruiser Block II.blk)
+	Narukami Destroyer (Block I) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block I.blk)
+	Narukami Destroyer (Block II) (data/mechfiles/warship/FR 2765/Draconis Combine/Narukami Block II.blk)
+80
+	New Syrtis Carrier (2557) (data/mechfiles/warship/Hist Reunification War/New Syrtis Carrier (2557).blk)
+81
+	Newgrange Yardship (Standard) (data/mechfiles/warship/JHS 3076/Newgrange Yardship.blk)
+84
+	Black Lion I-Battlecruiser (data/mechfiles/warship/FR 2765/Capellan/Black Lion I Battlecruiser.blk)
+85
+	Dreadnought Battleship (2330) (data/mechfiles/warship/Hist Reunification War/Dreadnought Battleship (2330).blk)
+88
+	Sovetskii Soyuz Heavy Cruiser (2742) (data/mechfiles/warship/SLDF/Sovetskii Soyuz Heavy Cruiser (2742).blk)
+	Dart Light Cruiser (Standard) (data/mechfiles/warship/SLDF/Dart Light Cruiser.blk)
+	Sovetskii Soyuz Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Sovetskii Soyuz Heavy Cruiser (Clan).blk)
+90
+	Dante Frigate (Standard) (data/mechfiles/warship/Comstar/Dante Frigate.blk)
+	Davion Destroyer Block II (data/mechfiles/warship/FSN/Davion Destroyer Block II.blk)
+	Kyushu Frigate (Standard) (data/mechfiles/warship/DCN/Kyushu Frigate.blk)
+93
+	Avatar Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Avatar Heavy Cruiser.blk)
+	Robinson Transport Block II (data/mechfiles/warship/FSN/Robinson Transport Block II.blk)
+100
+	Riga II Destroyer/Carrier (Standard) (data/mechfiles/warship/FR 2765/Periphery/Riga II Destroyer Carrier.blk)
+	York Destroyer Carrier (Standard) (data/mechfiles/warship/Clan/York DestroyerCarrier.blk)
+101
+	Aegis Heavy Cruiser (2582) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2582).blk)
+	Aegis Heavy Cruiser (2372) (data/mechfiles/warship/SLDF/Aegis Heavy Cruiser (2372).blk)
+	Aegis Heavy Cruiser (Clan) (data/mechfiles/warship/Clan/Aegis Heavy Cruiser (Clan).blk)
+106
+	Volga Transport (2709) (data/mechfiles/warship/SLDF/Volga Transport (2709).blk)
+110
+	Liberator Cruiser (Standard) (data/mechfiles/warship/Clan/Liberator Cruiser.blk)
+125
+	Quixote Frigate (Standard) (data/mechfiles/warship/SLDF/Quixote Frigate.blk)
+128
+	Cameron Battlecruiser (2688) (data/mechfiles/warship/SLDF/Cameron Battlecruiser.blk)
+	Cameron Battlecruiser (Clan) (data/mechfiles/warship/Clan/Cameron Battlecruiser (Clan).blk)
+132
+	Volga Transport (Clan) (data/mechfiles/warship/Clan/Volga Transport (Clan).blk)
+135
+	Du Shi Wang Battleship (Standard) (data/mechfiles/warship/CCN/Du Shi Wang Battleship.blk)
+138
+	Soyal Heavy Cruiser (Standard) (data/mechfiles/warship/FR 2765/Capellan/Soyal Heavy Cruiser.blk)
+140
+	Tharkad Battlecruiser (WoB) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (WoB).blk)
+	Tharkad Battlecruiser (2690) (data/mechfiles/warship/LCN/Tharkad Battlecruiser (2690).blk)
+150
+	Kimagure Pursuit Cruiser (Standard) (data/mechfiles/warship/SLDF/Kimagure Pursuit Cruiser.blk)
+	Kimagure Pursuit Cruiser (Surprise) (data/mechfiles/warship/XTR/Gunslingers/Kimagure Pursuit Cruiser Surprise.blk)
+151
+	Luxor Heavy Cruiser (Standard) (data/mechfiles/warship/SLDF/Luxor Heavy Cruiser.blk)
+155
+	Kirishima Cruiser (Standard) (data/mechfiles/warship/DCN/Kirishima Cruiser.blk)
+160
+	Monsoon Battleship (Lithium-Fusion) (data/mechfiles/warship/SLDF/Monsoon Battleship (Lithium-Fusion).blk)
+	Monsoon Battleship (Standard) (data/mechfiles/warship/SLDF/Monsoon Battleship.blk)
+168
+	Black Lion Battlecruiser (2691) (data/mechfiles/warship/SLDF/Black Lion Battlecruiser.blk)
+	Black Lion Battlecruiser (Clan) (data/mechfiles/warship/Clan/Black Lion Battlecruiser (Clan).blk)
+180
+	Quicksilver Mongoose Battleship (Standard) (data/mechfiles/warship/Clan/Quicksilver Mongoose Battleship.blk)
+183
+	Atreus Battleship (Standard) (data/mechfiles/warship/FWLN/Atreus Battleship.blk)
+201
+	Potemkin Troop Cruiser (2611) (data/mechfiles/warship/SLDF/Potemkin Troop Cruiser (2611).blk)
+	Potemkin Troop Cruiser (Clan) (data/mechfiles/warship/Clan/Potemkin Troop Cruiser (Clan).blk)
+210
+	Conqueror Battlecruiser Carrier (Standard) (data/mechfiles/warship/Clan/Conqueror BattlecruiserCarrier.blk)
+250
+	McKenna Battleship (2652) (data/mechfiles/warship/SLDF/McKenna Battleship (2652).blk)
+	Farragut Battleship (Standard) (data/mechfiles/warship/SLDF/Farragut Battleship.blk)
+	Leviathan Heavy Transport (Standard) (data/mechfiles/warship/Clan/Leviathan Heavy Transport.blk)
+	McKenna Battleship (Clan) (data/mechfiles/warship/Clan/McKenna Battleship (Clan).blk)
+260
+	Stefan Amaris Battleship (Standard) (data/mechfiles/warship/Hist LOT II/Stefan Amaris Battleship.blk)
+293
+	Feng Huang Cruiser (Upgrade) (data/mechfiles/warship/CCN/Feng Huang Cruiser Upgrade.blk)
+	Feng Huang Cruiser (Standard) (data/mechfiles/warship/CCN/Feng Huang Cruiser.blk)
+297
+	Thera Carrier (Standard) (data/mechfiles/warship/FWLN/Thera Carrier.blk)
+310
+	Avalon Cruiser (Standard) (data/mechfiles/warship/FSN/Avalon Cruiser.blk)
+320
+	Nightlord Battleship (Standard) (data/mechfiles/warship/Clan/Nightlord Battleship.blk)
+342
+	Texas Battleship (2618) (data/mechfiles/warship/SLDF/Texas Battleship (2618).blk)
+	Texas Battleship (Clan) (data/mechfiles/warship/Clan/Texas Battleship (Clan).blk)
+479
+	Mjolnir Battlecruiser (Standard) (data/mechfiles/warship/LCN/Mjolnir Battlecruiser.blk)
+1000
+	Leviathan III Battleship (Standard) (data/mechfiles/warship/XTR/Republic III/Leviathan III Battleship.blk)
+	Leviathan II Battleship (Standard) (data/mechfiles/warship/Clan/Leviathan II Battleship.blk)

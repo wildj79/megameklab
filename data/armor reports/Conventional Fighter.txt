@@ -1,0 +1,365 @@
+Left Wing
+2
+	Light Strike Fighter Owl II (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl II.blk)
+	Light Strike Fighter Comet (data/mechfiles/convfighter/3039u/Light Strike Fighter Comet.blk)
+	Light Strike Fighter Andurien (data/mechfiles/convfighter/3039u/Light Strike Fighter Andurien.blk)
+	Light Strike Fighter Owl III (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl III.blk)
+	Light Strike Fighter Angel (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel.blk)
+	Light Strike Fighter Owl (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl.blk)
+3
+	Guardian Fighter (Standard) (data/mechfiles/convfighter/3039u/Guardian Fighter.blk)
+	Light Strike Fighter Angel (Upgrade) (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel (Upgrade).blk)
+	Guardian Fighter D (data/mechfiles/convfighter/3039u/Guardian Fighter D.blk)
+	Light Strike Fighter Suzume ('Sparrow') (data/mechfiles/convfighter/3039u/Light Strike Fighter Suzume (Sparrow).blk)
+	Guardian Fighter B (data/mechfiles/convfighter/3039u/Guardian Fighter B.blk)
+	Boeing Jump Bomber (Standard) (data/mechfiles/convfighter/3039u/Boeing Jump Bomber.blk)
+	Guardian Fighter C (data/mechfiles/convfighter/3039u/Guardian Fighter C.blk)
+5
+	Katya Ground Assault Craft C-905(RL20) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL20).blk)
+	Katya Ground Assault Craft (RL10) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL10).blk)
+	Katya Ground Assault Craft C-904(RL15) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL15).blk)
+	Bullet Suicide Drone (Standard) (data/mechfiles/convfighter/ProtoTypes/Bullet Suicide Drone.blk)
+6
+	Mosquito Light Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives II/Mosquito Light Fighter.blk)
+	Saroyan Jump Bomber (Standard) (data/mechfiles/convfighter/3145/Liao/Saroyan Jump Bomber.blk)
+	Medium Strike Fighter Defender II (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender II).blk)
+	Medium Strike Fighter Crane (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Crane).blk)
+	Medium Strike Fighter Steinadler (Golden Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Steinadler).blk)
+	Medium Strike Fighter Defender (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender).blk)
+	Medium Strike Fighter Kaiseradler (Imperial Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Kaiseradler ).blk)
+7
+	Hurricane Conventional Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives I/Hurricane Conventional Fighter.blk)
+	Planetlifter Support Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Corporations/Planetlifter Support Aircraft.blk)
+	Planetlifter Air Transport (Standard) (data/mechfiles/convfighter/3039u/Planetlifter Air Transport.blk)
+	Planetlifter Air Transport 'SuperPelican' aka 'Waddle' (data/mechfiles/convfighter/3039u/Planetlifter Air Transport (SuperPelican - Waddle).blk)
+	Mosquito Radar Plane IX (Standard) (data/mechfiles/convfighter/TRO VAr/Mosquito Radar Plane IX (Standard).blk)
+	Planetlifter Tactical Support (Standard) (data/mechfiles/convfighter/ProtoTypes/Planetlifter Tactical Support.blk)
+8
+	Drake Medium Strike Fighter (Standard) (data/mechfiles/convfighter/XTRs/Boondocks/Drake Medium Strike Fighter.blk)
+	Drake Medium Stealth Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Drake Medium Stealth Fighter.blk)
+9
+	Mechbuster (Mary) (data/mechfiles/fighters/RSUniqueFighters/Mechbuster (Mary).blk)
+	Jetta Coruna 4X (Standard) (data/mechfiles/convfighter/TRO VAr/Jetta Coruna 4X.blk)
+	Raubvogel Aerobomber AB-18C (data/mechfiles/convfighter/HBHS/Raubvogel Aerobomber AB-18C.blk)
+10
+	SeaBuster Early Strike Fighter (data/mechfiles/fighters/XTRs/Periphery/Seabuster Early Stike Fighter.blk)
+	MechBuster (LB-X) (data/mechfiles/convfighter/3039u/Mechbuster (LB-X).blk)
+	Heavy Strike Fighter Inseki II (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki II.blk)
+	Heavy Strike Fighter Bat Hawk (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Bat Hawk.blk)
+	MechBuster (SRM) (data/mechfiles/convfighter/3039u/Mechbuster (SRM).blk)
+	Heavy Strike Fighter Meteor (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor.blk)
+	MechBuster (Standard) (data/mechfiles/convfighter/3039u/Mechbuster.blk)
+	Heavy Strike Fighter Meteor-G (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-G.blk)
+	Heavy Strike Fighter Inseki (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki.blk)
+	Heavy Strike Fighter Meteor-U (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-U.blk)
+	MechBuster (Laser) (data/mechfiles/convfighter/3039u/Mechbuster (Laser).blk)
+	SeaBuster Strike Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Seabuster Strike Fighter (Production).blk)
+12
+	Bluehawk Combat Support Fighter MSF-42 (data/mechfiles/convfighter/HBMPS/Bluehawk Combat Support Fighter MSF-42.blk)
+	Protector Combat Support Fighter ASF-23 (data/mechfiles/convfighter/HBMPS/Protector Combat Support Fighter ASF-23.blk)
+	Colt Medium Fighter (LRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (LRM).blk)
+	Colt Medium Fighter (SRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (SRM).blk)
+13
+	Zanadu Air Bus (Standard) (data/mechfiles/convfighter/TRO VAr/Zanadu Air Bus (Standard).blk)
+15
+	Vendetta Medium Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Vendetta Medium Fighter.blk)
+	Protector High-Speed Medevac C-790 (data/mechfiles/convfighter/TRO VAr/Protector High-Speed Medevac.blk)
+	S 2772 Airplane (Standard) (data/mechfiles/convfighter/TRO VAr/S 2772 Airplane.blk)
+17
+	Stork Light Refueling Craft (Standard) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Standard ).blk)
+	Stork Light Refueling Craft (Original) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Original).blk)
+19
+	Avanti Aerospace Airliner ACL-800 (data/mechfiles/convfighter/TRO VAr/Avanti Aerospace Airliner.blk)
+20
+	Torrent Heavy Bomber (Standard) (data/mechfiles/convfighter/TRO VAr/Torrent Heavy Bomber.blk)
+23
+	Mustang Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives IV/Mustang Fighter.blk)
+24
+	Tsuru VIP Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Succession Wars/Tsuru VIP Aircraft.blk)
+26
+	Federated-Boeing Longhaul FB-335 (data/mechfiles/convfighter/TRO VAr/Federated-Boeing Longhaul.blk)
+33
+	King Karnov Transport KC-9 (data/mechfiles/convfighter/TRO VAr/King Karnov Transport.blk)
+48
+	Caravan Heavy Transport (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Caravan Heavy Transport.blk)
+51
+	Zugvogel Omni Support Aircraft F (data/mechfiles/vehicles/3145/NTNU/Zugvogel Omni Support Aircraft F.blk)
+	Zugvogel Omni Support Aircraft C (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft C.blk)
+	Zugvogel Omni Support Aircraft D 'Raubvogel' (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft D.blk)
+	Zugvogel Omni Support Aircraft A (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft A.blk)
+	Zugvogel Omni Support Aircraft B (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft B.blk)
+	Zugvogel Omni Support Aircraft Prime (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft Prime.blk)
+	Zugvogel Omni Support Aircraft E (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft E.blk)
+Nose
+2
+	Light Strike Fighter Owl II (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl II.blk)
+	Light Strike Fighter Comet (data/mechfiles/convfighter/3039u/Light Strike Fighter Comet.blk)
+	Light Strike Fighter Andurien (data/mechfiles/convfighter/3039u/Light Strike Fighter Andurien.blk)
+	Light Strike Fighter Angel (Upgrade) (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel (Upgrade).blk)
+	Light Strike Fighter Owl III (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl III.blk)
+	Light Strike Fighter Angel (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel.blk)
+	Light Strike Fighter Suzume ('Sparrow') (data/mechfiles/convfighter/3039u/Light Strike Fighter Suzume (Sparrow).blk)
+	Light Strike Fighter Owl (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl.blk)
+6
+	Guardian Fighter (Standard) (data/mechfiles/convfighter/3039u/Guardian Fighter.blk)
+	Guardian Fighter D (data/mechfiles/convfighter/3039u/Guardian Fighter D.blk)
+	Guardian Fighter B (data/mechfiles/convfighter/3039u/Guardian Fighter B.blk)
+	Guardian Fighter C (data/mechfiles/convfighter/3039u/Guardian Fighter C.blk)
+7
+	Medium Strike Fighter Defender II (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender II).blk)
+	Medium Strike Fighter Crane (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Crane).blk)
+	Medium Strike Fighter Steinadler (Golden Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Steinadler).blk)
+	Medium Strike Fighter Defender (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender).blk)
+	Medium Strike Fighter Kaiseradler (Imperial Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Kaiseradler ).blk)
+	Boeing Jump Bomber (Standard) (data/mechfiles/convfighter/3039u/Boeing Jump Bomber.blk)
+	Bullet Suicide Drone (Standard) (data/mechfiles/convfighter/ProtoTypes/Bullet Suicide Drone.blk)
+8
+	Saroyan Jump Bomber (Standard) (data/mechfiles/convfighter/3145/Liao/Saroyan Jump Bomber.blk)
+9
+	Mosquito Light Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives II/Mosquito Light Fighter.blk)
+10
+	Hurricane Conventional Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives I/Hurricane Conventional Fighter.blk)
+	Drake Medium Strike Fighter (Standard) (data/mechfiles/convfighter/XTRs/Boondocks/Drake Medium Strike Fighter.blk)
+	Katya Ground Assault Craft C-905(RL20) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL20).blk)
+	Katya Ground Assault Craft (RL10) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL10).blk)
+	Katya Ground Assault Craft C-904(RL15) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL15).blk)
+	Mosquito Radar Plane IX (Standard) (data/mechfiles/convfighter/TRO VAr/Mosquito Radar Plane IX (Standard).blk)
+	Drake Medium Stealth Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Drake Medium Stealth Fighter.blk)
+	Raubvogel Aerobomber AB-18C (data/mechfiles/convfighter/HBHS/Raubvogel Aerobomber AB-18C.blk)
+12
+	Colt Medium Fighter (LRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (LRM).blk)
+	Colt Medium Fighter (SRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (SRM).blk)
+	Heavy Strike Fighter Inseki II (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki II.blk)
+	Heavy Strike Fighter Bat Hawk (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Bat Hawk.blk)
+	Heavy Strike Fighter Meteor (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor.blk)
+	MechBuster (Standard) (data/mechfiles/convfighter/3039u/Mechbuster.blk)
+	Heavy Strike Fighter Meteor-G (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-G.blk)
+	Heavy Strike Fighter Inseki (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki.blk)
+	Heavy Strike Fighter Meteor-U (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-U.blk)
+	MechBuster (Laser) (data/mechfiles/convfighter/3039u/Mechbuster (Laser).blk)
+13
+	Zanadu Air Bus (Standard) (data/mechfiles/convfighter/TRO VAr/Zanadu Air Bus (Standard).blk)
+14
+	Bluehawk Combat Support Fighter MSF-42 (data/mechfiles/convfighter/HBMPS/Bluehawk Combat Support Fighter MSF-42.blk)
+	Protector Combat Support Fighter ASF-23 (data/mechfiles/convfighter/HBMPS/Protector Combat Support Fighter ASF-23.blk)
+15
+	Vendetta Medium Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Vendetta Medium Fighter.blk)
+	Jetta Coruna 4X (Standard) (data/mechfiles/convfighter/TRO VAr/Jetta Coruna 4X.blk)
+18
+	MechBuster (LB-X) (data/mechfiles/convfighter/3039u/Mechbuster (LB-X).blk)
+19
+	Mechbuster (Mary) (data/mechfiles/fighters/RSUniqueFighters/Mechbuster (Mary).blk)
+	SeaBuster Early Strike Fighter (data/mechfiles/fighters/XTRs/Periphery/Seabuster Early Stike Fighter.blk)
+	SeaBuster Strike Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Seabuster Strike Fighter (Production).blk)
+20
+	MechBuster (SRM) (data/mechfiles/convfighter/3039u/Mechbuster (SRM).blk)
+	Torrent Heavy Bomber (Standard) (data/mechfiles/convfighter/TRO VAr/Torrent Heavy Bomber.blk)
+	Protector High-Speed Medevac C-790 (data/mechfiles/convfighter/TRO VAr/Protector High-Speed Medevac.blk)
+22
+	Planetlifter Support Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Corporations/Planetlifter Support Aircraft.blk)
+	Planetlifter Air Transport (Standard) (data/mechfiles/convfighter/3039u/Planetlifter Air Transport.blk)
+	Planetlifter Air Transport 'SuperPelican' aka 'Waddle' (data/mechfiles/convfighter/3039u/Planetlifter Air Transport (SuperPelican - Waddle).blk)
+	S 2772 Airplane (Standard) (data/mechfiles/convfighter/TRO VAr/S 2772 Airplane.blk)
+	Planetlifter Tactical Support (Standard) (data/mechfiles/convfighter/ProtoTypes/Planetlifter Tactical Support.blk)
+24
+	Tsuru VIP Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Succession Wars/Tsuru VIP Aircraft.blk)
+25
+	Stork Light Refueling Craft (Standard) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Standard ).blk)
+	Stork Light Refueling Craft (Original) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Original).blk)
+28
+	Mustang Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives IV/Mustang Fighter.blk)
+	Avanti Aerospace Airliner ACL-800 (data/mechfiles/convfighter/TRO VAr/Avanti Aerospace Airliner.blk)
+32
+	Federated-Boeing Longhaul FB-335 (data/mechfiles/convfighter/TRO VAr/Federated-Boeing Longhaul.blk)
+34
+	King Karnov Transport KC-9 (data/mechfiles/convfighter/TRO VAr/King Karnov Transport.blk)
+48
+	Caravan Heavy Transport (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Caravan Heavy Transport.blk)
+51
+	Zugvogel Omni Support Aircraft F (data/mechfiles/vehicles/3145/NTNU/Zugvogel Omni Support Aircraft F.blk)
+	Zugvogel Omni Support Aircraft C (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft C.blk)
+	Zugvogel Omni Support Aircraft D 'Raubvogel' (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft D.blk)
+	Zugvogel Omni Support Aircraft A (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft A.blk)
+	Zugvogel Omni Support Aircraft B (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft B.blk)
+	Zugvogel Omni Support Aircraft Prime (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft Prime.blk)
+	Zugvogel Omni Support Aircraft E (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft E.blk)
+Right Wing
+2
+	Light Strike Fighter Owl II (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl II.blk)
+	Light Strike Fighter Comet (data/mechfiles/convfighter/3039u/Light Strike Fighter Comet.blk)
+	Light Strike Fighter Andurien (data/mechfiles/convfighter/3039u/Light Strike Fighter Andurien.blk)
+	Light Strike Fighter Owl III (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl III.blk)
+	Light Strike Fighter Angel (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel.blk)
+	Light Strike Fighter Owl (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl.blk)
+3
+	Guardian Fighter (Standard) (data/mechfiles/convfighter/3039u/Guardian Fighter.blk)
+	Light Strike Fighter Angel (Upgrade) (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel (Upgrade).blk)
+	Guardian Fighter D (data/mechfiles/convfighter/3039u/Guardian Fighter D.blk)
+	Light Strike Fighter Suzume ('Sparrow') (data/mechfiles/convfighter/3039u/Light Strike Fighter Suzume (Sparrow).blk)
+	Guardian Fighter B (data/mechfiles/convfighter/3039u/Guardian Fighter B.blk)
+	Boeing Jump Bomber (Standard) (data/mechfiles/convfighter/3039u/Boeing Jump Bomber.blk)
+	Guardian Fighter C (data/mechfiles/convfighter/3039u/Guardian Fighter C.blk)
+5
+	Katya Ground Assault Craft C-905(RL20) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL20).blk)
+	Katya Ground Assault Craft (RL10) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL10).blk)
+	Katya Ground Assault Craft C-904(RL15) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL15).blk)
+	Bullet Suicide Drone (Standard) (data/mechfiles/convfighter/ProtoTypes/Bullet Suicide Drone.blk)
+6
+	Mosquito Light Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives II/Mosquito Light Fighter.blk)
+	Saroyan Jump Bomber (Standard) (data/mechfiles/convfighter/3145/Liao/Saroyan Jump Bomber.blk)
+	Medium Strike Fighter Defender II (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender II).blk)
+	Medium Strike Fighter Crane (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Crane).blk)
+	Medium Strike Fighter Steinadler (Golden Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Steinadler).blk)
+	Medium Strike Fighter Defender (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender).blk)
+	Medium Strike Fighter Kaiseradler (Imperial Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Kaiseradler ).blk)
+7
+	Hurricane Conventional Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives I/Hurricane Conventional Fighter.blk)
+	Planetlifter Support Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Corporations/Planetlifter Support Aircraft.blk)
+	Planetlifter Air Transport (Standard) (data/mechfiles/convfighter/3039u/Planetlifter Air Transport.blk)
+	Planetlifter Air Transport 'SuperPelican' aka 'Waddle' (data/mechfiles/convfighter/3039u/Planetlifter Air Transport (SuperPelican - Waddle).blk)
+	Mosquito Radar Plane IX (Standard) (data/mechfiles/convfighter/TRO VAr/Mosquito Radar Plane IX (Standard).blk)
+	Planetlifter Tactical Support (Standard) (data/mechfiles/convfighter/ProtoTypes/Planetlifter Tactical Support.blk)
+8
+	Drake Medium Strike Fighter (Standard) (data/mechfiles/convfighter/XTRs/Boondocks/Drake Medium Strike Fighter.blk)
+	Drake Medium Stealth Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Drake Medium Stealth Fighter.blk)
+9
+	Mechbuster (Mary) (data/mechfiles/fighters/RSUniqueFighters/Mechbuster (Mary).blk)
+	Jetta Coruna 4X (Standard) (data/mechfiles/convfighter/TRO VAr/Jetta Coruna 4X.blk)
+	Raubvogel Aerobomber AB-18C (data/mechfiles/convfighter/HBHS/Raubvogel Aerobomber AB-18C.blk)
+10
+	SeaBuster Early Strike Fighter (data/mechfiles/fighters/XTRs/Periphery/Seabuster Early Stike Fighter.blk)
+	MechBuster (LB-X) (data/mechfiles/convfighter/3039u/Mechbuster (LB-X).blk)
+	Heavy Strike Fighter Inseki II (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki II.blk)
+	Heavy Strike Fighter Bat Hawk (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Bat Hawk.blk)
+	MechBuster (SRM) (data/mechfiles/convfighter/3039u/Mechbuster (SRM).blk)
+	Heavy Strike Fighter Meteor (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor.blk)
+	MechBuster (Standard) (data/mechfiles/convfighter/3039u/Mechbuster.blk)
+	Heavy Strike Fighter Meteor-G (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-G.blk)
+	Heavy Strike Fighter Inseki (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki.blk)
+	Heavy Strike Fighter Meteor-U (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-U.blk)
+	MechBuster (Laser) (data/mechfiles/convfighter/3039u/Mechbuster (Laser).blk)
+	SeaBuster Strike Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Seabuster Strike Fighter (Production).blk)
+12
+	Bluehawk Combat Support Fighter MSF-42 (data/mechfiles/convfighter/HBMPS/Bluehawk Combat Support Fighter MSF-42.blk)
+	Protector Combat Support Fighter ASF-23 (data/mechfiles/convfighter/HBMPS/Protector Combat Support Fighter ASF-23.blk)
+	Colt Medium Fighter (LRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (LRM).blk)
+	Colt Medium Fighter (SRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (SRM).blk)
+13
+	Zanadu Air Bus (Standard) (data/mechfiles/convfighter/TRO VAr/Zanadu Air Bus (Standard).blk)
+15
+	Vendetta Medium Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Vendetta Medium Fighter.blk)
+	Protector High-Speed Medevac C-790 (data/mechfiles/convfighter/TRO VAr/Protector High-Speed Medevac.blk)
+	S 2772 Airplane (Standard) (data/mechfiles/convfighter/TRO VAr/S 2772 Airplane.blk)
+17
+	Stork Light Refueling Craft (Standard) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Standard ).blk)
+	Stork Light Refueling Craft (Original) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Original).blk)
+19
+	Avanti Aerospace Airliner ACL-800 (data/mechfiles/convfighter/TRO VAr/Avanti Aerospace Airliner.blk)
+20
+	Torrent Heavy Bomber (Standard) (data/mechfiles/convfighter/TRO VAr/Torrent Heavy Bomber.blk)
+23
+	Mustang Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives IV/Mustang Fighter.blk)
+24
+	Tsuru VIP Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Succession Wars/Tsuru VIP Aircraft.blk)
+26
+	Federated-Boeing Longhaul FB-335 (data/mechfiles/convfighter/TRO VAr/Federated-Boeing Longhaul.blk)
+33
+	King Karnov Transport KC-9 (data/mechfiles/convfighter/TRO VAr/King Karnov Transport.blk)
+48
+	Caravan Heavy Transport (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Caravan Heavy Transport.blk)
+51
+	Zugvogel Omni Support Aircraft F (data/mechfiles/vehicles/3145/NTNU/Zugvogel Omni Support Aircraft F.blk)
+	Zugvogel Omni Support Aircraft C (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft C.blk)
+	Zugvogel Omni Support Aircraft D 'Raubvogel' (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft D.blk)
+	Zugvogel Omni Support Aircraft A (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft A.blk)
+	Zugvogel Omni Support Aircraft B (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft B.blk)
+	Zugvogel Omni Support Aircraft Prime (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft Prime.blk)
+	Zugvogel Omni Support Aircraft E (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft E.blk)
+Aft
+2
+	Light Strike Fighter Owl II (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl II.blk)
+	Light Strike Fighter Comet (data/mechfiles/convfighter/3039u/Light Strike Fighter Comet.blk)
+	Light Strike Fighter Andurien (data/mechfiles/convfighter/3039u/Light Strike Fighter Andurien.blk)
+	Light Strike Fighter Angel (Upgrade) (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel (Upgrade).blk)
+	Light Strike Fighter Owl III (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl III.blk)
+	Light Strike Fighter Angel (data/mechfiles/convfighter/3039u/Light Strike Fighter Angel.blk)
+	Light Strike Fighter Suzume ('Sparrow') (data/mechfiles/convfighter/3039u/Light Strike Fighter Suzume (Sparrow).blk)
+	Light Strike Fighter Owl (data/mechfiles/convfighter/3039u/Light Strike Fighter Owl.blk)
+3
+	Mosquito Light Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives II/Mosquito Light Fighter.blk)
+	Boeing Jump Bomber (Standard) (data/mechfiles/convfighter/3039u/Boeing Jump Bomber.blk)
+	Bullet Suicide Drone (Standard) (data/mechfiles/convfighter/ProtoTypes/Bullet Suicide Drone.blk)
+4
+	Saroyan Jump Bomber (Standard) (data/mechfiles/convfighter/3145/Liao/Saroyan Jump Bomber.blk)
+	Guardian Fighter (Standard) (data/mechfiles/convfighter/3039u/Guardian Fighter.blk)
+	Guardian Fighter D (data/mechfiles/convfighter/3039u/Guardian Fighter D.blk)
+	Guardian Fighter B (data/mechfiles/convfighter/3039u/Guardian Fighter B.blk)
+	Guardian Fighter C (data/mechfiles/convfighter/3039u/Guardian Fighter C.blk)
+	Katya Ground Assault Craft C-905(RL20) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL20).blk)
+	Katya Ground Assault Craft (RL10) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL10).blk)
+	Katya Ground Assault Craft C-904(RL15) (data/mechfiles/convfighter/HBHL/Katya Ground Assault Craft (RL15).blk)
+5
+	Hurricane Conventional Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives I/Hurricane Conventional Fighter.blk)
+	Medium Strike Fighter Defender II (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender II).blk)
+	Medium Strike Fighter Crane (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Crane).blk)
+	Medium Strike Fighter Steinadler (Golden Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Steinadler).blk)
+	Medium Strike Fighter Defender (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Defender).blk)
+	Medium Strike Fighter Kaiseradler (Imperial Eagle) (data/mechfiles/convfighter/3039u/Medium Strike Fighter (Kaiseradler ).blk)
+	Mosquito Radar Plane IX (Standard) (data/mechfiles/convfighter/TRO VAr/Mosquito Radar Plane IX (Standard).blk)
+6
+	Drake Medium Strike Fighter (Standard) (data/mechfiles/convfighter/XTRs/Boondocks/Drake Medium Strike Fighter.blk)
+	Jetta Coruna 4X (Standard) (data/mechfiles/convfighter/TRO VAr/Jetta Coruna 4X.blk)
+	Drake Medium Stealth Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Drake Medium Stealth Fighter.blk)
+8
+	Colt Medium Fighter (LRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (LRM).blk)
+	Colt Medium Fighter (SRM) (data/mechfiles/convfighter/XTRs/Primitives V/Colt Medium Fighter (SRM).blk)
+	Heavy Strike Fighter Inseki II (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki II.blk)
+	Heavy Strike Fighter Bat Hawk (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Bat Hawk.blk)
+	Heavy Strike Fighter Meteor (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor.blk)
+	Heavy Strike Fighter Meteor-G (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-G.blk)
+	Heavy Strike Fighter Inseki (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Inseki.blk)
+	Heavy Strike Fighter Meteor-U (data/mechfiles/convfighter/3039u/Heavy Strike Fighter Meteor-U.blk)
+	Raubvogel Aerobomber AB-18C (data/mechfiles/convfighter/HBHS/Raubvogel Aerobomber AB-18C.blk)
+10
+	SeaBuster Early Strike Fighter (data/mechfiles/fighters/XTRs/Periphery/Seabuster Early Stike Fighter.blk)
+	Vendetta Medium Fighter (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Vendetta Medium Fighter.blk)
+	Bluehawk Combat Support Fighter MSF-42 (data/mechfiles/convfighter/HBMPS/Bluehawk Combat Support Fighter MSF-42.blk)
+	Protector Combat Support Fighter ASF-23 (data/mechfiles/convfighter/HBMPS/Protector Combat Support Fighter ASF-23.blk)
+	Mustang Fighter (Standard) (data/mechfiles/convfighter/XTRs/Primitives IV/Mustang Fighter.blk)
+	MechBuster (LB-X) (data/mechfiles/convfighter/3039u/Mechbuster (LB-X).blk)
+	MechBuster (SRM) (data/mechfiles/convfighter/3039u/Mechbuster (SRM).blk)
+	MechBuster (Standard) (data/mechfiles/convfighter/3039u/Mechbuster.blk)
+	MechBuster (Laser) (data/mechfiles/convfighter/3039u/Mechbuster (Laser).blk)
+	SeaBuster Strike Fighter (Standard) (data/mechfiles/convfighter/ProtoTypes/Seabuster Strike Fighter (Production).blk)
+11
+	Mechbuster (Mary) (data/mechfiles/fighters/RSUniqueFighters/Mechbuster (Mary).blk)
+12
+	Planetlifter Support Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Corporations/Planetlifter Support Aircraft.blk)
+	Planetlifter Air Transport (Standard) (data/mechfiles/convfighter/3039u/Planetlifter Air Transport.blk)
+	Planetlifter Air Transport 'SuperPelican' aka 'Waddle' (data/mechfiles/convfighter/3039u/Planetlifter Air Transport (SuperPelican - Waddle).blk)
+	Torrent Heavy Bomber (Standard) (data/mechfiles/convfighter/TRO VAr/Torrent Heavy Bomber.blk)
+	Protector High-Speed Medevac C-790 (data/mechfiles/convfighter/TRO VAr/Protector High-Speed Medevac.blk)
+	S 2772 Airplane (Standard) (data/mechfiles/convfighter/TRO VAr/S 2772 Airplane.blk)
+	Avanti Aerospace Airliner ACL-800 (data/mechfiles/convfighter/TRO VAr/Avanti Aerospace Airliner.blk)
+	Planetlifter Tactical Support (Standard) (data/mechfiles/convfighter/ProtoTypes/Planetlifter Tactical Support.blk)
+13
+	Zanadu Air Bus (Standard) (data/mechfiles/convfighter/TRO VAr/Zanadu Air Bus (Standard).blk)
+16
+	Federated-Boeing Longhaul FB-335 (data/mechfiles/convfighter/TRO VAr/Federated-Boeing Longhaul.blk)
+25
+	Stork Light Refueling Craft (Standard) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Standard ).blk)
+	Stork Light Refueling Craft (Original) (data/mechfiles/convfighter/3075U/Stork Light Refueling Craft (Original).blk)
+31
+	Tsuru VIP Aircraft (Standard) (data/mechfiles/convfighter/XTRs/Succession Wars/Tsuru VIP Aircraft.blk)
+33
+	King Karnov Transport KC-9 (data/mechfiles/convfighter/TRO VAr/King Karnov Transport.blk)
+40
+	Caravan Heavy Transport (Standard) (data/mechfiles/vehicles/XTRs/Primitives III/Caravan Heavy Transport.blk)
+51
+	Zugvogel Omni Support Aircraft F (data/mechfiles/vehicles/3145/NTNU/Zugvogel Omni Support Aircraft F.blk)
+	Zugvogel Omni Support Aircraft C (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft C.blk)
+	Zugvogel Omni Support Aircraft D 'Raubvogel' (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft D.blk)
+	Zugvogel Omni Support Aircraft A (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft A.blk)
+	Zugvogel Omni Support Aircraft B (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft B.blk)
+	Zugvogel Omni Support Aircraft Prime (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft Prime.blk)
+	Zugvogel Omni Support Aircraft E (data/mechfiles/vehicles/3085u/Cutting Edge/Zugvogel Omni Support Aircraft E.blk)

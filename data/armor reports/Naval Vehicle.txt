@@ -1,0 +1,202 @@
+Rear
+1
+	Jonah Submarine JN-002 (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Jonah Submarine.blk)
+	Harpoon ParaSub (Standard) (data/mechfiles/vehicles/AToW Companion/Naval (Submarine)/Harpoon ParaSub.blk)
+2
+	Silverfin Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverfin Coastal Cutter.blk)
+	Silverback Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverback Coastal Cutter.blk)
+4
+	Koryu Submarine (Civilian) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Civilian).blk)
+	Koryu Submarine (Military) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Military).blk)
+	Sea Skimmer Hydrofoil (SRM6) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM6).blk)
+	Sea Skimmer Hydrofoil (Standard) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil.blk)
+	Sea Skimmer Hydrofoil (SRM2) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM2).blk)
+8
+	Sea Skimmer Hydrofoil 'Sniper' (data/mechfiles/vehicles/XTRs/Corporations/Sea Skimmer Hydrofoil Sniper.blk)
+10
+	Atlantia Luxury Yacht (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Atlantia Luxury Yacht.blk)
+12
+	Sea Skimmer Hydrofoil (ELRM) (data/mechfiles/vehicles/ProtoTypes/Sea Skimmer Hydrofoil ELRM.blk)
+16
+	Baleena Passenger Submarine (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Baleena Passenger Submarine.blk)
+17
+	White Tip Submarine (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/White Tip Submarine.blk)
+20
+	Seahorse Cargo Sub (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Seahorse Cargo Sub.blk)
+22
+	Monitor Naval Vessel (Standard) (data/mechfiles/vehicles/3039u/Monitor Naval Vessel.blk)
+31
+	Manta Fast Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Standard).blk)
+	Manta Fast Attack Submarine (Support) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Support).blk)
+38
+	Neptune Submarine (Standard) (data/mechfiles/vehicles/3039u/Neptune Submarine.blk)
+40
+	Neptune Submarine (SRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (SRT).blk)
+	Neptune Submarine (LRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (LRT).blk)
+42
+	Neptune Submarine (Hunter-Killer) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Neptune Submarine (Hunter-Killer).blk)
+44
+	Mauna Kea Command Vessel (LB-X) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LB-X).blk)
+	Mauna Kea Command Vessel (Standard) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel.blk)
+	Mauna Kea Command Vessel (LRM) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRM).blk)
+	Mauna Kea Command Vessel (LRT) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRT).blk)
+55
+	Moray Heavy Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Standard).blk)
+	Moray Heavy Attack Submarine (Original) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Original).blk)
+Left
+1
+	Jonah Submarine JN-002 (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Jonah Submarine.blk)
+	Harpoon ParaSub (Standard) (data/mechfiles/vehicles/AToW Companion/Naval (Submarine)/Harpoon ParaSub.blk)
+4
+	Silverfin Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverfin Coastal Cutter.blk)
+	Silverback Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverback Coastal Cutter.blk)
+6
+	Koryu Submarine (Military) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Military).blk)
+7
+	Koryu Submarine (Civilian) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Civilian).blk)
+	Sea Skimmer Hydrofoil (SRM6) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM6).blk)
+	Sea Skimmer Hydrofoil (Standard) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil.blk)
+	Sea Skimmer Hydrofoil (SRM2) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM2).blk)
+8
+	Sea Skimmer Hydrofoil 'Sniper' (data/mechfiles/vehicles/XTRs/Corporations/Sea Skimmer Hydrofoil Sniper.blk)
+12
+	Sea Skimmer Hydrofoil (ELRM) (data/mechfiles/vehicles/ProtoTypes/Sea Skimmer Hydrofoil ELRM.blk)
+14
+	White Tip Submarine (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/White Tip Submarine.blk)
+16
+	Atlantia Luxury Yacht (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Atlantia Luxury Yacht.blk)
+	Baleena Passenger Submarine (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Baleena Passenger Submarine.blk)
+21
+	Seahorse Cargo Sub (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Seahorse Cargo Sub.blk)
+22
+	Monitor Naval Vessel (Standard) (data/mechfiles/vehicles/3039u/Monitor Naval Vessel.blk)
+39
+	Manta Fast Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Standard).blk)
+	Manta Fast Attack Submarine (Support) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Support).blk)
+43
+	Mauna Kea Command Vessel (LB-X) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LB-X).blk)
+	Mauna Kea Command Vessel (Standard) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel.blk)
+	Mauna Kea Command Vessel (LRM) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRM).blk)
+	Mauna Kea Command Vessel (LRT) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRT).blk)
+50
+	Neptune Submarine (Hunter-Killer) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Neptune Submarine (Hunter-Killer).blk)
+58
+	Neptune Submarine (Standard) (data/mechfiles/vehicles/3039u/Neptune Submarine.blk)
+60
+	Neptune Submarine (SRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (SRT).blk)
+	Neptune Submarine (LRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (LRT).blk)
+66
+	Moray Heavy Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Standard).blk)
+	Moray Heavy Attack Submarine (Original) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Original).blk)
+Front
+1
+	Harpoon ParaSub (Standard) (data/mechfiles/vehicles/AToW Companion/Naval (Submarine)/Harpoon ParaSub.blk)
+2
+	Jonah Submarine JN-002 (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Jonah Submarine.blk)
+4
+	Silverfin Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverfin Coastal Cutter.blk)
+	Silverback Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverback Coastal Cutter.blk)
+8
+	Koryu Submarine (Civilian) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Civilian).blk)
+	Koryu Submarine (Military) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Military).blk)
+9
+	Sea Skimmer Hydrofoil 'Sniper' (data/mechfiles/vehicles/XTRs/Corporations/Sea Skimmer Hydrofoil Sniper.blk)
+	Sea Skimmer Hydrofoil (SRM6) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM6).blk)
+	Sea Skimmer Hydrofoil (Standard) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil.blk)
+	Sea Skimmer Hydrofoil (SRM2) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM2).blk)
+13
+	Sea Skimmer Hydrofoil (ELRM) (data/mechfiles/vehicles/ProtoTypes/Sea Skimmer Hydrofoil ELRM.blk)
+22
+	Baleena Passenger Submarine (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Baleena Passenger Submarine.blk)
+	White Tip Submarine (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/White Tip Submarine.blk)
+	Monitor Naval Vessel (Standard) (data/mechfiles/vehicles/3039u/Monitor Naval Vessel.blk)
+25
+	Atlantia Luxury Yacht (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Atlantia Luxury Yacht.blk)
+	Seahorse Cargo Sub (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Seahorse Cargo Sub.blk)
+52
+	Manta Fast Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Standard).blk)
+	Manta Fast Attack Submarine (Support) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Support).blk)
+55
+	Mauna Kea Command Vessel (LB-X) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LB-X).blk)
+	Mauna Kea Command Vessel (Standard) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel.blk)
+	Mauna Kea Command Vessel (LRM) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRM).blk)
+	Mauna Kea Command Vessel (LRT) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRT).blk)
+66
+	Neptune Submarine (Hunter-Killer) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Neptune Submarine (Hunter-Killer).blk)
+75
+	Moray Heavy Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Standard).blk)
+	Moray Heavy Attack Submarine (Original) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Original).blk)
+78
+	Neptune Submarine (Standard) (data/mechfiles/vehicles/3039u/Neptune Submarine.blk)
+80
+	Neptune Submarine (SRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (SRT).blk)
+	Neptune Submarine (LRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (LRT).blk)
+Right
+1
+	Jonah Submarine JN-002 (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Jonah Submarine.blk)
+	Harpoon ParaSub (Standard) (data/mechfiles/vehicles/AToW Companion/Naval (Submarine)/Harpoon ParaSub.blk)
+4
+	Silverfin Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverfin Coastal Cutter.blk)
+	Silverback Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverback Coastal Cutter.blk)
+6
+	Koryu Submarine (Military) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Military).blk)
+7
+	Koryu Submarine (Civilian) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Koryu Submarine (Civilian).blk)
+	Sea Skimmer Hydrofoil (SRM6) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM6).blk)
+	Sea Skimmer Hydrofoil (Standard) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil.blk)
+	Sea Skimmer Hydrofoil (SRM2) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM2).blk)
+8
+	Sea Skimmer Hydrofoil 'Sniper' (data/mechfiles/vehicles/XTRs/Corporations/Sea Skimmer Hydrofoil Sniper.blk)
+12
+	Sea Skimmer Hydrofoil (ELRM) (data/mechfiles/vehicles/ProtoTypes/Sea Skimmer Hydrofoil ELRM.blk)
+14
+	White Tip Submarine (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/White Tip Submarine.blk)
+16
+	Atlantia Luxury Yacht (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Atlantia Luxury Yacht.blk)
+	Baleena Passenger Submarine (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Baleena Passenger Submarine.blk)
+21
+	Seahorse Cargo Sub (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Submarine)/Seahorse Cargo Sub.blk)
+22
+	Monitor Naval Vessel (Standard) (data/mechfiles/vehicles/3039u/Monitor Naval Vessel.blk)
+39
+	Manta Fast Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Standard).blk)
+	Manta Fast Attack Submarine (Support) (data/mechfiles/vehicles/3085u/Supplemental/Manta Fast Attack Submarine (Support).blk)
+43
+	Mauna Kea Command Vessel (LB-X) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LB-X).blk)
+	Mauna Kea Command Vessel (Standard) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel.blk)
+	Mauna Kea Command Vessel (LRM) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRM).blk)
+	Mauna Kea Command Vessel (LRT) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRT).blk)
+50
+	Neptune Submarine (Hunter-Killer) (data/mechfiles/vehicles/Turning Points/HTP Galtor/Neptune Submarine (Hunter-Killer).blk)
+58
+	Neptune Submarine (Standard) (data/mechfiles/vehicles/3039u/Neptune Submarine.blk)
+60
+	Neptune Submarine (SRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (SRT).blk)
+	Neptune Submarine (LRT) (data/mechfiles/vehicles/3039u/Neptune Submarine (LRT).blk)
+66
+	Moray Heavy Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Standard).blk)
+	Moray Heavy Attack Submarine (Original) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Original).blk)
+Turret
+3
+	Silverfin Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverfin Coastal Cutter.blk)
+	Silverback Coastal Cutter (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Naval (Surface)/Silverback Coastal Cutter.blk)
+5
+	Sea Skimmer Hydrofoil (SRM6) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM6).blk)
+	Sea Skimmer Hydrofoil (Standard) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil.blk)
+	Sea Skimmer Hydrofoil (SRM2) (data/mechfiles/vehicles/3039u/Sea Skimmer Hydrofoil (SRM2).blk)
+6
+	Sea Skimmer Hydrofoil 'Sniper' (data/mechfiles/vehicles/XTRs/Corporations/Sea Skimmer Hydrofoil Sniper.blk)
+10
+	Sea Skimmer Hydrofoil (ELRM) (data/mechfiles/vehicles/ProtoTypes/Sea Skimmer Hydrofoil ELRM.blk)
+20
+	White Tip Submarine (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/White Tip Submarine.blk)
+40
+	Monitor Naval Vessel (Standard) (data/mechfiles/vehicles/3039u/Monitor Naval Vessel.blk)
+55
+	Mauna Kea Command Vessel (LB-X) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LB-X).blk)
+	Mauna Kea Command Vessel (Standard) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel.blk)
+	Mauna Kea Command Vessel (LRM) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRM).blk)
+	Mauna Kea Command Vessel (LRT) (data/mechfiles/vehicles/3075/Mauna Kea Command Vessel (LRT).blk)
+60
+	Moray Heavy Attack Submarine (Standard) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Standard).blk)
+	Moray Heavy Attack Submarine (Original) (data/mechfiles/vehicles/3085u/Supplemental/Moray Heavy Attack Submarine (Original).blk)

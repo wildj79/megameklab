@@ -1,0 +1,254 @@
+Rear
+3
+	Corx Mobile Tunnel Miner (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Corx Mobile Tunnel Miner (Standard).blk)
+5
+	Galaport Ground Trailer (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Trailer (Standard).blk)
+	Galaport Ground Tug (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Tug (Standard).blk)
+6
+	BFFL 'Buffalo' (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Buffalo BFFL Hovertruck (Standard).blk)
+9
+	Hector Road Train Tractor (Standard) (data/mechfiles/vehicles/HB HM/Hector Road Train Tractor (Standard).blk)
+10
+	Lewis Skimmer Bus (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Lewis Skimmer Bus (Standard).blk)
+	Koi Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Koi Heavy Transport (Standard).blk)
+	Brunel Dump Truck (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Brunel Dump Truck.blk)
+11
+	Ryu Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Ryu Heavy Transport (Standard).blk)
+12
+	Barouche Military Transport (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/Barouche Hovercraft.blk)
+15
+	Buffalo Drone Bomb (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Buffalo Drone Bomb.blk)
+	Dromedary Water Transport (Standard) (data/mechfiles/vehicles/3075 Support tanks/Dromedary Water Transport.blk)
+18
+	Saturn Harvester (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Saturn Harvester (Standard).blk)
+	Nishikigoi Support Aircraft Koi Variant (data/mechfiles/vehicles/ProtoTypes/Nishikigoi Koi Variant.blk)
+25
+	Gienah-Durapaq Elite Land Train (Tractor) Series 3 (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Gienah-Durapaq Elite Land Train (Tractor) Series 3.blk)
+26
+	Dreadnought Mk II Land Train (Standard) (data/mechfiles/vehicles/XTRs/Periphery/Dreadnought Mk II Land Train (Standard).blk)
+30
+	Prairie Schooner Land Train (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Prairie Schooner Land Train (Standard).blk)
+33
+	Brunel Dump Truck (LRM) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck LRM.blk)
+	Brunel Dump Truck (AC) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck AC20.blk)
+38
+	Wayland Mobile Base (Standard) (data/mechfiles/vehicles/Hist Reunification War/Wayland Mobile Base.blk)
+40
+	O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+	O-65 'Oppie' Hazardous Materials Recovery Vehicle O-65 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-65 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+54
+	'Oppie' (HMRV Salvage Bed Trailer) (Standard) (data/mechfiles/vehicles/3075 Support tanks/'Oppie' (HMRV Salvage Bed Trailer).blk)
+Front
+6
+	Galaport Ground Trailer (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Trailer (Standard).blk)
+	Galaport Ground Tug (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Tug (Standard).blk)
+8
+	BFFL 'Buffalo' (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Buffalo BFFL Hovertruck (Standard).blk)
+9
+	Hector Road Train Tractor (Standard) (data/mechfiles/vehicles/HB HM/Hector Road Train Tractor (Standard).blk)
+11
+	Lewis Skimmer Bus (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Lewis Skimmer Bus (Standard).blk)
+14
+	Koi Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Koi Heavy Transport (Standard).blk)
+15
+	Barouche Military Transport (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/Barouche Hovercraft.blk)
+	Dromedary Water Transport (Standard) (data/mechfiles/vehicles/3075 Support tanks/Dromedary Water Transport.blk)
+16
+	Corx Mobile Tunnel Miner (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Corx Mobile Tunnel Miner (Standard).blk)
+17
+	Ryu Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Ryu Heavy Transport (Standard).blk)
+18
+	Buffalo Drone Bomb (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Buffalo Drone Bomb.blk)
+	Nishikigoi Support Aircraft Koi Variant (data/mechfiles/vehicles/ProtoTypes/Nishikigoi Koi Variant.blk)
+21
+	Brunel Dump Truck (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Brunel Dump Truck.blk)
+	Brunel Dump Truck (LRM) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck LRM.blk)
+	Brunel Dump Truck (AC) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck AC20.blk)
+25
+	Saturn Harvester (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Saturn Harvester (Standard).blk)
+30
+	'Oppie' (HMRV Salvage Bed Trailer) (Standard) (data/mechfiles/vehicles/3075 Support tanks/'Oppie' (HMRV Salvage Bed Trailer).blk)
+32
+	Gienah-Durapaq Elite Land Train (Tractor) Series 3 (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Gienah-Durapaq Elite Land Train (Tractor) Series 3.blk)
+34
+	Prairie Schooner Land Train (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Prairie Schooner Land Train (Standard).blk)
+35
+	Dreadnought Mk II Land Train (Standard) (data/mechfiles/vehicles/XTRs/Periphery/Dreadnought Mk II Land Train (Standard).blk)
+42
+	Wayland Mobile Base (Standard) (data/mechfiles/vehicles/Hist Reunification War/Wayland Mobile Base.blk)
+100
+	O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+	O-65 'Oppie' Hazardous Materials Recovery Vehicle O-65 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-65 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+Front Right
+3
+	Corx Mobile Tunnel Miner (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Corx Mobile Tunnel Miner (Standard).blk)
+5
+	Galaport Ground Trailer (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Trailer (Standard).blk)
+	Galaport Ground Tug (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Tug (Standard).blk)
+6
+	BFFL 'Buffalo' (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Buffalo BFFL Hovertruck (Standard).blk)
+8
+	Hector Road Train Tractor (Standard) (data/mechfiles/vehicles/HB HM/Hector Road Train Tractor (Standard).blk)
+9
+	Lewis Skimmer Bus (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Lewis Skimmer Bus (Standard).blk)
+10
+	Barouche Military Transport (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/Barouche Hovercraft.blk)
+13
+	Brunel Dump Truck (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Brunel Dump Truck.blk)
+14
+	Koi Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Koi Heavy Transport (Standard).blk)
+15
+	Ryu Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Ryu Heavy Transport (Standard).blk)
+	Buffalo Drone Bomb (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Buffalo Drone Bomb.blk)
+	Dromedary Water Transport (Standard) (data/mechfiles/vehicles/3075 Support tanks/Dromedary Water Transport.blk)
+18
+	Saturn Harvester (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Saturn Harvester (Standard).blk)
+	Nishikigoi Support Aircraft Koi Variant (data/mechfiles/vehicles/ProtoTypes/Nishikigoi Koi Variant.blk)
+21
+	Brunel Dump Truck (LRM) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck LRM.blk)
+	Brunel Dump Truck (AC) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck AC20.blk)
+25
+	Gienah-Durapaq Elite Land Train (Tractor) Series 3 (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Gienah-Durapaq Elite Land Train (Tractor) Series 3.blk)
+26
+	Dreadnought Mk II Land Train (Standard) (data/mechfiles/vehicles/XTRs/Periphery/Dreadnought Mk II Land Train (Standard).blk)
+30
+	Prairie Schooner Land Train (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Prairie Schooner Land Train (Standard).blk)
+40
+	O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+	'Oppie' (HMRV Salvage Bed Trailer) (Standard) (data/mechfiles/vehicles/3075 Support tanks/'Oppie' (HMRV Salvage Bed Trailer).blk)
+	O-65 'Oppie' Hazardous Materials Recovery Vehicle O-65 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-65 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+41
+	Wayland Mobile Base (Standard) (data/mechfiles/vehicles/Hist Reunification War/Wayland Mobile Base.blk)
+Front Left
+3
+	Corx Mobile Tunnel Miner (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Corx Mobile Tunnel Miner (Standard).blk)
+5
+	Galaport Ground Trailer (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Trailer (Standard).blk)
+	Galaport Ground Tug (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Tug (Standard).blk)
+6
+	BFFL 'Buffalo' (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Buffalo BFFL Hovertruck (Standard).blk)
+8
+	Hector Road Train Tractor (Standard) (data/mechfiles/vehicles/HB HM/Hector Road Train Tractor (Standard).blk)
+9
+	Lewis Skimmer Bus (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Lewis Skimmer Bus (Standard).blk)
+10
+	Barouche Military Transport (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/Barouche Hovercraft.blk)
+13
+	Brunel Dump Truck (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Brunel Dump Truck.blk)
+14
+	Koi Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Koi Heavy Transport (Standard).blk)
+15
+	Ryu Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Ryu Heavy Transport (Standard).blk)
+	Buffalo Drone Bomb (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Buffalo Drone Bomb.blk)
+	Dromedary Water Transport (Standard) (data/mechfiles/vehicles/3075 Support tanks/Dromedary Water Transport.blk)
+18
+	Saturn Harvester (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Saturn Harvester (Standard).blk)
+	Nishikigoi Support Aircraft Koi Variant (data/mechfiles/vehicles/ProtoTypes/Nishikigoi Koi Variant.blk)
+21
+	Brunel Dump Truck (LRM) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck LRM.blk)
+	Brunel Dump Truck (AC) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck AC20.blk)
+25
+	Gienah-Durapaq Elite Land Train (Tractor) Series 3 (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Gienah-Durapaq Elite Land Train (Tractor) Series 3.blk)
+26
+	Dreadnought Mk II Land Train (Standard) (data/mechfiles/vehicles/XTRs/Periphery/Dreadnought Mk II Land Train (Standard).blk)
+30
+	Prairie Schooner Land Train (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Prairie Schooner Land Train (Standard).blk)
+40
+	O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+	'Oppie' (HMRV Salvage Bed Trailer) (Standard) (data/mechfiles/vehicles/3075 Support tanks/'Oppie' (HMRV Salvage Bed Trailer).blk)
+	O-65 'Oppie' Hazardous Materials Recovery Vehicle O-65 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-65 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+41
+	Wayland Mobile Base (Standard) (data/mechfiles/vehicles/Hist Reunification War/Wayland Mobile Base.blk)
+Rear Left
+3
+	Corx Mobile Tunnel Miner (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Corx Mobile Tunnel Miner (Standard).blk)
+5
+	Galaport Ground Trailer (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Trailer (Standard).blk)
+	Galaport Ground Tug (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Tug (Standard).blk)
+6
+	BFFL 'Buffalo' (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Buffalo BFFL Hovertruck (Standard).blk)
+8
+	Hector Road Train Tractor (Standard) (data/mechfiles/vehicles/HB HM/Hector Road Train Tractor (Standard).blk)
+9
+	Lewis Skimmer Bus (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Lewis Skimmer Bus (Standard).blk)
+10
+	Barouche Military Transport (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/Barouche Hovercraft.blk)
+13
+	Koi Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Koi Heavy Transport (Standard).blk)
+	Brunel Dump Truck (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Brunel Dump Truck.blk)
+15
+	Ryu Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Ryu Heavy Transport (Standard).blk)
+	Buffalo Drone Bomb (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Buffalo Drone Bomb.blk)
+	Dromedary Water Transport (Standard) (data/mechfiles/vehicles/3075 Support tanks/Dromedary Water Transport.blk)
+18
+	Saturn Harvester (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Saturn Harvester (Standard).blk)
+	Nishikigoi Support Aircraft Koi Variant (data/mechfiles/vehicles/ProtoTypes/Nishikigoi Koi Variant.blk)
+25
+	Gienah-Durapaq Elite Land Train (Tractor) Series 3 (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Gienah-Durapaq Elite Land Train (Tractor) Series 3.blk)
+26
+	Dreadnought Mk II Land Train (Standard) (data/mechfiles/vehicles/XTRs/Periphery/Dreadnought Mk II Land Train (Standard).blk)
+28
+	Brunel Dump Truck (LRM) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck LRM.blk)
+	Brunel Dump Truck (AC) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck AC20.blk)
+30
+	Prairie Schooner Land Train (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Prairie Schooner Land Train (Standard).blk)
+39
+	Wayland Mobile Base (Standard) (data/mechfiles/vehicles/Hist Reunification War/Wayland Mobile Base.blk)
+40
+	O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+	'Oppie' (HMRV Salvage Bed Trailer) (Standard) (data/mechfiles/vehicles/3075 Support tanks/'Oppie' (HMRV Salvage Bed Trailer).blk)
+	O-65 'Oppie' Hazardous Materials Recovery Vehicle O-65 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-65 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+Turret
+6
+	Corx Mobile Tunnel Miner (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Corx Mobile Tunnel Miner (Standard).blk)
+10
+	Dromedary Water Transport (Standard) (data/mechfiles/vehicles/3075 Support tanks/Dromedary Water Transport.blk)
+16
+	Barouche Military Transport (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/Barouche Hovercraft.blk)
+17
+	Ryu Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Ryu Heavy Transport (Standard).blk)
+18
+	Nishikigoi Support Aircraft Koi Variant (data/mechfiles/vehicles/ProtoTypes/Nishikigoi Koi Variant.blk)
+35
+	Dreadnought Mk II Land Train (Standard) (data/mechfiles/vehicles/XTRs/Periphery/Dreadnought Mk II Land Train (Standard).blk)
+37
+	Wayland Mobile Base (Standard) (data/mechfiles/vehicles/Hist Reunification War/Wayland Mobile Base.blk)
+Rear Right
+3
+	Corx Mobile Tunnel Miner (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Corx Mobile Tunnel Miner (Standard).blk)
+5
+	Galaport Ground Trailer (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Trailer (Standard).blk)
+	Galaport Ground Tug (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Galaport Ground Tug (Standard).blk)
+6
+	BFFL 'Buffalo' (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Buffalo BFFL Hovertruck (Standard).blk)
+8
+	Hector Road Train Tractor (Standard) (data/mechfiles/vehicles/HB HM/Hector Road Train Tractor (Standard).blk)
+9
+	Lewis Skimmer Bus (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Hover/Lewis Skimmer Bus (Standard).blk)
+10
+	Barouche Military Transport (Standard) (data/mechfiles/vehicles/XTRs/RetroTech/Barouche Hovercraft.blk)
+13
+	Koi Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Koi Heavy Transport (Standard).blk)
+	Brunel Dump Truck (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Brunel Dump Truck.blk)
+15
+	Ryu Heavy Transport (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/WiGE/Ryu Heavy Transport (Standard).blk)
+	Buffalo Drone Bomb (Standard) (data/mechfiles/vehicles/XTRs/Succession Wars/Buffalo Drone Bomb.blk)
+	Dromedary Water Transport (Standard) (data/mechfiles/vehicles/3075 Support tanks/Dromedary Water Transport.blk)
+18
+	Saturn Harvester (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Saturn Harvester (Standard).blk)
+	Nishikigoi Support Aircraft Koi Variant (data/mechfiles/vehicles/ProtoTypes/Nishikigoi Koi Variant.blk)
+25
+	Gienah-Durapaq Elite Land Train (Tractor) Series 3 (data/mechfiles/vehicles/TRO Vehicle Annex/Tracked/Gienah-Durapaq Elite Land Train (Tractor) Series 3.blk)
+26
+	Dreadnought Mk II Land Train (Standard) (data/mechfiles/vehicles/XTRs/Periphery/Dreadnought Mk II Land Train (Standard).blk)
+28
+	Brunel Dump Truck (LRM) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck LRM.blk)
+	Brunel Dump Truck (AC) (data/mechfiles/vehicles/Operation Klondike/Brunel Dump Truck AC20.blk)
+30
+	Prairie Schooner Land Train (Standard) (data/mechfiles/vehicles/TRO Vehicle Annex/Wheeled/Prairie Schooner Land Train (Standard).blk)
+39
+	Wayland Mobile Base (Standard) (data/mechfiles/vehicles/Hist Reunification War/Wayland Mobile Base.blk)
+40
+	O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-66 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
+	'Oppie' (HMRV Salvage Bed Trailer) (Standard) (data/mechfiles/vehicles/3075 Support tanks/'Oppie' (HMRV Salvage Bed Trailer).blk)
+	O-65 'Oppie' Hazardous Materials Recovery Vehicle O-65 HMRV (data/mechfiles/vehicles/3075 Support tanks/O-65 'Oppie' Hazardous Materials Recovery Vehicle O-66 HMRV.blk)
