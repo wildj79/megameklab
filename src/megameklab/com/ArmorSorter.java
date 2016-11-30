@@ -36,9 +36,6 @@ public class ArmorSorter {
     	Map<String,Map<String,Map<Integer,List<MechSummary>>>> map = new HashMap<>();
 		try {
 	    	for (MechSummary ms : MechSummaryCache.getInstance().getAllMechs()) {
-	    		if (ms.getSourceFile().getPath().contains("unofficial")) {
-	    			continue;
-	    		}
 	            Entity entity = new MechFileParser(
 					        ms.getSourceFile(), ms.getEntryName())
 					        .getEntity();
