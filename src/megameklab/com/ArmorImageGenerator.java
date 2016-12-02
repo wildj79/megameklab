@@ -13,112 +13,42 @@ public class ArmorImageGenerator {
 	}
 	
 	private static void generateVTOLPips() {
-		ArmorPipImage armor = new ArmorPipImage(2.5);
+		ArmorPipImage armor = new ArmorPipImage(2.41, 6);
+		
+		armor.addRow(5, "FR.0", 472.5, 77);
+		armor.addSquareGrid(7, 3, "FR.0", 466.5, 83);
+		armor.addSquareGrid(5, 2, "FR.0", 472.5, 101);
+		
+		armor.addPip("LS.0", 454.5, 102);
+		armor.addPip("LS.0", 454.5, 108);
+		armor.addPip("LS.0", 460.5, 108);
+		armor.addSquareGrid(3, 5, "LS.0", 454.5, 114);
+		armor.addSquareGrid(2, 4, "LS.0", 461.5, 160.5);
+		armor.addColumn(4, "LS.0", 467.5, 184.5);
 
-		double[] topColumn = { 472.5, 77 };
-        double[] middleColumn = { 466.5, 83 };
-        double[] bottomColumn = { 472.5, 101 };
-        double[] pipShift = { 6, 6 };
+		armor.addPip("RS.0", 514, 102);
+		armor.addPip("RS.0", 508, 108);
+		armor.addPip("RS.0", 514, 108);
+		armor.addSquareGrid(3, 5, "RS.0", 502, 114);
+		armor.addSquareGrid(2, 4, "RS.0", 501, 160.5);
+		armor.addColumn(4, "RS.0", 501, 184.5);
 
-        int totalArmor = 36;
-        
-        int pips = Math.min(5, totalArmor);
-        totalArmor -= pips;
-        int pipNum = 0;
-        for (int pos = 1; pos <= pips; pos++) {
-        	armor.addPip("FR:" + pipNum, topColumn[0], topColumn[1]);
-            topColumn[0] += pipShift[0];
-            pipNum++;
-        }
+		armor.addColumn(10, "RR.0", 485.5, 252);
+		armor.addSquareGrid(2, 10, "RR.0", 482.5, 252);
 
-        pips = Math.min(21, totalArmor);
-        totalArmor -= pips;
-        for (int pos = 0; pos < pips; pos++) {
-        	armor.addPip("FR:" + pipNum, middleColumn[0] + pipShift[0] * (pos % 7),
-        			middleColumn[1] + pipShift[1] * (pos / 7));
-        	pipNum++;
-        }
+		armor.addPip("RO.0", 405, 149);
+        armor.addPip("RO.0", 562, 149);
         
-        for (int pos = 0; pos < totalArmor; pos++) {
-        	armor.addPip("FR:" + pipNum, bottomColumn[0] + pipShift[0] * (pos % 5),
-        			bottomColumn[1] + pipShift[1] * (pos / 5));
-        	pipNum++;
-        }
-
-        topColumn = new double[] { 454.5, 114 };
-        double rsOffset = 59.5;
-
-        totalArmor = 30;
-        pipNum = 0;
+        armor.addColumn(3, "FR.IS", 478, 120, 9, 1.86);
+        armor.addColumn(3, "FR.IS", 485, 120, 9, 1.86);
+        armor.addColumn(3, "FR.IS", 492, 120, 9, 1.86);        
+        armor.addColumn(6, "LS.IS", 478, 164, 7, 1.86);
+        armor.addColumn(6, "RS.IS", 491, 164, 7, 1.86);
+		armor.addColumn(3, "RR.IS", 485.5, 220, 9, 1.86);
+        armor.addSquareGrid(2, 3, "RR.IS", 481, 220, 9, 1.86);
+        armor.addRow(7, "RO.IS", 424.5, 149, 20, 1.86);
         
-        if (totalArmor > 0) {
-        	armor.addPip("LS:" + pipNum, topColumn[0], topColumn[1] - pipShift[1] * 2);
-        	armor.addPip("RS:" + pipNum, topColumn[0] + rsOffset, topColumn[1] - pipShift[1] * 2);
-            totalArmor--;
-            pipNum++;
-        }
-        if (totalArmor > 0) {
-        	armor.addPip("LS:" + pipNum, topColumn[0], topColumn[1] - pipShift[1]);
-        	armor.addPip("RS:" + pipNum, topColumn[0] + rsOffset, topColumn[1] - pipShift[1]);
-            totalArmor--;
-            pipNum++;
-        }
-        if (totalArmor > 0) {
-        	armor.addPip("LS:" + pipNum, topColumn[0] + pipShift[0], topColumn[1] - pipShift[1]);
-        	armor.addPip("RS:" + pipNum, topColumn[0] + rsOffset - pipShift[0], topColumn[1] - pipShift[1]);
-            totalArmor--;
-            pipNum++;
-        }
-        
-        pips = Math.min(15, totalArmor);
-        totalArmor -= pips;
-        for (int pos = 0; pos < pips; pos++) {
-        	armor.addPip("LS:" + pipNum, topColumn[0] + pipShift[0] * (pos % 3),
-        			topColumn[1] + pipShift[1] * (pos / 3));
-        	armor.addPip("RS:" + pipNum, topColumn[0] + rsOffset - pipShift[0] * (pos % 3),
-        			topColumn[1] + pipShift[1] * (pos / 3));
-        	pipNum++;
-        }
-        
-        topColumn[0] += pipShift[0] + 1;
-        topColumn[1] += pipShift[1] * 7.75;
-        
-        pips = Math.min(8, totalArmor);
-        totalArmor -= pips;
-        for (int pos = 0; pos < pips; pos++) {
-        	armor.addPip("LS:" + pipNum, topColumn[0] + pipShift[0] * (pos % 2),
-        			topColumn[1] + pipShift[1] * (pos / 2));
-        	armor.addPip("LS:" + pipNum, topColumn[0] + rsOffset - 2 - pipShift[0] * (2 + pos % 2),
-        			topColumn[1] + pipShift[1] * (pos / 2));
-        	pipNum++;
-        }
-        topColumn[0] += pipShift[0];
-        topColumn[1] += pipShift[1] * 4;
-        pips = Math.min(4, totalArmor);
-        totalArmor -= pips;
-        for (int pos = 0; pos < pips; pos++) {
-        	armor.addPip("LS:" + pipNum, topColumn[0], topColumn[1]);
-        	armor.addPip("RS:" + pipNum, topColumn[0] + rsOffset - pipShift[0] * 4 - 2, topColumn[1]);
-        	topColumn[1] += pipShift[1];
-        	pipNum++;
-        }
-        
-        armor.addPip("RO:0", 405, 149.5);
-        armor.addPip("RO:1", 562, 149.5);
-        
-        totalArmor = 24;
-        pipNum = 0;
-        topColumn = new double[] { 482.5, 251 };
-        pips = Math.min(20, totalArmor);
-        totalArmor -= pips;
-        for (int pos = 0; pos < pips; pos++) {
-        	armor.addPip("RR:" + pipNum, topColumn[0] + pipShift[0] * (pos % 2),
-        			topColumn[1] + pipShift[1] * (pos / 2));
-        	pipNum++;        	
-        }
-        
-        
-        File f = new File("data/images/recordsheets/armor test/vtol.svg");
+        File f = new File("data/images/recordsheets/Armor VTOL.svg");
         try {
 			PrintWriter pw = new PrintWriter(f);
 			armor.writeSVG(pw);
