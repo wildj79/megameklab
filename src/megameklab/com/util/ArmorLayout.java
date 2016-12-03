@@ -1,7 +1,7 @@
 /**
  * 
  */
-package megameklab.com.armorutils;
+package megameklab.com.util;
 
 import java.io.File;
 import java.io.FileInputStream;

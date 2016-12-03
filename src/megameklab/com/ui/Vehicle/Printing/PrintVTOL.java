@@ -95,25 +95,29 @@ public class PrintVTOL implements Printable {
         printWeaponsNEquipment(g2d);
 
         // Armor Pips
-        printFrontArmor(g2d, vtol.getOArmor(Tank.LOC_FRONT));
-        printLeftArmor(g2d, vtol.getOArmor(Tank.LOC_LEFT));
-        printRightArmor(g2d, vtol.getOArmor(Tank.LOC_RIGHT));
-        printRearArmor(g2d, vtol.getOArmor(Tank.LOC_REAR));
-        printRotorArmor(g2d, vtol.getOArmor(VTOL.LOC_ROTOR));
-        if (!vtol.hasNoTurret()) {
-            printTurretArmor(g2d, vtol.getOArmor(VTOL.LOC_TURRET));
+        if (vtol.hasNoTurret()) {
+        	ImageHelper.printArmorAndStructurePips(g2d, vtol);
+        } else {
+	        printFrontArmor(g2d, vtol.getOArmor(Tank.LOC_FRONT));
+	        printLeftArmor(g2d, vtol.getOArmor(Tank.LOC_LEFT));
+	        printRightArmor(g2d, vtol.getOArmor(Tank.LOC_RIGHT));
+	        printRearArmor(g2d, vtol.getOArmor(Tank.LOC_REAR));
+	        printRotorArmor(g2d, vtol.getOArmor(VTOL.LOC_ROTOR));
+	        if (!vtol.hasNoTurret()) {
+	            printTurretArmor(g2d, vtol.getOArmor(VTOL.LOC_TURRET));
+	        }
+	
+	        // Internal Pips
+	        printFrontStruct(g2d, vtol.getOInternal(Tank.LOC_FRONT));
+	        printLeftStruct(g2d, vtol.getOInternal(Tank.LOC_LEFT));
+	        printRightStruct(g2d, vtol.getOInternal(Tank.LOC_RIGHT));
+	        printRearStruct(g2d, vtol.getOInternal(Tank.LOC_REAR));
+	        printRotorStruct(g2d, vtol.getOInternal(VTOL.LOC_ROTOR));
+	        if (!vtol.hasNoTurret()) {
+	            printTurretStruct(g2d, vtol.getOInternal(VTOL.LOC_TURRET));
+	        }
         }
-
-        // Internal Pips
-        printFrontStruct(g2d, vtol.getOInternal(Tank.LOC_FRONT));
-        printLeftStruct(g2d, vtol.getOInternal(Tank.LOC_LEFT));
-        printRightStruct(g2d, vtol.getOInternal(Tank.LOC_RIGHT));
-        printRearStruct(g2d, vtol.getOInternal(Tank.LOC_REAR));
-        printRotorStruct(g2d, vtol.getOInternal(VTOL.LOC_ROTOR));
-        if (!vtol.hasNoTurret()) {
-            printTurretStruct(g2d, vtol.getOInternal(VTOL.LOC_TURRET));
-        }
-
+        
         printVTOLImage(g2d);
 
         g2d.scale(pageFormat.getImageableWidth(),

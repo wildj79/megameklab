@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-import megameklab.com.armorutils.ArmorPipImage;
+import megameklab.com.util.ArmorPipImage;
 
 public class ArmorImageGenerator {
 

@@ -35,6 +35,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Hashtable;
+import java.util.List;
 import java.util.Vector;
 
 import javax.swing.ImageIcon;
@@ -60,7 +61,10 @@ import megamek.common.TechConstants;
 import megamek.common.VTOL;
 
 import com.kitfox.svg.SVGDiagram;
+import com.kitfox.svg.SVGElement;
+import com.kitfox.svg.SVGException;
 import com.kitfox.svg.SVGUniverse;
+import com.kitfox.svg.animation.AnimationElement;
 
 public class ImageHelper {
     public static String recordSheetPath = "./data/images/recordsheets/";
@@ -1191,6 +1195,46 @@ public class ImageHelper {
         Font font = new Font("Arial", Font.PLAIN, 6);
         g2d.setFont(font);
         g2d.drawString("O", width, height);
+    }
+    
+    public static void printArmorAndStructurePips(Graphics2D g2d, Entity unit) {
+    	String rsType = null;
+    	if (unit instanceof VTOL) {
+    		rsType = "VTOL";
+    	}
+    	if (rsType == null) {
+    		System.err.println("Could not find record sheet type for " + unit);
+    		return;
+    	}
+    	
+    	try {
+			SVGDiagram armorDiagram = ImageHelper.loadSVGImage(new File("data/images/recordsheets/Armor " + rsType + ".svg"));
+	    	List<SVGElement> children = new ArrayList<>();
+	    	armorDiagram.getRoot().getChildren(children);
+	    	for (SVGElement ele : children) {
+	    		if (ele.hasAttribute("visibility", AnimationElement.AT_XML)) {
+	    			ele.setAttribute("visibility", AnimationElement.AT_XML, "hidden");
+	    		} else {
+	    			ele.addAttribute("visibility", AnimationElement.AT_XML, "hidden");
+	    		}
+	    	};
+	    	ArmorLayout layout = new ArmorLayout(rsType);
+	    	for (int loc = 0; loc < unit.locations(); loc++) {
+	    		if (unit.getOArmor(loc) > 0) {
+	    			for (String id : layout.getArmorPipIds(unit.getLocationAbbr(loc), unit.getOArmor(loc))) {
+						armorDiagram.getElement(id).setAttribute("visibility",
+								AnimationElement.AT_XML, "visible");    				
+	    			}
+	    			for (String id : layout.getStructurePipIds(unit.getLocationAbbr(loc), unit.getOInternal(loc))) {
+						armorDiagram.getElement(id).setAttribute("visibility",
+								AnimationElement.AT_XML, "visible");    				
+	    			}
+	    		}
+	    	}
+	    	armorDiagram.render(g2d);
+    	} catch (SVGException ex) {
+    		ex.printStackTrace();
+    	}
     }
 
     public static void drawHeatSinkPip(Graphics2D g2d, float width, float height) {

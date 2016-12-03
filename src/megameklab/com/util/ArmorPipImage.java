@@ -1,4 +1,4 @@
-package megameklab.com.armorutils;
+package megameklab.com.util;
 
 import java.io.PrintWriter;
 import java.util.ArrayList;
