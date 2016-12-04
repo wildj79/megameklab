@@ -148,7 +148,7 @@
         <is points="1">1</is>
         <is points="2">0,2</is>
         <is points="3">0,1,2</is>
-        <is points="4">0,2,3,4</is>
+        <is points="4">0,2,5,6</is>
         <is points="5">2,3,4,5,6</is>
         <is points="6">3,4,5,6,7,8</is>
     </location>

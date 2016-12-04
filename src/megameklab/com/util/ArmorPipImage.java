@@ -314,19 +314,19 @@ public class ArmorPipImage {
 		armor.addRectangularGrid(7, 3, "FR.0", 466.5, 83);
 		armor.addRectangularGrid(5, 2, "FR.0", 472.5, 101);
 		
-		armor.addPip("LS.0", 454.5, 102);
-		armor.addPip("LS.0", 454.5, 108);
-		armor.addPip("LS.0", 460.5, 108);
+		armor.addPip("LS.0", 455.5, 102);
+		armor.addPip("LS.0", 455.5, 108);
+		armor.addPip("LS.0", 461.5, 108);
 		armor.addRectangularGrid(3, 5, "LS.0", 454.5, 114);
-		armor.addRectangularGrid(2, 4, "LS.0", 461.5, 160.5);
-		armor.addColumn(4, "LS.0", 467.5, 184.5);
+		armor.addRectangularGrid(2, 4, "LS.0", 460.5, 160.5);
+		armor.addColumn(4, "LS.0", 466.5, 184.5);
 
-		armor.addPip("RS.0", 514, 102);
-		armor.addPip("RS.0", 508, 108);
-		armor.addPip("RS.0", 514, 108);
+		armor.addPip("RS.0", 513, 102);
+		armor.addPip("RS.0", 507, 108);
+		armor.addPip("RS.0", 513, 108);
 		armor.addRectangularGrid(3, 5, "RS.0", 502, 114);
-		armor.addRectangularGrid(2, 4, "RS.0", 501, 160.5);
-		armor.addColumn(4, "RS.0", 501, 184.5);
+		armor.addRectangularGrid(2, 4, "RS.0", 502, 160.5);
+		armor.addColumn(4, "RS.0", 502, 184.5);
 
 		armor.addColumn(10, "RR.0", 485.5, 252);
 		armor.addRectangularGrid(2, 10, "RR.0", 482.5, 252);
