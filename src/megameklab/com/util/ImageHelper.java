@@ -1220,14 +1220,25 @@ public class ImageHelper {
 	    	};
 	    	ArmorLayout layout = new ArmorLayout(rsType);
 	    	for (int loc = 0; loc < unit.locations(); loc++) {
+	    		String locAbbr = unit.getLocationAbbr(loc);
 	    		if (unit.getOArmor(loc) > 0) {
-	    			for (String id : layout.getArmorPipIds(unit.getLocationAbbr(loc), unit.getOArmor(loc))) {
-						armorDiagram.getElement(id).setAttribute("visibility",
-								AnimationElement.AT_XML, "visible");    				
+	    			int armor = Math.min(unit.getOArmor(loc), layout.maxArmor(locAbbr));
+	    			List<String> ids = layout.getArmorPipIds(locAbbr, armor);
+	    			if (ids != null) {
+		    			for (String id : ids) {
+							armorDiagram.getElement(id).setAttribute("visibility",
+									AnimationElement.AT_XML, "visible");    				
+		    			}
 	    			}
-	    			for (String id : layout.getStructurePipIds(unit.getLocationAbbr(loc), unit.getOInternal(loc))) {
-						armorDiagram.getElement(id).setAttribute("visibility",
-								AnimationElement.AT_XML, "visible");    				
+	    		}
+	    		if (unit.getOInternal(loc) > 0) {
+	    			int is = Math.min(unit.getOInternal(loc), layout.maxStructure(locAbbr));
+	    			List<String> ids = layout.getStructurePipIds(locAbbr, is);
+	    			if (ids != null) {
+		    			for (String id : ids) {
+							armorDiagram.getElement(id).setAttribute("visibility",
+									AnimationElement.AT_XML, "visible");
+		    			}
 	    			}
 	    		}
 	    	}

@@ -20,6 +20,7 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.TreeMap;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -41,19 +42,45 @@ public class ArmorLayout {
 	
 	private Map<String,Map<Integer,List<String>>> armorPipIds;
 	private Map<String,Map<Integer,List<String>>> structurePipIds;
+	private Map<String,Integer> maxArmor;
+	private Map<String,Integer> maxStructure;
 	
 	public ArmorLayout(String recordSheet) {
 		armorPipIds = new HashMap<>();
 		structurePipIds = new HashMap<>();
 		loadLayoutFile(recordSheet);
+		maxArmor = new HashMap<>();
+		for (String loc : armorPipIds.keySet()) {
+			maxArmor.put(loc, armorPipIds.get(loc).keySet()
+					.stream().mapToInt(Integer::intValue).max().orElse(0));
+		}
+		maxStructure = new HashMap<>();
+		for (String loc : structurePipIds.keySet()) {
+			maxStructure.put(loc, structurePipIds.get(loc).keySet()
+					.stream().mapToInt(Integer::intValue).max().orElse(0));
+		}
 	}
 	
 	public List<String> getArmorPipIds(String loc, int armorValue) {
-		return armorPipIds.get(loc).get(armorValue);
+		if (armorPipIds.containsKey(loc)) {
+			return armorPipIds.get(loc).get(armorValue);
+		}
+		return null;
 	}
 	
 	public List<String> getStructurePipIds(String loc, int structureValue) {
-		return structurePipIds.get(loc).get(structureValue);
+		if (structurePipIds.containsKey(loc)) {
+			return structurePipIds.get(loc).get(structureValue);
+		}
+		return null;
+	}
+	
+	public Integer maxArmor(String loc) {
+		return maxArmor.get(loc);
+	}
+	
+	public Integer maxStructure(String loc) {
+		return maxStructure.get(loc);
 	}
 	
 	private void loadLayoutFile(String recordSheet) {
@@ -89,8 +116,8 @@ public class ArmorLayout {
 				} else {
 					String[] locations = wn.getAttributes().getNamedItem("abbr").getTextContent().split(",");
 					for (String loc : locations) {
-						armorPipIds.put(loc, new HashMap<>());
-						structurePipIds.put(loc, new HashMap<>());
+						armorPipIds.put(loc, new TreeMap<>());
+						structurePipIds.put(loc, new TreeMap<>());
 					}
 					NodeList nl2 = wn.getChildNodes();
 					for (int j = 0; j < nl2.getLength(); j++) {
