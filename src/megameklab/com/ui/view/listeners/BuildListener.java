@@ -14,6 +14,10 @@
 package megameklab.com.ui.view.listeners;
 
 import megamek.common.EquipmentType;
+<<<<<<< HEAD
+=======
+import megamek.common.FuelType;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megamek.common.SimpleTechLevel;
 
 /**
@@ -48,6 +52,7 @@ public interface BuildListener {
     default void heatSinksChanged(EquipmentType hsType, int count) {};
     default void heatSinkBaseCountChanged(int count) {};
 
+<<<<<<< HEAD
     // For units that allocate armor by tonnage
     default void armorTypeChanged(int at, int armorTechLevel) {};
     default void armorTonnageChanged(double tonnage) {};
@@ -65,4 +70,23 @@ public interface BuildListener {
 
     // For aerospace units and support vehicles
     default void fuelTonnageChanged(double tonnage) {};
+=======
+    // For aerospace units and support vehicles
+    default void fuelTonnageChanged(double tonnage) {};
+
+    /**
+     * Notify of a change in the amount of fuel. For aerospace this is number of fuel points.
+     * For ground support vehicles this is the range in km.
+     *
+     * @param capacity The number of fuel points or range as appropriate to the unit type
+     */
+    default void fuelCapacityChanged(int capacity) {};
+
+    /**
+     * Notify of a change in ICE engine fuel type. This is only used for vehicles.
+     *
+     * @param fuelType The engine fuel type
+     */
+    default void fuelTypeChanged(FuelType fuelType) {}
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 }

@@ -14,6 +14,11 @@ package megameklab.com.util;
 
 import java.awt.BorderLayout;
 import java.awt.Component;
+<<<<<<< HEAD
+=======
+import java.awt.Font;
+import java.awt.GraphicsEnvironment;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.event.ActionEvent;
@@ -25,11 +30,19 @@ import java.util.StringTokenizer;
 
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
+<<<<<<< HEAD
+=======
+import javax.swing.JComboBox;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTabbedPane;
+<<<<<<< HEAD
+=======
+import javax.swing.JTextArea;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import javax.swing.SpringLayout;
 
 import megamek.common.ITechnology;
@@ -64,6 +77,11 @@ public final class ConfigurationDialog extends JDialog implements ActionListener
     private final JCheckBox chkShowExtinct = new JCheckBox();
     private final JCheckBox chkUnofficialIgnoreYear = new JCheckBox();
     
+<<<<<<< HEAD
+=======
+    private final JComboBox<String> cbFont = new JComboBox<>();
+    private final JTextArea txtFontDisplay = new JTextArea();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     private final JCheckBox chkShowQuirks = new JCheckBox();
     private final JCheckBox chkShowPilotData = new JCheckBox();
     private final JCheckBox chkShowEraIcon = new JCheckBox();
@@ -195,10 +213,34 @@ public final class ConfigurationDialog extends JDialog implements ActionListener
     
     private void loadPrintingPanel(ResourceBundle resourceMap) {
         GridBagConstraints gbc = new GridBagConstraints();
+<<<<<<< HEAD
         gbc.gridx = 0;
         gbc.gridy = 0;
         gbc.gridwidth = 2;
 
+=======
+        for (String family : GraphicsEnvironment.getLocalGraphicsEnvironment().getAvailableFontFamilyNames()) {
+            cbFont.addItem(family);
+        }
+        cbFont.setSelectedItem(UnitUtil.deriveFont(8).getFamily());
+        gbc.gridx = 0;
+        gbc.gridy = 0;
+        panPrinting.add(new JLabel(resourceMap.getString("ConfigurationDialog.cbFont.text")), gbc);
+        gbc.gridx = 1;
+        panPrinting.add(cbFont, gbc);
+        cbFont.addActionListener(ev -> updateFont());
+        
+        gbc.gridwidth = 2;
+        gbc.gridx = 0;
+        gbc.gridy++;
+        txtFontDisplay.setEditable(false);
+        txtFontDisplay.setText(resourceMap.getString("ConfigurationDialog.txtFontDisplay.text"));
+        updateFont();
+        panPrinting.add(txtFontDisplay, gbc);
+        
+        gbc.gridx = 0;
+        gbc.gridy++;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         chkShowQuirks.setText(resourceMap.getString("ConfigurationDialog.chkShowQuirks.text"));
         chkShowQuirks.setToolTipText(resourceMap.getString("ConfigurationDialog.chkShowQuirks.tooltip"));
         chkShowQuirks.setSelected(CConfig.getBooleanParam(CConfig.RS_SHOW_QUIRKS));
@@ -289,6 +331,11 @@ public final class ConfigurationDialog extends JDialog implements ActionListener
         CConfig.setParam(CConfig.TECH_SHOW_FACTION, String.valueOf(chkTechShowFaction.isSelected()));
         CConfig.setParam(CConfig.TECH_EXTINCT, String.valueOf(chkShowExtinct.isSelected()));
         CConfig.setParam(CConfig.TECH_UNOFFICAL_NO_YEAR, String.valueOf(chkUnofficialIgnoreYear.isSelected()));
+<<<<<<< HEAD
+=======
+        CConfig.setParam(CConfig.RS_FONT, (String) cbFont.getSelectedItem());
+        UnitUtil.loadFonts();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         CConfig.setParam(CConfig.RS_SHOW_QUIRKS, Boolean.toString(chkShowQuirks.isSelected()));
         CConfig.setParam(CConfig.RS_SHOW_PILOT_DATA, Boolean.toString(chkShowPilotData.isSelected()));
         CConfig.setParam(CConfig.RS_SHOW_ERA, Boolean.toString(chkShowEraIcon.isSelected()));
@@ -297,4 +344,11 @@ public final class ConfigurationDialog extends JDialog implements ActionListener
         CConfig.saveConfig();
     }
 
+<<<<<<< HEAD
+=======
+    private void updateFont() {
+        Font font = Font.decode((String) cbFont.getSelectedItem());
+        txtFontDisplay.setFont(font.deriveFont(txtFontDisplay.getFont().getSize()));
+    }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 }

@@ -34,7 +34,11 @@ import megamek.common.SimpleTechLevel;
 import megamek.common.SmallCraft;
 import megamek.common.verifier.TestEntity;
 import megameklab.com.ui.EntitySource;
+<<<<<<< HEAD
 import megameklab.com.ui.view.AeroFuelView;
+=======
+import megameklab.com.ui.view.FuelView;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.view.AerospaceCrewView;
 import megameklab.com.ui.view.ArmorAllocationView;
 import megameklab.com.ui.view.BasicInfoView;
@@ -42,6 +46,10 @@ import megameklab.com.ui.view.DropshipChassisView;
 import megameklab.com.ui.view.HeatSinkView;
 import megameklab.com.ui.view.MVFArmorView;
 import megameklab.com.ui.view.MovementView;
+<<<<<<< HEAD
+=======
+import megameklab.com.ui.view.listeners.ArmorAllocationListener;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.view.listeners.DropshipBuildListener;
 import megameklab.com.util.ITab;
 import megameklab.com.util.RefreshListener;
@@ -53,7 +61,11 @@ import megameklab.com.util.UnitUtil;
  *
  */
 
+<<<<<<< HEAD
 public class DropshipStructureTab extends ITab implements DropshipBuildListener {
+=======
+public class DropshipStructureTab extends ITab implements DropshipBuildListener, ArmorAllocationListener {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
     /**
      *
@@ -65,7 +77,11 @@ public class DropshipStructureTab extends ITab implements DropshipBuildListener 
     private DropshipChassisView panChassis;
     private MVFArmorView panArmor;
     private MovementView panMovement;
+<<<<<<< HEAD
     private AeroFuelView panFuel;
+=======
+    private FuelView panFuel;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     private HeatSinkView panHeat;
     private AerospaceCrewView panCrew;
     private DropshipSummaryView panSummary;
@@ -87,7 +103,11 @@ public class DropshipStructureTab extends ITab implements DropshipBuildListener 
         panChassis = new DropshipChassisView(panInfo);
         panArmor = new MVFArmorView(panInfo);
         panMovement = new MovementView(panInfo);
+<<<<<<< HEAD
         panFuel = new AeroFuelView();
+=======
+        panFuel = new FuelView();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         panHeat = new HeatSinkView(panInfo);
         panCrew = new AerospaceCrewView(panInfo);
         panArmorAllocation = new ArmorAllocationView(panInfo, Entity.ETYPE_AERO);
@@ -425,6 +445,10 @@ public class DropshipStructureTab extends ITab implements DropshipBuildListener 
         refresh();
         refresh.refreshEquipment();
         refresh.refreshBuild();
+<<<<<<< HEAD
+=======
+        refresh.refreshTransport();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         refresh.refreshPreview();
         refresh.refreshStatus();
     }
@@ -465,6 +489,18 @@ public class DropshipStructureTab extends ITab implements DropshipBuildListener 
     }
 
     @Override
+<<<<<<< HEAD
+=======
+    public void fuelCapacityChanged(int capacity) {
+        getAero().setFuel(capacity);
+        panFuel.setFromEntity(getAero());
+        panSummary.refresh();
+        refresh.refreshStatus();
+        refresh.refreshPreview();
+    }
+
+    @Override
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public void armorPointsChanged(int location, int front, int rear) {
         getSmallCraft().initializeArmor(front, location);
         getSmallCraft().initializeThresh(location);

@@ -155,6 +155,7 @@ public class CriticalTransferHandler extends TransferHandler {
                     && !((eq.getType() instanceof MiscType) && eq.getType().hasFlag(MiscType.F_TARGCOMP))
                     && !(getUnit() instanceof LandAirMech)) {
                 if (location == Mech.LOC_RT) {
+<<<<<<< HEAD
                     String[] locations =
                         { "Center Torso", "Right Leg", "Right Arm" };
                     JComboBox<String> combo = new JComboBox<String>(locations);
@@ -206,6 +207,65 @@ public class CriticalTransferHandler extends TransferHandler {
                         nextLocation = Mech.LOC_LARM;
                     }
 
+=======
+                    // Catch torso-only equipment (e.g. heavy gauss)
+                    if (!UnitUtil.isValidLocation(getUnit(), eq.getType(), Mech.LOC_RARM)) {
+                        nextLocation = Mech.LOC_CT;
+                    } else {
+                        JComboBox<String> combo = new JComboBox<String>();
+                        JOptionPane jop = new JOptionPane(combo,
+                                JOptionPane.QUESTION_MESSAGE,
+                                JOptionPane.OK_CANCEL_OPTION);
+    
+                        JDialog dlg = jop.createDialog("Select secondary location.");
+                        combo.grabFocus();
+                        combo.getEditor().selectAll();
+    
+                        dlg.setVisible(true);
+    
+                        int value = ((Integer) jop.getValue()).intValue();
+    
+                        if (value == JOptionPane.CANCEL_OPTION) {
+                            return false;
+                        }
+    
+                        if (combo.getSelectedIndex() == 1) {
+                            nextLocation = Mech.LOC_RLEG;
+                        } else if (combo.getSelectedIndex() == 2) {
+                            nextLocation = Mech.LOC_RARM;
+                        }
+                    }
+                } else if (location == Mech.LOC_LT) {
+                    // Catch torso-only equipment (e.g. heavy gauss)
+                    if (!UnitUtil.isValidLocation(getUnit(), eq.getType(), Mech.LOC_LARM)) {
+                        nextLocation = Mech.LOC_CT;
+                    } else {
+                        String[] locations =
+                            { "Center Torso", "Left Leg", "Left Arm" };
+                        JComboBox<String> combo = new JComboBox<String>(locations);
+                        JOptionPane jop = new JOptionPane(combo,
+                                JOptionPane.QUESTION_MESSAGE,
+                                JOptionPane.OK_CANCEL_OPTION);
+    
+                        JDialog dlg = jop.createDialog("Select secondary location.");
+                        combo.grabFocus();
+                        combo.getEditor().selectAll();
+    
+                        dlg.setVisible(true);
+    
+                        int value = ((Integer) jop.getValue()).intValue();
+    
+                        if (value == JOptionPane.CANCEL_OPTION) {
+                            return false;
+                        }
+    
+                        if (combo.getSelectedIndex() == 1) {
+                            nextLocation = Mech.LOC_LLEG;
+                        } else if (combo.getSelectedIndex() == 2) {
+                            nextLocation = Mech.LOC_LARM;
+                        }
+                    }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 } else if (location == Mech.LOC_CT) {
                     String[] locations =
                         { "Left Torso", "Right Torso" };

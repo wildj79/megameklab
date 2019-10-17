@@ -172,6 +172,12 @@ public class DropshipStatusBar extends ITab {
             }
             heat += weaponHeat;
         }
+<<<<<<< HEAD
+=======
+        for (Mounted m : getSmallCraft().getMisc()) {
+            heat += m.getType().getHeat();
+        }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         return heat;
     }
 

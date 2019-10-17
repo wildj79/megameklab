@@ -19,6 +19,7 @@ package megameklab.com.util;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics2D;
+<<<<<<< HEAD
 import java.awt.GraphicsEnvironment;
 import java.io.File;
 import java.io.FileInputStream;
@@ -33,6 +34,13 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.Vector;
+=======
+import java.io.File;
+import java.math.BigInteger;
+import java.text.DecimalFormat;
+import java.text.DecimalFormatSymbols;
+import java.util.*;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.stream.Collectors;
 
@@ -46,6 +54,7 @@ import javax.swing.ScrollPaneConstants;
 import javax.swing.text.DefaultCaret;
 import javax.swing.text.html.HTMLEditorKit;
 
+<<<<<<< HEAD
 import megamek.common.Aero;
 import megamek.common.AmmoType;
 import megamek.common.BattleArmor;
@@ -75,6 +84,9 @@ import megamek.common.TechConstants;
 import megamek.common.TripodMech;
 import megamek.common.VTOL;
 import megamek.common.WeaponType;
+=======
+import megamek.common.*;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megamek.common.annotations.Nullable;
 import megamek.common.loaders.EntityLoadingException;
 import megamek.common.logging.LogLevel;
@@ -146,8 +158,13 @@ public class UnitUtil {
     public static int TECH_EXPERIMENTAL = 3;
     public static int TECH_UNOFFICAL = 4;
 
+<<<<<<< HEAD
     private static Font euroFont = null;
     private static Font euroBoldFont = null;
+=======
+    private static Font rsFont = null;
+    private static Font rsBoldFont = null;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
     /**
      * tells is EquipementType is an equipment that uses crits/mounted and is
@@ -403,6 +420,33 @@ public class UnitUtil {
                 m.setLinkedBy(null);
             }
         }
+<<<<<<< HEAD
+=======
+        if ((mount.getType() instanceof MiscType)
+            && (mount.getType().hasFlag(MiscType.F_HEAD_TURRET)
+                || mount.getType().hasFlag(MiscType.F_SHOULDER_TURRET)
+                || mount.getType().hasFlag(MiscType.F_QUAD_TURRET))) {
+            for (Mounted m : unit.getEquipment()) {
+                if (m.getLocation() == mount.getLocation()) {
+                    m.setMechTurretMounted(false);
+                }
+            }
+        }
+        if ((mount.getType() instanceof MiscType)
+                && mount.getType().hasFlag(MiscType.F_SPONSON_TURRET)) {
+            for (Mounted m : unit.getEquipment()) {
+                m.setSponsonTurretMounted(false);
+            }
+        }
+        if ((mount.getType() instanceof MiscType)
+                && mount.getType().hasFlag(MiscType.F_PINTLE_TURRET)) {
+            for (Mounted m : unit.getEquipment()) {
+                if (m.getLocation() == mount.getLocation()) {
+                    m.setPintleTurretMounted(false);
+                }
+            }
+        }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
 
     /**
@@ -847,7 +891,11 @@ public class UnitUtil {
     }
 
     public static String getHeatSinkType(String type, boolean clan) {
+<<<<<<< HEAD
         String heatSinkType = "Heat Sink";
+=======
+        String heatSinkType;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
         if (type.startsWith("(Clan)")) {
             clan = true;
@@ -859,6 +907,7 @@ public class UnitUtil {
 
         if (clan) {
             if (type.equals("Single")) {
+<<<<<<< HEAD
                 heatSinkType = "Heat Sink";
             } else if (type.equals("Double")) {
                 heatSinkType = "CLDoubleHeatSink";
@@ -872,6 +921,21 @@ public class UnitUtil {
                 heatSinkType = "ISDoubleHeatSink";
             } else {
                 heatSinkType = "IS2 Compact Heat Sinks";
+=======
+                heatSinkType = EquipmentTypeLookup.SINGLE_HS;
+            } else if (type.equals("Double")) {
+                heatSinkType = EquipmentTypeLookup.CLAN_DOUBLE_HS;
+            } else {
+                heatSinkType = EquipmentTypeLookup.LASER_HS;
+            }
+        } else {
+            if (type.equals("Single")) {
+                heatSinkType = EquipmentTypeLookup.SINGLE_HS;
+            } else if (type.equals("Double")) {
+                heatSinkType = EquipmentTypeLookup.IS_DOUBLE_HS;
+            } else {
+                heatSinkType = EquipmentTypeLookup.COMPACT_HS_2;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             }
         }
 
@@ -961,6 +1025,7 @@ public class UnitUtil {
                 || m.getType().hasFlag(MiscType.F_JUMP_BOOSTER);
     }
 
+<<<<<<< HEAD
     public static String getJumpJetType(int type, boolean clan) {
         if (type == Mech.JUMP_IMPROVED) {
             if (clan) {
@@ -976,6 +1041,24 @@ public class UnitUtil {
             return "ISPrototypeImprovedJumpJet";
         }
         return "JumpJet";
+=======
+    /**
+     *
+     * @param type The value returned by {@link Mech#getJumpType()}
+     * @return     The {@link EquipmentType} lookup key for the jump jet
+     */
+    public static String getJumpJetType(int type) {
+        if (type == Mech.JUMP_IMPROVED) {
+            return EquipmentTypeLookup.IMPROVED_JUMP_JET;
+        } else if (type == Mech.JUMP_PROTOTYPE) {
+            return EquipmentTypeLookup.PROTOTYPE_JUMP_JET;
+        } else if (type == Mech.JUMP_BOOSTER) {
+            return EquipmentTypeLookup.MECH_JUMP_BOOSTER;
+        } else if (type == Mech.JUMP_PROTOTYPE_IMPROVED) {
+            return EquipmentTypeLookup.PROTOTYPE_IMPROVED_JJ;
+        }
+        return EquipmentTypeLookup.JUMP_JET;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
 
     /**
@@ -1032,14 +1115,22 @@ public class UnitUtil {
             UnitUtil.removeJumpJets(unit, unit.getJumpMP());
             createSpreadMounts(
                     unit,
+<<<<<<< HEAD
                     EquipmentType.get(UnitUtil.getJumpJetType(jjType,
                             unit.isClan())));
+=======
+                    EquipmentType.get(UnitUtil.getJumpJetType(jjType)));
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         } else {
             while (jjAmount > 0) {
                 try {
                     unit.addEquipment(
                             new Mounted(unit, EquipmentType.get(UnitUtil
+<<<<<<< HEAD
                                     .getJumpJetType(jjType, unit.isClan()))),
+=======
+                                    .getJumpJetType(jjType))),
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                             Entity.LOC_NONE, false);
                 } catch (Exception ex) {
                     getLogger().error(UnitUtil.class, METHOD_NAME, ex);
@@ -1288,6 +1379,12 @@ public class UnitUtil {
                 unit.setOriginalJumpMP(unit.getOriginalJumpMP() - 1);
             }
         }
+<<<<<<< HEAD
+=======
+        List<Transporter> transporters = unit.getTransports().stream()
+                .filter(unit::isPodMountedTransport).collect(Collectors.toList());
+        transporters.forEach(unit::removeTransporter);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
 
     public static boolean hasTargComp(Entity unit) {
@@ -1399,6 +1496,11 @@ public class UnitUtil {
             points = (unit.getTotalInternal() * 2) + headPoints;
         } else if (unit.hasETypeFlag(Entity.ETYPE_PROTOMECH)) {
             points = TestProtomech.maxArmorFactor((Protomech) unit);
+<<<<<<< HEAD
+=======
+        } else if (unit.isSupportVehicle()) {
+            points = TestSupportVehicle.maxArmorFactor(unit);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         } else if (unit.hasETypeFlag(Entity.ETYPE_TANK)) {
             points = (int) Math.floor((unit.getWeight() * 3.5) + 40);
         } else if (unit.hasETypeFlag(Entity.ETYPE_BATTLEARMOR)) {
@@ -1424,7 +1526,16 @@ public class UnitUtil {
             }
         } else if (unit instanceof Mech) {
             return unit.getInternal(loc) * 2;
+<<<<<<< HEAD
         } else if (unit instanceof Tank) {
+=======
+        } else if (unit.isSupportVehicle()) {
+            return TestSupportVehicle.maxArmorFactor(unit);
+        } else if (unit instanceof Tank) {
+            if ((unit instanceof VTOL) && (loc == VTOL.LOC_ROTOR)) {
+                return 2;
+            }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             return (int) Math.floor((unit.getWeight() * 3.5) + 40);
         } else if (unit instanceof Protomech) {
             return TestProtomech.maxArmorFactor((Protomech) unit, loc);
@@ -1438,7 +1549,11 @@ public class UnitUtil {
         if (unit instanceof Jumpship) {
             return TestAdvancedAerospace.maxArmorWeight((Jumpship) unit);
         }
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         double armorPerTon = 16.0 * EquipmentType.getArmorPointMultiplier(
                 unit.getArmorType(1), unit.getArmorTechLevel(1));
         double armorWeight = 0;
@@ -1459,6 +1574,18 @@ public class UnitUtil {
         } else if (unit instanceof Protomech) {
             double points = TestProtomech.maxArmorFactor((Protomech) unit);
             return points * TestProtomech.ProtomechArmor.getArmor((Protomech) unit).getWtPerPoint();
+<<<<<<< HEAD
+=======
+        } else if (unit.isSupportVehicle()) {
+            // Max armor is determined by number of points.
+            double weight = TestSupportVehicle.maxArmorFactor(unit)
+                    * TestSupportVehicle.armorWeightPerPoint(unit);
+            if (unit.getWeightClass() == EntityWeightClass.WEIGHT_SMALL_SUPPORT) {
+                return TestEntity.round(weight, TestEntity.Ceil.KILO);
+            } else {
+                return TestEntity.ceil(weight, TestEntity.Ceil.HALFTON);
+            }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         } else if (unit instanceof Tank) {
             double points = Math.floor((unit.getWeight() * 3.5) + 40);
             armorWeight = points / armorPerTon;
@@ -1492,6 +1619,11 @@ public class UnitUtil {
         if (unit.hasETypeFlag(Entity.ETYPE_PROTOMECH)) {
             return Math.round(armorTons /
                     EquipmentType.getProtomechArmorWeightPerPoint(unit.getArmorType(Protomech.LOC_TORSO)));
+<<<<<<< HEAD
+=======
+        } else if (unit.isSupportVehicle()) {
+            return Math.floor(armorTons / TestSupportVehicle.armorWeightPerPoint(unit));
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         }
         return armorTons * UnitUtil.getArmorPointsPerTon(unit,
                 unit.getArmorType(1), unit.getArmorTechLevel(1));
@@ -1575,12 +1707,25 @@ public class UnitUtil {
     /**
      * Calculate the number of armor points per ton of armor for the given unit.
      * 
+<<<<<<< HEAD
      * @param en
      * @param at
      * @param atTechLevel
      * @return
      */
     public static double getArmorPointsPerTon(Entity en, int at, int techLevel) {
+=======
+     * @param en        The unit
+     * @param at        The armor type constant
+     * @param techLevel The {@link TechConstants} constant for the armor
+     * @return          The number of armor points per ton
+     */
+    public static double getArmorPointsPerTon(Entity en, int at, int techLevel) {
+        if (en.isSupportVehicle() && (at == EquipmentType.T_ARMOR_STANDARD)) {
+            return 1.0 / EquipmentType.getSupportVehicleArmorWeightPerPoint(en.getBARRating(en.firstArmorIndex()),
+                    en.getArmorTechRating());
+        }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         return getArmorPointsPerTon(en, at, TechConstants.isClan(techLevel));
     }
 
@@ -1933,6 +2078,7 @@ public class UnitUtil {
     }
     
     public static void loadFonts() {
+<<<<<<< HEAD
         final String METHOD_NAME = "loadFonts()";
 
         if ((euroFont != null) && (euroBoldFont != null)) {
@@ -1966,6 +2112,19 @@ public class UnitUtil {
             euroBoldFont = new Font("Arial", Font.PLAIN, 8);
         }
 
+=======
+        Font font = Font.decode(CConfig.getParam(CConfig.RS_FONT, "Eurostile"));
+        // If the font is not installed, use system default sans
+        if (null == font) {
+            font = Font.decode(Font.SANS_SERIF);
+        }
+        // If that still doesn't work, get the default dialog font
+        if (null == font) {
+            font = Font.decode(null);
+        }
+        rsFont = font.deriveFont(Font.PLAIN, 8);
+        rsBoldFont = font.deriveFont(Font.BOLD, 8);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
 
     public static Font deriveFont(float pointSize) {
@@ -1977,10 +2136,17 @@ public class UnitUtil {
         UnitUtil.loadFonts();
 
         if (boldFont) {
+<<<<<<< HEAD
             return euroBoldFont.deriveFont(pointSize);
         }
 
         return euroFont.deriveFont(pointSize);
+=======
+            return rsBoldFont.deriveFont(pointSize);
+        }
+
+        return rsFont.deriveFont(pointSize);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
 
     public static Font getNewFont(Graphics2D g2d, String info, boolean bold,
@@ -2534,6 +2700,14 @@ public class UnitUtil {
         return UnitUtil.isMechWeapon(eq, unit);
     }
 
+<<<<<<< HEAD
+=======
+    /**
+     * @deprecated Use {@link #isEntityEquipment(EquipmentType, Entity)}
+     * There are two methods that do the same thing, but this one hasn't been updated.
+     */
+    @Deprecated
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public static boolean isUnitEquipment(EquipmentType eq, Entity unit) {
         if (unit instanceof Tank) {
             return UnitUtil.isTankEquipment(eq, unit instanceof VTOL);
@@ -2729,7 +2903,15 @@ public class UnitUtil {
             }
         }
 
+<<<<<<< HEAD
         return false;
+=======
+        if (eq instanceof AmmoType) {
+            return ((AmmoType) eq).canAeroUse();
+        }
+
+        return isAeroWeapon(eq, unit);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
     
     public static boolean isEntityEquipment(EquipmentType eq, Entity en) {
@@ -2737,6 +2919,11 @@ public class UnitUtil {
             return isMechEquipment(eq, (Mech) en);
         } else if (en instanceof Protomech) {
             return isProtomechEquipment(eq, (Protomech) en);
+<<<<<<< HEAD
+=======
+        } else if (en.isSupportVehicle()) {
+            return isSupportVehicleEquipment(eq, en);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         } else if (en instanceof Tank) {
             return isTankEquipment(eq, (Tank) en);
         } else if (en instanceof BattleArmor) {
@@ -2755,8 +2942,12 @@ public class UnitUtil {
 
         if ((eq instanceof CLTAG) || (eq instanceof ISC3MBS)
                 || (eq instanceof ISC3M) || (eq instanceof ISTAG)
+<<<<<<< HEAD
                 || eq.equals(EquipmentType.get("IS Coolant Pod"))
                 || eq.equals(EquipmentType.get("Clan Coolant Pod"))
+=======
+                || (eq instanceof AmmoType && ((AmmoType) eq).getAmmoType() == AmmoType.T_COOLANT_POD)
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 || (eq instanceof CLLightTAG)
                 || (eq instanceof ISAMS)
                 || (eq instanceof CLAMS)
@@ -2851,9 +3042,13 @@ public class UnitUtil {
     
     public static boolean isTankEquipment(EquipmentType eq, Tank tank) {
         if (eq instanceof MiscType) {
+<<<<<<< HEAD
             if (tank.isSupportVehicle()) {
                 return eq.hasFlag(MiscType.F_SUPPORT_TANK_EQUIPMENT);
             } else if (tank.hasETypeFlag(Entity.ETYPE_VTOL)){
+=======
+            if (tank.hasETypeFlag(Entity.ETYPE_VTOL)){
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 return eq.hasFlag(MiscType.F_TANK_EQUIPMENT)
                         || eq.hasFlag(MiscType.F_VTOL_EQUIPMENT);
             } else {
@@ -2922,6 +3117,25 @@ public class UnitUtil {
         return false;
     }
 
+<<<<<<< HEAD
+=======
+    public static boolean isSupportVehicleEquipment(EquipmentType eq, Entity unit) {
+        if ((eq instanceof MiscType) && !eq.hasFlag(MiscType.F_SUPPORT_TANK_EQUIPMENT)) {
+            return false;
+        } else if ((eq instanceof WeaponType)
+            && (unit.getWeightClass() == EntityWeightClass.WEIGHT_SMALL_SUPPORT)) {
+            // Small support vehicles can only mount infantry weapons
+            return (eq instanceof InfantryWeapon)
+                    && !eq.hasFlag(WeaponType.F_INF_ARCHAIC);
+        }
+        if (unit.isAero()) {
+            return isAeroEquipment(eq, (Aero) unit);
+        } else {
+            return isTankEquipment(eq, (Tank) unit);
+        }
+    }
+
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public static boolean isBAEquipment(EquipmentType eq, BattleArmor ba) {
         if (eq instanceof MiscType) {
                 return eq.hasFlag(MiscType.F_BA_EQUIPMENT);
@@ -3396,8 +3610,13 @@ public class UnitUtil {
         } else if (unit.hasETypeFlag(Entity.ETYPE_PROTOMECH)) {
             testEntity = new TestProtomech((Protomech) unit,
                     entityVerifier.protomechOption, null);
+<<<<<<< HEAD
         } else if (unit.hasETypeFlag(Entity.ETYPE_SUPPORT_TANK)) {
             testEntity = new TestSupportVehicle((Tank) unit,
+=======
+        } else if (unit.isSupportVehicle()) {
+            testEntity = new TestSupportVehicle(unit,
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                     entityVerifier.tankOption, null);
         } else if (unit.hasETypeFlag(Entity.ETYPE_TANK)) {
             testEntity = new TestTank((Tank) unit,
@@ -3503,6 +3722,7 @@ public class UnitUtil {
                 return location == Protomech.LOC_BODY;
             }
         }
+<<<<<<< HEAD
         if ((eq instanceof MiscType)) {
             if (((eq.hasFlag(MiscType.F_CLUB) || eq
                     .hasFlag(MiscType.F_HAND_WEAPON)))) {
@@ -3521,6 +3741,22 @@ public class UnitUtil {
                     } else {
                         return false;
                     }
+=======
+        if ((unit instanceof Mech) && (eq instanceof MiscType)) {
+            if (((eq.hasFlag(MiscType.F_CLUB) || eq
+                    .hasFlag(MiscType.F_HAND_WEAPON)))) {
+                if (unit.entityIsQuad()) {
+                    return ((location == Mech.LOC_LT)
+                            || (location == Mech.LOC_RT))
+                            && ((eq.getSubType() & 
+                                    (MiscType.S_DUAL_SAW | MiscType.S_PILE_DRIVER
+                                    | MiscType.S_WRECKING_BALL | MiscType.S_BACKHOE
+                                    | MiscType.S_COMBINE | MiscType.S_CHAINSAW
+                                    | MiscType.S_ROCK_CUTTER | MiscType.S_BUZZSAW
+                                    | MiscType.S_SPOT_WELDER | MiscType.S_PILE_DRIVER)) != 0);
+                } else {
+                    return (location == Mech.LOC_RARM) || (location == Mech.LOC_LARM);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 }
             }
 
@@ -3640,6 +3876,22 @@ public class UnitUtil {
                     return false;
                 }
             }
+<<<<<<< HEAD
+=======
+            if ((((WeaponType) eq).getAmmoType() == AmmoType.T_GAUSS_HEAVY)
+                    || ((WeaponType) eq).getAmmoType() == AmmoType.T_IGAUSS_HEAVY) {
+                if (unit instanceof Mech) {
+                    return unit.isSuperHeavy() || ((Mech) unit).locationIsTorso(location);
+                } else if (unit instanceof SuperHeavyTank) {
+                    return location == SuperHeavyTank.LOC_FRONT || location == SuperHeavyTank.LOC_REAR;
+                } else if (unit instanceof Tank) {
+                    return location == Tank.LOC_FRONT || location == Tank.LOC_REAR;
+                } else if (unit.isFighter()) {
+                    return location == Aero.LOC_NOSE || location == Aero.LOC_AFT;
+                }
+                return true;
+            }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             if (unit instanceof Tank) {
             	if (location == Tank.LOC_BODY) {
             		return false;
@@ -4109,7 +4361,10 @@ public class UnitUtil {
      * @return Whether the unit can make use of the ammo
      */
     public static boolean canUseAmmo(Entity unit, AmmoType atype, boolean includeOneShot) {
+<<<<<<< HEAD
         boolean match = false;
+=======
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         if ((unit instanceof BattleArmor)
                 && !atype.hasFlag(AmmoType.F_BATTLEARMOR)){
             return false;
@@ -4129,11 +4384,19 @@ public class UnitUtil {
                 if ((wtype.getAmmoType() == atype.getAmmoType())
                         && (wtype.getRackSize() == atype.getRackSize())
                         && (includeOneShot || !((WeaponType) m.getType()).hasFlag(WeaponType.F_ONESHOT))) {
+<<<<<<< HEAD
                     match = true;
                 }
             }
         }
         return match;
+=======
+                    return true;
+                }
+            }
+        }
+        return false;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
 
     public static int countUsedCriticals(Mech unit) {
@@ -4201,7 +4464,11 @@ public class UnitUtil {
     }
 
     /**
+<<<<<<< HEAD
      * @deprecated Use {@link checkEquipmentByTechLevel(Entity,ITechManager)} instead
+=======
+     * @deprecated Use {@link UnitUtil#checkEquipmentByTechLevel(Entity, ITechManager)} instead
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
      */
     @Deprecated
     public static void checkEquipmentByTechLevel(Entity unit) {

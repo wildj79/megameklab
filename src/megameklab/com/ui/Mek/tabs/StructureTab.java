@@ -33,6 +33,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
+<<<<<<< HEAD
 import megamek.common.CriticalSlot;
 import megamek.common.Engine;
 import megamek.common.Entity;
@@ -47,6 +48,9 @@ import megamek.common.Mounted;
 import megamek.common.QuadVee;
 import megamek.common.SimpleTechLevel;
 import megamek.common.TechConstants;
+=======
+import megamek.common.*;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megamek.common.loaders.EntityLoadingException;
 import megamek.common.verifier.TestEntity;
 import megameklab.com.ui.EntitySource;
@@ -58,12 +62,20 @@ import megameklab.com.ui.view.MVFArmorView;
 import megameklab.com.ui.view.MekChassisView;
 import megameklab.com.ui.view.MovementView;
 import megameklab.com.ui.view.PatchworkArmorView;
+<<<<<<< HEAD
+=======
+import megameklab.com.ui.view.listeners.ArmorAllocationListener;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.view.listeners.MekBuildListener;
 import megameklab.com.util.ITab;
 import megameklab.com.util.RefreshListener;
 import megameklab.com.util.UnitUtil;
 
+<<<<<<< HEAD
 public class StructureTab extends ITab implements MekBuildListener {
+=======
+public class StructureTab extends ITab implements MekBuildListener, ArmorAllocationListener {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     /**
      *
      */
@@ -234,6 +246,13 @@ public class StructureTab extends ITab implements MekBuildListener {
             case Mech.GYRO_NONE:
                 UnitUtil.compactCriticals(getMech(), Mech.LOC_CT);
                 break;
+<<<<<<< HEAD
+=======
+            case Mech.GYRO_SUPERHEAVY:
+                clearCritsForGyro(2);
+                getMech().addGyro();
+                break;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             default:
                 clearCritsForGyro(4);
                 getMech().addGyro();
@@ -306,6 +325,23 @@ public class StructureTab extends ITab implements MekBuildListener {
                 clearCritsForCockpit(false, true);
                 getMech().addQuadVeeCockpit();
                 break;
+<<<<<<< HEAD
+=======
+            case Mech.COCKPIT_SUPERHEAVY_INDUSTRIAL:
+                clearCritsForCockpit(false, false);
+                getMech().addSuperheavyIndustrialCockpit();
+                getMech().setArmorType(
+                        EquipmentType.T_ARMOR_INDUSTRIAL);
+                break;
+            case Mech.COCKPIT_SUPERHEAVY_COMMAND_CONSOLE:
+                clearCritsForCockpit(false, true);
+                getMech().addSuperheavyCommandConsole();
+                break;
+            case Mech.COCKPIT_SMALL_COMMAND_CONSOLE:
+                clearCritsForCockpit(true, true);
+                getMech().addSmallCommandConsole();
+                break;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             default:
                 clearCritsForCockpit(false, false);
                 getMech().addCockpit();
@@ -497,6 +533,10 @@ public class StructureTab extends ITab implements MekBuildListener {
                         .getBaseChassisHeatSinks(getMech().hasCompactHeatSinks()));
                 getMech().setEngine(engine);
                 UnitUtil.updateAutoSinks(getMech(), getMech().hasCompactHeatSinks());
+<<<<<<< HEAD
+=======
+                resetSystemCrits();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             }
         }
         return true;
@@ -683,7 +723,14 @@ public class StructureTab extends ITab implements MekBuildListener {
         }
         getMech().setWeight(tonnage);
         // Force recalculation of walk MP. Set from chassis panel in case superheavy flag changed
+<<<<<<< HEAD
         getMech().setEngine(panChassis.getEngine());
+=======
+        final Engine engine = panChassis.getEngine();
+        engine.setBaseChassisHeatSinks(getMech().getEngine()
+                .getBaseChassisHeatSinks(getMech().hasCompactHeatSinks()));
+        getMech().setEngine(engine);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         getMech().autoSetInternal();
         if (getMech().isSuperHeavy()) {
             getMech().setOriginalJumpMP(0);
@@ -753,10 +800,19 @@ public class StructureTab extends ITab implements MekBuildListener {
 
                         if (motiveType == QuadVee.MOTIVE_WHEEL) {
                             ((QuadVee)getMech()).setMotiveType(QuadVee.MOTIVE_WHEEL);
+<<<<<<< HEAD
                             UnitUtil.createSpreadMounts(getMech(), EquipmentType.get("Wheels"));
                         } else {
                             ((QuadVee)getMech()).setMotiveType(QuadVee.MOTIVE_TRACK);
                             UnitUtil.createSpreadMounts(getMech(), EquipmentType.get("Tracks"));
+=======
+                            UnitUtil.createSpreadMounts(getMech(),
+                                    EquipmentType.get(EquipmentTypeLookup.QUADVEE_WHEELS));
+                        } else {
+                            ((QuadVee)getMech()).setMotiveType(QuadVee.MOTIVE_TRACK);
+                            UnitUtil.createSpreadMounts(getMech(),
+                                    EquipmentType.get(EquipmentTypeLookup.MECH_TRACKS));
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                         }
                     }
                 } else {
@@ -801,8 +857,19 @@ public class StructureTab extends ITab implements MekBuildListener {
                     .getBaseChassisHeatSinks(getMech().hasCompactHeatSinks()));
             getMech().setEngine(engine);
             resetSystemCrits();
+<<<<<<< HEAD
             UnitUtil.updateAutoSinks(getMech(), getMech().hasCompactHeatSinks());
             panMovement.setFromEntity(getMech());
+=======
+            // If the new engine has more weight-free heat sinks than are currently installed, add the extras.
+            int newHS = engine.getWeightFreeEngineHeatSinks() - getMech().heatSinks();
+            if (newHS > 0) {
+                UnitUtil.addHeatSinkMounts(getMech(), newHS, panHeat.getHeatSinkType());
+            }
+            UnitUtil.updateAutoSinks(getMech(), getMech().hasCompactHeatSinks());
+            panMovement.setFromEntity(getMech());
+            panHeat.setFromMech(getMech());
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             refreshSummary();
             refresh.refreshPreview();
             refresh.refreshStatus();
@@ -1313,4 +1380,8 @@ public class StructureTab extends ITab implements MekBuildListener {
         refresh.refreshStatus();
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8

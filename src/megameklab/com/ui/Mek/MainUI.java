@@ -25,6 +25,7 @@ import javax.swing.JTabbedPane;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.SwingConstants;
 
+<<<<<<< HEAD
 import megamek.common.BipedMech;
 import megamek.common.Engine;
 import megamek.common.Entity;
@@ -37,6 +38,9 @@ import megamek.common.QuadVee;
 import megamek.common.SimpleTechLevel;
 import megamek.common.TechConstants;
 import megamek.common.TripodMech;
+=======
+import megamek.common.*;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.MegaMekLabMainUI;
 import megameklab.com.ui.Mek.tabs.BuildTab;
 import megameklab.com.ui.Mek.tabs.EquipmentTab;
@@ -157,7 +161,11 @@ public class MainUI extends MegaMekLabMainUI {
         } else if (entityType == Entity.ETYPE_QUADVEE) {
             setEntity(new QuadVee(Mech.GYRO_STANDARD, QuadVee.MOTIVE_TRACK));
             getEntity().setTechLevel(TechConstants.T_CLAN_ADVANCED);
+<<<<<<< HEAD
             UnitUtil.createSpreadMounts((Mech)getEntity(), EquipmentType.get("Tracks"));
+=======
+            UnitUtil.createSpreadMounts((Mech)getEntity(), EquipmentType.get(EquipmentTypeLookup.MECH_TRACKS));
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             getEntity().setManualBV(-1);
         } else { // type == 0
             setEntity(new BipedMech(Mech.GYRO_STANDARD, cockpit));

@@ -51,6 +51,10 @@ import megameklab.com.ui.view.BAProtoArmorView;
 import megameklab.com.ui.view.BasicInfoView;
 import megameklab.com.ui.view.MovementView;
 import megameklab.com.ui.view.ProtomekChassisView;
+<<<<<<< HEAD
+=======
+import megameklab.com.ui.view.listeners.ArmorAllocationListener;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.view.listeners.ProtomekBuildListener;
 import megameklab.com.util.ITab;
 import megameklab.com.util.RefreshListener;
@@ -62,7 +66,11 @@ import megameklab.com.util.UnitUtil;
  * @author Neoancient
  *
  */
+<<<<<<< HEAD
 public class ProtomekStructureTab extends ITab implements ProtomekBuildListener {
+=======
+public class ProtomekStructureTab extends ITab implements ProtomekBuildListener, ArmorAllocationListener {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
     private static final long serialVersionUID = 6498316429919711881L;
     
@@ -455,7 +463,11 @@ public class ProtomekStructureTab extends ITab implements ProtomekBuildListener 
     }
 
     @Override
+<<<<<<< HEAD
     public void armorValueChanged(int points) {
+=======
+    public void armorFactorChanged(int points) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         double tonnage = EquipmentType.getProtomechArmorWeightPerPoint(
                 getProtomech().getArmorType(Protomech.LOC_TORSO))
                 * points;

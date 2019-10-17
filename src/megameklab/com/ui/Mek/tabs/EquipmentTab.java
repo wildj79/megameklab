@@ -69,6 +69,10 @@ import megamek.common.Mounted;
 import megamek.common.QuadVee;
 import megamek.common.WeaponType;
 import megamek.common.weapons.artillery.ArtilleryWeapon;
+<<<<<<< HEAD
+=======
+import megameklab.com.MegaMekLab;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.EntitySource;
 import megameklab.com.util.CriticalTableModel;
 import megameklab.com.util.EquipmentTableModel;
@@ -803,6 +807,7 @@ public class EquipmentTab extends ITab implements ActionListener {
         public int compare(String s0, String s1) {
             //lets find the weight class integer for each name
             DecimalFormat format = new DecimalFormat();
+<<<<<<< HEAD
             int l0 = 0;
             try {
                 l0 = format.parse(s0).intValue();
@@ -816,6 +821,23 @@ public class EquipmentTab extends ITab implements ActionListener {
                 e.printStackTrace();
             }
             return ((Comparable<Integer>)l0).compareTo(l1);
+=======
+            double l0 = 0.0;
+            try {
+                l0 = format.parse(s0).doubleValue();
+            } catch (java.text.ParseException e) {
+                MegaMekLab.getLogger().error(getClass(), "compare(String, String)",
+                        "Parse error comparing " + s0 + " and " + s1, e);
+            }
+            double l1 = 0.0;
+            try {
+                l1 = format.parse(s1).doubleValue();
+            } catch (java.text.ParseException e) {
+                MegaMekLab.getLogger().error(getClass(), "compare(String, String)",
+                        "Parse error comparing " + s0 + " and " + s1, e);
+            }
+            return Double.compare(l0, l1);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         }
     }
     

@@ -57,12 +57,20 @@ import megameklab.com.ui.view.BAEnhancementView;
 import megameklab.com.ui.view.BAProtoArmorView;
 import megameklab.com.ui.view.BasicInfoView;
 import megameklab.com.ui.view.MovementView;
+<<<<<<< HEAD
+=======
+import megameklab.com.ui.view.listeners.ArmorAllocationListener;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.view.listeners.BABuildListener;
 import megameklab.com.util.ITab;
 import megameklab.com.util.RefreshListener;
 import megameklab.com.util.UnitUtil;
 
+<<<<<<< HEAD
 public class StructureTab extends ITab implements ActionListener, BABuildListener {
+=======
+public class StructureTab extends ITab implements ActionListener, BABuildListener, ArmorAllocationListener {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
 	/**
 	 *
@@ -655,7 +663,11 @@ public class StructureTab extends ITab implements ActionListener, BABuildListene
     }
 
     @Override
+<<<<<<< HEAD
     public void armorValueChanged(int points) {
+=======
+    public void armorFactorChanged(int points) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         for(int i = 0; i < getBattleArmor().locations(); i++) {
             getBattleArmor().initializeArmor(points, i);
         }
@@ -667,9 +679,15 @@ public class StructureTab extends ITab implements ActionListener, BABuildListene
     public void armorTypeChanged(EquipmentType armor) {
         UnitUtil.removeISorArmorMounts(getBattleArmor(), false);
         int armorCount = armor.getCriticals(getBattleArmor());
+<<<<<<< HEAD
         getBattleArmor().setArmorType(armor.getInternalName());
         getBattleArmor().setArmorTechLevel(
                 armor.getTechLevel(getBattleArmor().getYear()));
+=======
+        getBattleArmor().setArmorTechLevel(
+                armor.getTechLevel(getBattleArmor().getYear()));
+        getBattleArmor().setArmorType(armor.getInternalName());
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
         for (; armorCount > 0; armorCount--) {
             try {
@@ -686,7 +704,11 @@ public class StructureTab extends ITab implements ActionListener, BABuildListene
     
     @Override
     public void maximizeArmor() {
+<<<<<<< HEAD
         armorValueChanged(getBattleArmor().getMaximumArmorPoints());
+=======
+        armorFactorChanged(getBattleArmor().getMaximumArmorPoints());
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         panArmor.removeListener(this);
         panArmor.setFromEntity(getBattleArmor());
         panArmor.addListener(this);
@@ -703,7 +725,11 @@ public class StructureTab extends ITab implements ActionListener, BABuildListene
         int points = (int) UnitUtil.getRawArmorPoints(getBattleArmor(), remainingTonnage);
         int maxArmor = Math.min(getBattleArmor().getMaximumArmorPoints(),
                 points + getBattleArmor().getOArmor(BattleArmor.LOC_TROOPER_1));
+<<<<<<< HEAD
         armorValueChanged(maxArmor);
+=======
+        armorFactorChanged(maxArmor);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         panArmor.removeListener(this);
         panArmor.setFromEntity(getBattleArmor());
         panArmor.addListener(this);

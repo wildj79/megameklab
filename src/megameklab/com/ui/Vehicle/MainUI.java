@@ -96,7 +96,11 @@ public class MainUI extends MegaMekLabMainUI {
         statusbar = new StatusBar(this);
         structureTab = new StructureTab(this);
         equipmentTab = new EquipmentTab(this);
+<<<<<<< HEAD
         buildTab = new BuildTab(this, equipmentTab);
+=======
+        buildTab = new BuildTab(this, equipmentTab.getEquipmentList());
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         fluffTab = new FluffTab(this);
         structureTab.addRefreshedListener(this);
         equipmentTab.addRefreshedListener(this);

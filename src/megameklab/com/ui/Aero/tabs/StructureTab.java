@@ -44,7 +44,11 @@ import megamek.common.verifier.TestAero;
 import megamek.common.verifier.TestEntity;
 import megameklab.com.ui.EntitySource;
 import megameklab.com.ui.Aero.views.SummaryView;
+<<<<<<< HEAD
 import megameklab.com.ui.view.AeroFuelView;
+=======
+import megameklab.com.ui.view.FuelView;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.view.ArmorAllocationView;
 import megameklab.com.ui.view.BasicInfoView;
 import megameklab.com.ui.view.FighterChassisView;
@@ -53,11 +57,19 @@ import megameklab.com.ui.view.MVFArmorView;
 import megameklab.com.ui.view.MovementView;
 import megameklab.com.ui.view.PatchworkArmorView;
 import megameklab.com.ui.view.listeners.AeroBuildListener;
+<<<<<<< HEAD
+=======
+import megameklab.com.ui.view.listeners.ArmorAllocationListener;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.util.ITab;
 import megameklab.com.util.RefreshListener;
 import megameklab.com.util.UnitUtil;
 
+<<<<<<< HEAD
 public class StructureTab extends ITab implements AeroBuildListener {
+=======
+public class StructureTab extends ITab implements AeroBuildListener, ArmorAllocationListener {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
     /**
      *
@@ -69,7 +81,11 @@ public class StructureTab extends ITab implements AeroBuildListener {
     private FighterChassisView panChassis;
     private MVFArmorView panArmor;
     private MovementView panMovement;
+<<<<<<< HEAD
     private AeroFuelView panFuel;
+=======
+    private FuelView panFuel;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     private HeatSinkView panHeat;
     private SummaryView panSummary;
     private ArmorAllocationView panArmorAllocation;
@@ -91,7 +107,11 @@ public class StructureTab extends ITab implements AeroBuildListener {
         panChassis = new FighterChassisView(panInfo);
         panArmor = new MVFArmorView(panInfo);
         panMovement = new MovementView(panInfo);
+<<<<<<< HEAD
         panFuel = new AeroFuelView();
+=======
+        panFuel = new FuelView();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         panHeat = new HeatSinkView(panInfo);
         panArmorAllocation = new ArmorAllocationView(panInfo, Entity.ETYPE_AERO);
         panPatchwork = new PatchworkArmorView(panInfo);
@@ -575,6 +595,18 @@ public class StructureTab extends ITab implements AeroBuildListener {
     }
 
     @Override
+<<<<<<< HEAD
+=======
+    public void fuelCapacityChanged(int capacity) {
+        getAero().setFuel(capacity);
+        panFuel.setFromEntity(getAero());
+        panSummary.refresh();
+        refresh.refreshStatus();
+        refresh.refreshPreview();
+    }
+
+    @Override
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public void armorPointsChanged(int location, int front, int rear) {
         getAero().initializeArmor(front, location);
         getAero().initializeThresh(location);

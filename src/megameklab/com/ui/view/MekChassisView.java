@@ -33,6 +33,7 @@ import javax.swing.SpinnerNumberModel;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
+<<<<<<< HEAD
 import megamek.common.Engine;
 import megamek.common.Entity;
 import megamek.common.EntityWeightClass;
@@ -45,6 +46,9 @@ import megamek.common.Mounted;
 import megamek.common.QuadVee;
 import megamek.common.SimpleTechLevel;
 import megamek.common.TechConstants;
+=======
+import megamek.common.*;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megamek.common.util.EncodeControl;
 import megameklab.com.ui.util.CustomComboBox;
 import megameklab.com.ui.util.TechComboBox;
@@ -139,6 +143,7 @@ public class MekChassisView extends BuildView implements ActionListener, ChangeL
     
     private static final int[] GENERAL_COCKPITS = {
             Mech.COCKPIT_STANDARD, Mech.COCKPIT_SMALL, Mech.COCKPIT_COMMAND_CONSOLE,
+<<<<<<< HEAD
             Mech.COCKPIT_TORSO_MOUNTED, Mech.COCKPIT_DUAL, Mech.COCKPIT_INTERFACE,
             Mech.COCKPIT_VRRP
     };
@@ -149,6 +154,17 @@ public class MekChassisView extends BuildView implements ActionListener, ChangeL
     
     public static final EquipmentType EJECTION_SEAT = EquipmentType.get("Ejection Seat (Industrial Mech)");
     
+=======
+            Mech.COCKPIT_SMALL_COMMAND_CONSOLE, Mech.COCKPIT_TORSO_MOUNTED, 
+            Mech.COCKPIT_DUAL, Mech.COCKPIT_INTERFACE, Mech.COCKPIT_VRRP
+    };
+    
+    private static final String[] ENHANCEMENT_NAMES = {
+            EquipmentTypeLookup.IS_MASC, EquipmentTypeLookup.CLAN_MASC,
+            EquipmentTypeLookup.TSM, EquipmentTypeLookup.SCM
+    };
+    
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     private final ITechManager techManager;
     private String stdMotiveTooltip;
     private String lamMotiveTooltip;
@@ -407,10 +423,17 @@ public class MekChassisView extends BuildView implements ActionListener, ChangeL
         spnTonnage.removeChangeListener(this);
         if (getBaseTypeIndex() == BASE_TYPE_LAM) {
             max = 55;
+<<<<<<< HEAD
         } else if ((getBaseTypeIndex() == BASE_TYPE_STANDARD)
                 && techManager.isLegal(Mech.getTechAdvancement(Entity.ETYPE_MECH, false, false,
                         EntityWeightClass.WEIGHT_SUPER_HEAVY))) {
             max = 200;;
+=======
+        } else if (((getBaseTypeIndex() == BASE_TYPE_STANDARD) || (getBaseTypeIndex() == BASE_TYPE_INDUSTRIAL))
+                && techManager.isLegal(Mech.getTechAdvancement(Entity.ETYPE_MECH, false,
+                getBaseTypeIndex() == BASE_TYPE_INDUSTRIAL, EntityWeightClass.WEIGHT_SUPER_HEAVY))) {
+            max = 200;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         }
         if (techManager.isLegal(Mech.getTechAdvancement(Entity.ETYPE_MECH, false, false,
                 EntityWeightClass.WEIGHT_ULTRA_LIGHT))) {
@@ -527,13 +550,30 @@ public class MekChassisView extends BuildView implements ActionListener, ChangeL
         } else if (getBaseTypeIndex() == BASE_TYPE_QUADVEE) {
             cbCockpit.addItem(Mech.COCKPIT_QUADVEE);
         } else if (isSuperheavy()) {
+<<<<<<< HEAD
             cbCockpit.addItem(isIndustrial()? Mech.COCKPIT_SUPERHEAVY_INDUSTRIAL : Mech.COCKPIT_SUPERHEAVY);
+=======
+            if(isIndustrial()){
+                cbCockpit.addItem(Mech.COCKPIT_SUPERHEAVY_INDUSTRIAL);
+                if (techManager.isLegal(Mech.getIndustrialAdvFireConTA())) {
+                    cbCockpit.addItem(Mech.COCKPIT_SUPERHEAVY);
+                    cbCockpit.addItem(Mech.COCKPIT_SUPERHEAVY_COMMAND_CONSOLE);
+                }
+            }else{
+                cbCockpit.addItem(Mech.COCKPIT_SUPERHEAVY);
+                cbCockpit.addItem(Mech.COCKPIT_SUPERHEAVY_COMMAND_CONSOLE);
+            }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         } else if (isPrimitive()) {
             cbCockpit.addItem(isIndustrial()? Mech.COCKPIT_PRIMITIVE_INDUSTRIAL : Mech.COCKPIT_PRIMITIVE);
         } else if (isIndustrial()) {
             cbCockpit.addItem(Mech.COCKPIT_INDUSTRIAL);
             if (techManager.isLegal(Mech.getIndustrialAdvFireConTA())) {
                 cbCockpit.addItem(Mech.COCKPIT_STANDARD);
+<<<<<<< HEAD
+=======
+                cbCockpit.addItem(Mech.COCKPIT_COMMAND_CONSOLE);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             }
         } else {
             for (int cockpitType : GENERAL_COCKPITS) {
@@ -557,7 +597,11 @@ public class MekChassisView extends BuildView implements ActionListener, ChangeL
         cbEnhancement.addItem(null);
         if (!isSuperheavy() && !isPrimitive()) {
             if (isIndustrial()) {
+<<<<<<< HEAD
                 EquipmentType eq = EquipmentType.get("Industrial TSM"); //$NON-NLS-1$
+=======
+                EquipmentType eq = EquipmentType.get(EquipmentTypeLookup.ITSM); //$NON-NLS-1$
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 if (techManager.isLegal(eq)) {
                     cbEnhancement.addItem(eq);
                 }
@@ -690,9 +734,18 @@ public class MekChassisView extends BuildView implements ActionListener, ChangeL
         if (null == e) {
             return null;
         }
+<<<<<<< HEAD
         // Clan and large flags are specific to the engine. the superheavy flag depends on the mech
         // and may have changed since the last refresh.
         int flags = e.getFlags() & (Engine.CLAN_ENGINE | Engine.LARGE_ENGINE);
+=======
+        // Clan flag is specific to the engine. the superheavy and large flags depend on the mech
+        // and rating and may have changed since the last refresh.
+        int flags = e.getFlags() & Engine.CLAN_ENGINE;
+        if (getEngineRating() > 400) {
+            flags |= Engine.LARGE_ENGINE;
+        }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         if (isSuperheavy()) {
             flags |= Engine.SUPERHEAVY_ENGINE;
         }

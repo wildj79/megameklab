@@ -72,6 +72,10 @@ public class CConfig {
     public static final String CONFIG_SAVE_LOC = "Save-Location-Default";
     public static final String CONFIG_PLAF = "lookAndFeel";
     
+<<<<<<< HEAD
+=======
+    public static final String RS_FONT = "rs_font";
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public static final String RS_SHOW_QUIRKS = "rs_show_quirks";
     public static final String RS_SHOW_PILOT_DATA = "rs_show_pilot_data";
     public static final String RS_SHOW_ERA = "rs_show_era";

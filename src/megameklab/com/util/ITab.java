@@ -20,6 +20,7 @@ import java.awt.Dimension;
 import javax.swing.JComponent;
 import javax.swing.JPanel;
 
+<<<<<<< HEAD
 import megamek.common.Aero;
 import megamek.common.BattleArmor;
 import megamek.common.Infantry;
@@ -29,6 +30,9 @@ import megamek.common.Protomech;
 import megamek.common.SmallCraft;
 import megamek.common.Tank;
 import megamek.common.VTOL;
+=======
+import megamek.common.*;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.EntitySource;
 
 public class ITab extends JPanel {
@@ -43,6 +47,11 @@ public class ITab extends JPanel {
         this.eSource = eSource;
     }
 
+<<<<<<< HEAD
+=======
+    public Entity getEntity() { return eSource.getEntity(); }
+
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public Mech getMech() {
         return (Mech) eSource.getEntity();
     }

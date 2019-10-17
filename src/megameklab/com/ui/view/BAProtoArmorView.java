@@ -39,7 +39,11 @@ import megamek.common.annotations.Nullable;
 import megamek.common.util.EncodeControl;
 import megamek.common.verifier.TestProtomech;
 import megameklab.com.ui.util.TechComboBox;
+<<<<<<< HEAD
 import megameklab.com.ui.view.listeners.BuildListener;
+=======
+import megameklab.com.ui.view.listeners.ArmorAllocationListener;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.util.UnitUtil;
 
 /**
@@ -55,11 +59,19 @@ public class BAProtoArmorView extends BuildView implements ActionListener, Chang
      */
     private static final long serialVersionUID = 14527455823813010L;
 
+<<<<<<< HEAD
     private final List<BuildListener> listeners = new CopyOnWriteArrayList<>();
     public void addListener(BuildListener l) {
         listeners.add(l);
     }
     public void removeListener(BuildListener l) {
+=======
+    private final List<ArmorAllocationListener> listeners = new CopyOnWriteArrayList<>();
+    public void addListener(ArmorAllocationListener l) {
+        listeners.add(l);
+    }
+    public void removeListener(ArmorAllocationListener l) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         listeners.remove(l);
     }
     
@@ -201,7 +213,11 @@ public class BAProtoArmorView extends BuildView implements ActionListener, Chang
     @Override
     public void stateChanged(ChangeEvent e) {
         if (e.getSource() == spnArmorPoints) {
+<<<<<<< HEAD
             listeners.forEach(l -> l.armorValueChanged(spnArmorPointsModel.getNumber().intValue()));
+=======
+            listeners.forEach(l -> l.armorFactorChanged(spnArmorPointsModel.getNumber().intValue()));
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         }
     }
 

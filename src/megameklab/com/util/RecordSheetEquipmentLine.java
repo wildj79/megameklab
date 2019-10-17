@@ -92,7 +92,11 @@ public class RecordSheetEquipmentLine {
     
     public String getHeatField(int row) {
         if (row == 0) {
+<<<<<<< HEAD
             if (eqInfo.isWeapon) {
+=======
+            if (eqInfo.heat > 0) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 return Integer.toString(eqInfo.heat);
             } else {
                 return DASH;

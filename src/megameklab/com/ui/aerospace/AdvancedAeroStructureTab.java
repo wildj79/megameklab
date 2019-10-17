@@ -35,7 +35,11 @@ import megamek.common.Warship;
 import megamek.common.verifier.TestEntity;
 import megameklab.com.ui.EntitySource;
 import megameklab.com.ui.view.AdvancedAeroChassisView;
+<<<<<<< HEAD
 import megameklab.com.ui.view.AeroFuelView;
+=======
+import megameklab.com.ui.view.FuelView;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.ui.view.AerospaceCrewView;
 import megameklab.com.ui.view.ArmorAllocationView;
 import megameklab.com.ui.view.BasicInfoView;
@@ -44,6 +48,10 @@ import megameklab.com.ui.view.HeatSinkView;
 import megameklab.com.ui.view.MVFArmorView;
 import megameklab.com.ui.view.MovementView;
 import megameklab.com.ui.view.listeners.AdvancedAeroBuildListener;
+<<<<<<< HEAD
+=======
+import megameklab.com.ui.view.listeners.ArmorAllocationListener;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megameklab.com.util.ITab;
 import megameklab.com.util.RefreshListener;
 import megameklab.com.util.UnitUtil;
@@ -52,7 +60,11 @@ import megameklab.com.util.UnitUtil;
  * @author Neoancient
  *
  */
+<<<<<<< HEAD
 public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildListener {
+=======
+public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildListener, ArmorAllocationListener {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
     /**
      * 
@@ -64,7 +76,11 @@ public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildL
     private AdvancedAeroChassisView panChassis;
     private MVFArmorView panArmor;
     private MovementView panMovement;
+<<<<<<< HEAD
     private AeroFuelView panFuel;
+=======
+    private FuelView panFuel;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     private HeatSinkView panHeat;
     private AerospaceCrewView panCrew;
     private GravDeckView panGravDecks;
@@ -87,7 +103,11 @@ public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildL
         panChassis = new AdvancedAeroChassisView(panInfo);
         panArmor = new MVFArmorView(panInfo);
         panMovement = new MovementView(panInfo);
+<<<<<<< HEAD
         panFuel = new AeroFuelView();
+=======
+        panFuel = new FuelView();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         panHeat = new HeatSinkView(panInfo);
         panCrew = new AerospaceCrewView(panInfo);
         panGravDecks = new GravDeckView();
@@ -224,6 +244,10 @@ public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildL
         panChassis.setAsCustomization();
     }
 
+<<<<<<< HEAD
+=======
+    @Override
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public void refreshSummary() {
         panSummary.refresh();
         // We're going to cheat and recalculate minimum crew values here in case the number of gunners changed.
@@ -401,6 +425,10 @@ public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildL
         panCrew.setFromEntity(getJumpship());
         getJumpship().autoSetInternal();
         refresh();
+<<<<<<< HEAD
+=======
+        refresh.refreshTransport();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         refresh.refreshPreview();
         refresh.refreshStatus();
     }
@@ -475,6 +503,10 @@ public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildL
         refresh();
         refresh.refreshEquipment();
         refresh.refreshBuild();
+<<<<<<< HEAD
+=======
+        refresh.refreshTransport();
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         refresh.refreshPreview();
         refresh.refreshStatus();
     }
@@ -507,6 +539,18 @@ public class AdvancedAeroStructureTab extends ITab implements AdvancedAeroBuildL
     }
 
     @Override
+<<<<<<< HEAD
+=======
+    public void fuelCapacityChanged(int capacity) {
+        getAero().setFuel(capacity);
+        panFuel.setFromEntity(getAero());
+        panSummary.refresh();
+        refresh.refreshStatus();
+        refresh.refreshPreview();
+    }
+
+    @Override
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public void armorPointsChanged(int location, int front, int rear) {
         getJumpship().initializeArmor(front, location);
         getJumpship().initializeThresh(location);

@@ -38,7 +38,10 @@ import megamek.common.Tank;
 import megamek.common.TechAdvancement;
 import megamek.common.WeaponType;
 import megamek.common.verifier.TestProtomech;
+<<<<<<< HEAD
 import megamek.common.weapons.autocannons.RACWeapon;
+=======
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 import megamek.common.weapons.autocannons.UACWeapon;
 import megamek.common.weapons.gaussrifles.HAGWeapon;
 import megamek.common.weapons.infantry.InfantryWeapon;
@@ -82,8 +85,13 @@ public class EquipmentTableModel extends AbstractTableModel {
     public final static int COL_REF = 21;
     public final static int N_COL = 22;
 
+<<<<<<< HEAD
     private ArrayList<EquipmentType> data = new ArrayList<EquipmentType>();
     private Entity entity = null;
+=======
+    private ArrayList<EquipmentType> data = new ArrayList<>();
+    private Entity entity;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     final private ITechManager techManager;
 
     public EquipmentTableModel(Entity e, ITechManager techManager) {
@@ -179,6 +187,7 @@ public class EquipmentTableModel extends AbstractTableModel {
         }
     }
 
+<<<<<<< HEAD
     public int getAlignment(int col) {
         switch (col) {
             case COL_NAME:
@@ -195,6 +204,13 @@ public class EquipmentTableModel extends AbstractTableModel {
             default:
                 return null;
         }
+=======
+    private int getAlignment(int col) {
+        if (col == COL_NAME) {
+            return SwingConstants.LEFT;
+        }
+        return SwingConstants.CENTER;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     }
 
     @Override
@@ -312,6 +328,7 @@ public class EquipmentTableModel extends AbstractTableModel {
             }
             return special;
         } else if (col == COL_HEAT) {
+<<<<<<< HEAD
             if (null != wtype) {
                 if (entity instanceof Aero) {
                     return Integer.toString(wtype.getHeat()
@@ -321,6 +338,16 @@ public class EquipmentTableModel extends AbstractTableModel {
                 }
             } else {
                 return "-";
+=======
+            int heat = type.getHeat();
+            if ((null != wtype) && (entity instanceof Aero)) {
+                heat *= Mounted.getNumShots(wtype,  null,  true);
+            }
+            if (heat == 0) {
+                return "-";
+            } else {
+                return Integer.toString(heat);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             }
         } else if (col == COL_SHOTS) {
             if (null != atype) {
@@ -340,7 +367,11 @@ public class EquipmentTableModel extends AbstractTableModel {
                             return "Long";
                         case RangeType.RANGE_EXTREME:
                             return "Extreme";
+<<<<<<< HEAD
                     };
+=======
+                    }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 }
                 if (wtype instanceof InfantryWeapon) {
                     return ((InfantryWeapon) wtype).getInfantryRange() + "";
@@ -373,7 +404,13 @@ public class EquipmentTableModel extends AbstractTableModel {
                 return String.valueOf(type.getTonnage(entity));
             }
         } else if (col == COL_CRIT) {
+<<<<<<< HEAD
             if (entity instanceof Tank) {
+=======
+            if (entity.isSupportVehicle()) {
+                return type.getSupportVeeSlots(entity);
+            } else if (entity instanceof Tank) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                 return type.getTankslots(entity);
             } else if (entity.hasETypeFlag(Entity.ETYPE_PROTOMECH)) {
                 return TestProtomech.requiresSlot(type)? 1 : 0;
@@ -426,7 +463,11 @@ public class EquipmentTableModel extends AbstractTableModel {
     private static String getDamageString(WeaponType wtype, boolean isAero) {
         // Aeros should print AV instead
         if (isAero) {
+<<<<<<< HEAD
             int attackValue[] = new int[RangeType.RANGE_EXTREME + 1];
+=======
+            int[] attackValue = new int[RangeType.RANGE_EXTREME + 1];
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             attackValue[RangeType.RANGE_SHORT] = (int)wtype.getShortAV();
             attackValue[RangeType.RANGE_MEDIUM] = (int)wtype.getMedAV();
             attackValue[RangeType.RANGE_LONG] = (int)wtype.getLongAV();
@@ -437,10 +478,17 @@ public class EquipmentTableModel extends AbstractTableModel {
                     allEq = false;
                 }                    
             }
+<<<<<<< HEAD
             StringBuffer avString = new StringBuffer();
             avString.append(attackValue[RangeType.RANGE_SHORT]);
             if (!allEq) {
                 for (int i = 2; i <= wtype.maxRange && allEq; i++) {
+=======
+            StringBuilder avString = new StringBuilder();
+            avString.append(attackValue[RangeType.RANGE_SHORT]);
+            if (!allEq) {
+                for (int i = 2; i <= wtype.maxRange; i++) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                     avString.append('/').append(attackValue[i]);
                 }
             }
@@ -488,8 +536,12 @@ public class EquipmentTableModel extends AbstractTableModel {
             return "Cluster";
         } else if (wtype.getDamage() == WeaponType.DAMAGE_ARTILLERY) {
             return wtype.getRackSize() + "A";
+<<<<<<< HEAD
         } else if ((wtype instanceof RACWeapon) 
                 || (wtype instanceof UACWeapon)) {
+=======
+        } else if (wtype instanceof UACWeapon) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             return wtype.getDamage() + "/Shot";            
         } else if (wtype.getDamage() < 0) {
             return "Special";
@@ -517,7 +569,10 @@ public class EquipmentTableModel extends AbstractTableModel {
             int actualCol = table.convertColumnIndexToModel(column);
             int actualRow = table.convertRowIndexToModel(row);
             setHorizontalAlignment(getAlignment(actualCol));
+<<<<<<< HEAD
             setToolTipText(getTooltip(actualRow, actualCol));
+=======
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             EquipmentType etype = ((EquipmentTableModel) table.getModel()).getType(actualRow);
             if (null != techManager && !techManager.isLegal(etype)) {
                 setForeground(Color.gray);

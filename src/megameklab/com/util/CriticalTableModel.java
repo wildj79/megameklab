@@ -44,7 +44,11 @@ public class CriticalTableModel extends AbstractTableModel {
      */
     private static final long serialVersionUID = 7615555055651822051L;
 
+<<<<<<< HEAD
     public Mounted[] sortedEquipment = {};
+=======
+    private Mounted[] sortedEquipment = {};
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
     public Vector<Mounted> crits = new Vector<Mounted>();
     public Entity unit;
 
@@ -62,9 +66,15 @@ public class CriticalTableModel extends AbstractTableModel {
     private int tableType = EQUIPMENTTABLE;
     private boolean kgStandard = false;
 
+<<<<<<< HEAD
     String[] columnNames = { "Name", "Tons", "Crits"};
 
     String[] longValues = { "XXXXXXXXX", "XXXXXXXXX", "XXXXXXXXX"};
+=======
+    private String[] columnNames = { "Name", "Tons", "Crits"};
+
+    private String[] longValues = { "XXXXXXXXX", "XXXXXXXXX", "XXXXXXXXX"};
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
 
     @Override
     public int getColumnCount() {
@@ -85,7 +95,11 @@ public class CriticalTableModel extends AbstractTableModel {
         if (kgStandard) {
             columnNames[TONNAGE] = "Kg";
         }
+<<<<<<< HEAD
         if ((unit instanceof Mech) || ((unit instanceof Tank) && ((Tank) unit).isSupportVehicle())) {
+=======
+        if ((unit instanceof Mech) || unit.isSupportVehicle()) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             columnNames[CRITS] = "Crits";
         }
         
@@ -106,10 +120,17 @@ public class CriticalTableModel extends AbstractTableModel {
     }
 
     public void initColumnSizes(JTable table) {
+<<<<<<< HEAD
         TableColumn column = null;
         Component comp = null;
         int headerWidth = 0;
         int cellWidth = 0;
+=======
+        TableColumn column;
+        Component comp;
+        int headerWidth = 0;
+        int cellWidth;
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         CriticalTableModel model = this;
         for (int i = 0; i < getColumnCount(); i++) {
             column = table.getColumnModel().getColumn(i);
@@ -171,6 +192,12 @@ public class CriticalTableModel extends AbstractTableModel {
                 return tonnage;
             }
         case CRITS:
+<<<<<<< HEAD
+=======
+            if (unit.isSupportVehicle()) {
+                return crit.getType().getSupportVeeSlots(unit);
+            }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
             if (unit instanceof Tank) {
                 return crit.getType().getTankslots(unit);
             }
@@ -297,8 +324,13 @@ public class CriticalTableModel extends AbstractTableModel {
      * 
      * @param locs  An array of indices that specifies the crits to remove
      */
+<<<<<<< HEAD
     public void removeCrits(int locs[]) {
         Vector<Mounted> mounts = new Vector<Mounted>(locs.length);
+=======
+    public void removeCrits(int[] locs) {
+        Vector<Mounted> mounts = new Vector<>(locs.length);
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         for (Integer l : locs){
             mounts.add(crits.elementAt(l));
         }
@@ -318,7 +350,11 @@ public class CriticalTableModel extends AbstractTableModel {
         return crits;
     }
 
+<<<<<<< HEAD
     public int getAlignment(int col) {
+=======
+    private int getAlignment(int col) {
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
         switch (col) {
             case NAME:
                 return SwingConstants.LEFT;

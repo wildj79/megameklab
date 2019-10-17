@@ -309,6 +309,12 @@ public class BuildView extends IView implements ActionListener, MouseListener {
                         { Mech.LOC_CT, Mech.LOC_RARM, Mech.LOC_RLEG };
 
                     for (int location = 0; location < 3; location++) {
+<<<<<<< HEAD
+=======
+                        if (!UnitUtil.isValidLocation(getMech(), eq.getType(), splitLocations[location])) {
+                            continue;
+                        }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                         JMenu subMenu = new JMenu(String.format("%1$s/%2$s", abbrLocations[Mech.LOC_RT], abbrLocations[splitLocations[location]]));
                         int subCrits = critSpace[splitLocations[location]];
                         for (int slots = 1; slots <= subCrits; slots++) {
@@ -343,6 +349,12 @@ public class BuildView extends IView implements ActionListener, MouseListener {
                         { Mech.LOC_CT, Mech.LOC_LARM, Mech.LOC_LLEG };
 
                     for (int location = 0; location < 3; location++) {
+<<<<<<< HEAD
+=======
+                        if (!UnitUtil.isValidLocation(getMech(), eq.getType(), splitLocations[location])) {
+                            continue;
+                        }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                         JMenu subMenu = new JMenu(String.format("%1$s/%2$s", abbrLocations[Mech.LOC_LT], abbrLocations[splitLocations[location]]));
                         int subCrits = critSpace[splitLocations[location]];
                         for (int slots = 1; slots <= subCrits; slots++) {
@@ -367,7 +379,13 @@ public class BuildView extends IView implements ActionListener, MouseListener {
 
             } else {
                 for (int location = 0; location < getMech().locations(); location++) {
+<<<<<<< HEAD
 
+=======
+                    if (!UnitUtil.isValidLocation(getMech(), eq.getType(), location)) {
+                        continue;
+                    }
+>>>>>>> 8d4751035a3393010991327be554030018ec06b8
                     if ((UnitUtil.getHighestContinuousNumberOfCrits(getMech(), location) >= totalCrits)  && UnitUtil.isValidLocation(getMech(), eq.getType(), location)) {
                         item = new JMenuItem("Add to " + locations[location]);
 
